@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "newsletter/Newsletter special issue.md",
+                "file": "el notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "newsletter/Newsletter special issue.md",
+                "file": "el notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "newsletter/Newsletter special issue.md",
+                "file": "el notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "newsletter/Newsletter special issue.md"
+                "file": "el notes.md"
               }
             }
           },
@@ -163,10 +163,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "322c528cb7f7b225",
+  "active": "edd7d25feabdcf5b",
   "lastOpenFiles": [
-    "readme.md",
     "newsletter/Newsletter special issue.md",
+    "readme.md",
     "obsidian format/Obsidian-formatting.md",
     "obsidian format/markus-spiske-666905-unsplash.jpg"
   ]
