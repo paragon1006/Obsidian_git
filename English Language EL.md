@@ -24,5 +24,4 @@ active recall, interleaving and spaced repetition
  You have recently visited an exhibition of modern art at a museum. Write a review of the exhibition which will be published on a website called Art Today. Write between 600 & 900 words.
  
  1. Painting that ages as you walk past it
-	 1. fmekfm
  2. 
