@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English Language EL.md",
+                "file": "newsletter/Newsletter special issue.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English Language EL.md",
+                "file": "newsletter/Newsletter special issue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English Language EL.md",
+                "file": "newsletter/Newsletter special issue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English Language EL.md"
+                "file": "newsletter/Newsletter special issue.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "edd7d25feabdcf5b",
   "lastOpenFiles": [
+    "English Language EL.md",
     "newsletter/Newsletter special issue.md",
     "readme.md",
     "obsidian format/Obsidian-formatting.md",
