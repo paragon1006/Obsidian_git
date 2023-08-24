@@ -1,3 +1,4 @@
+[Obsidian Help](https://help.obsidian.md)
 # Basic formatting
 
 ### Paragraphs

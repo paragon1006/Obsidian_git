@@ -11,24 +11,15 @@
             "id": "edd7d25feabdcf5b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b897de573a8a906d",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "newsletter/Newsletter special issue.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,14 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "newsletter/Newsletter special issue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -111,9 +102,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "newsletter/Newsletter special issue.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "newsletter/Newsletter special issue.md"
               }
             }
           },
@@ -145,13 +136,22 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "acb0b20ef808921c",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 317.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,8 +164,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b897de573a8a906d",
+  "active": "edd7d25feabdcf5b",
   "lastOpenFiles": [
+    "obsidian format/Obsidian-formatting.md",
     "readme.md"
   ]
 }
