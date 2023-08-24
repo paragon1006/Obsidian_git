@@ -22,3 +22,6 @@ active recall, interleaving and spaced repetition
  In class, you have been discussing wether sending criminals to prison is an effective way of reducing crime. Write an article for your school magazine. In your writing discuss the advantages and disadvantages of sending criminals prison. Write between 600 & 900 words.
 ### Question 4
  You have recently visited an exhibition of modern art at a museum. Write a review of the exhibition which will be published on a website called Art Today. Write between 600 & 900 words.
+ 
+ 1. Painting that ages as you walk past it
+ 2. 
