@@ -26,4 +26,16 @@ WISMUN delegates underwent training sessions in Pawan Baug and Chikoowadi, under
 
 # Ceremony
 ## opening
+As we began our journey into WISMUN 2K23, Siya Raikar and Vedant Torgal, AS Level students, skillfully guided the opening ceremony. The event commenced with a captivating speech delivered by the Director General, Yashvi Mange. This was succeeded by the introduction of the Secretariat and Executive Board members. Adding to the charm, students from Witty Chikoowadi presented an engaging dance performance for the audience's delight.
+
+Furthermore, the Chief Guest, Mr. Sonal Verma, and the Guest of Honour, Mr. Shishir Joshi, delivered engaging speeches that ignited tremendous enthusiasm among the students. Mrs. Sheetal Kapoor, the head of training, counseling, curriculum, and principal of Chikoowadi, also graced the stage with a speech. The opening ceremony reached its peak, leaving everyone in high spirits as delegates were subsequently directed to their respective committees.
+
+~ Unnati Shah, AS Level
 ## closing
+Kareena Faria and Rishabh Vazir from AS Level gracefully hosted the closing ceremony. It commenced off with honoring the Secretariat and Executive boards, followed by captivating performances of singing, dancing, and stand-up comedy by the delegates. The event featured speeches from notable authorities including the Cambridge principal, Dr. Shunila Joy Chauhan, The Principle of ICSE, Ms. Sonia Rana, Chief trainer Nuaym Shaikh, and Supervising teacher Dr. Kaushal Shah.
+
+Vidhaan Khotari, the secretary general, took the stage to express gratitude and offer congratulations to the team members and delegates for their remarkable participation in WISMUN 2K23. Delegates were treated to a behind-the-scenes video showcasing the tireless efforts of the organizing team. The music and dance ensemble then delivered a series of sensational performances that left everyone enthralled.
+
+Following these captivating segments, the ceremony reached its pinnacle with the announcement of the top-performing delegates. This included distinctions such as Best Delegate, Outstanding Delegate, and Special Mention. As a culmination of excitement, the long-awaited revelation of the best committee, which was awarded to AIPPM, was unveiled by the secretary general. The closing ceremony concluded on a high note with a social gathering.
+
+~ Unnati Shah, AS Levels
