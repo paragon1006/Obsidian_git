@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 317.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,7 +164,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "edd7d25feabdcf5b",
+  "active": "322c528cb7f7b225",
   "lastOpenFiles": [
     "readme.md",
     "obsidian format/Obsidian-formatting.md",
