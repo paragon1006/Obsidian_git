@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "5e49a57e744aa436",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,18 +133,29 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Untitled.md"
+              }
+            }
+          },
+          {
+            "id": "322c528cb7f7b225",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -138,6 +164,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "edd7d25feabdcf5b",
-  "lastOpenFiles": []
+  "active": "5e49a57e744aa436",
+  "lastOpenFiles": [
+    "Untitled.md"
+  ]
 }
