@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "CS/networking/Networking.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "CS/networking/Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "CS/networking/Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "CS/networking/Networking.md"
               }
             }
           },
@@ -166,9 +166,9 @@
   "active": "edd7d25feabdcf5b",
   "lastOpenFiles": [
     "English Language EL.md",
+    "readme.md",
     "newsletter/Newsletter special issue.md",
     "zk_sync.sh",
-    "readme.md",
     "obsidian format/Obsidian-formatting.md",
     "obsidian format/markus-spiske-666905-unsplash.jpg"
   ]
