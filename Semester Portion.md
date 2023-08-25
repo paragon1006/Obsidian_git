@@ -29,9 +29,11 @@
 
 # Computer Science
 
-| Num | Chapter  | Fin | Self |
-| --- | -------- | --- | ---- |
-| 1   | data rep | Y   |      |
-| 2   | comms    | Y   |      |
-| 3   | hardware | N   |      |
-| 4   | coding   | Y   |      |
+| Num | Chapter        | Fin | Self |
+| --- | -------------- | --- | ---- |
+| 1   | data rep       | Y   | P    |
+| 2   | communications | P   | P    |
+| 3   | hardware       | N   | P    |
+| 9   | algorithms     | Y   | P    |
+| 10  | Data Types     | N   | P    |
+| 11  | Programming    | N   | P    |
