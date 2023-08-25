@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "0b1c349fe72d012f",
+        "id": "87f94cada635b0e3",
         "type": "tabs",
         "children": [
           {
-            "id": "28cf21c6c35e39c6",
+            "id": "8a7486ffdc35f5ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English Language EL.md",
+                "file": "Semester Portion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "725b3b1b2d594d90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ab8c4698c2c03fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datatypes and structures.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d967d98868519a35",
@@ -85,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English Language EL.md",
+                "file": "Semester Portion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English Language EL.md",
+                "file": "Semester Portion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English Language EL.md"
+                "file": "Semester Portion.md"
               }
             }
           },
@@ -172,21 +198,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "28cf21c6c35e39c6",
+  "active": "322c528cb7f7b225",
   "lastOpenFiles": [
-    "How to memorize anything/CH1- Understanding Memory.md",
+    "Programming.md",
+    "Datatypes and structures.md",
+    "Semester Portion.md",
+    "CS/Pseudocode.md",
+    "newsletter/Newsletter special issue.md",
     "English Language EL.md",
-    "physics notes/Force, Pressure & Density.md",
     "readme.md",
+    "aas books/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
+    "aas books/Cambridge International AS & A Level Physics Coursebook with Digital Access (2 Years).pdf",
+    "aas books/Cambridge International AS & A Level Chemistry Digital Practical Workbook (2 Years).pdf",
+    "aas books/Statistics book-S2.pdf",
+    "aas books/Pure 2&3.pdf",
+    "aas books/dokumen.pub_cambridge-international-as-amp-a-level-mathematics-pure-mathematics-1-worked-solutions-manual-with-cambridge-elevate-edition-solution-manualnbsped-1108613055-9781108613057.pdf",
+    "aas books/Cs work sheet 1.txt",
+    "aas books/Cambridge International AS and A Levels Computer Science.pdf",
+    "aas books/Cambridge International AS and a Level English Language Coursebook.pdf",
+    "aas books/Cambridge International AS and A Level Computer Science Coursebook.pdf",
+    "Chem notes/Enthalpy.md",
+    "How to memorize anything/CH1- Understanding Memory.md",
+    "physics notes/Force, Pressure & Density.md",
     "Chem notes/Screenshot 2023-07-24 044228.png",
     "Chem notes/Pasted image 20230724044538.png",
     "Chem notes/Organic chem.canvas",
     "Chem notes/Organic Chemistry.md",
-    "physics notes",
     "sdfdfdknfkdn.md",
     "CS/networking/Networking.md",
-    "newsletter/Newsletter special issue.md",
-    "zk_sync.sh",
     "obsidian format/Obsidian-formatting.md",
     "obsidian format/markus-spiske-666905-unsplash.jpg"
   ]
