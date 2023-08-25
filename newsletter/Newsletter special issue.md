@@ -73,3 +73,11 @@ World Health Organization (WHO) engaged in the topic being role of advancement i
 
 
 And after major consideration and tough decisions, the Best Committee was rewarded to AIPPM! With this announcement, the team were immensely elated and the Speaker, Nuaym Shaikh, was called upon stage to address entire of WISMUN2K23.
+
+# Peoples reviews
+I think that the delegate kit was a great addition this year. From singing and dancing to the punishments, I am really glad that I was a part of MUN.
+-Girisha Mody
+The proceedings happened smoothly and I believe that the organisation was so much better than last year. All in all, I can surely say that WISMUN had stepped up. 
+-Zehra Roowala 
+I loved the whole experience. This was my first MUN and it absolutely rocked!!
+-Sarah Mahvy
