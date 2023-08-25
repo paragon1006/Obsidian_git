@@ -9,7 +9,7 @@
 | 5   | States of Matter          | N   | N   |
 | 6   | Enthalpy                  | N   | N   |
 | 14  | Intro to Organic          | Y   | Y   |
-| 15  | Hydrocarbons              | Y   | N   |
+| 15  | Hydrocarbons              | Y   | Y   |
 | 16  | Halogenoalkanes           | N   | N   |
 | 17  | Alcohols Acids and Esters | N   | N   |
 
