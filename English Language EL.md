@@ -24,6 +24,7 @@ active recall, interleaving and spaced repetition
  You have recently visited an exhibition of modern art at a museum. Write a review of the exhibition which will be published on a website called Art Today. Write between 600 & 900 words.
  
  1. Painting that ages as you walk past it
- 2. A sculpture that seems like move with you as you walk
- 3. A computer that's hidden in a painting
- 4. A smashed window which looks like a gaze into a post apocalyptic world
+ 2. A computer that's hidden in a painting
+ 3. A smashed window which looks like a gaze into a post apocalyptic world
+ 4. man who's got scales in the back (snake man)
+ 5. 
