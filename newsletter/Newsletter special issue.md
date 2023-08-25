@@ -40,7 +40,7 @@ Following these captivating segments, the ceremony reached its pinnacle with the
 ~ Unnati Shah, AS Levels
 
 # Overall wismun
-WISMUN2K23 had 13 different committees taking part with their agendas revolving around a broader topic being Human Rights and Conflict Resolution. The two day event started off slow, and boring as some may put it, but the energy was soon hyped up. As more caucuses were raised, the debates got more heated and more counter-arguments were being put forward. Although not each delegate was outspoken, it is noteworthy that this year each committee was a success and resolutions were passed throughout. The competition being too severe, it was truly a task to pick the top 3 delegates! 
+WISMUN2K23 had 13 different committees taking part with their agendas revolving around Human Rights and Conflict Resolution. The two day event started was well hyped up. As more caucuses were raised, the debates got more heated and more counter-arguments were being put forward. Although not each delegate was outspoken, it is noteworthy that this year each committee was a success and resolutions were passed throughout. The competition being too severe, it was truly a task to pick the top 3 delegates! 
 
 United Nations Education, Scientific and Cultural Organization (UNESCO) had an engaging topic of analyzing the ways to promote educational programs on a digital scale that foster development in educational systems across the world. The Special Mention went to Khusshi Karia, Outstanding Delegate taken up by Riddish Pathak and the Best Delegate being Rosvita Bose.
 
