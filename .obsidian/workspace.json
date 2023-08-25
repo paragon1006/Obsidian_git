@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "newsletter/Newsletter special issue.md",
+                "file": "Semester Portion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "newsletter/Newsletter special issue.md",
+                "file": "Semester Portion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "newsletter/Newsletter special issue.md",
+                "file": "Semester Portion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "newsletter/Newsletter special issue.md"
+                "file": "Semester Portion.md"
               }
             }
           },
@@ -172,8 +172,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8a7486ffdc35f5ee",
+  "active": "54c5a6e575f4cd1d",
   "lastOpenFiles": [
+    "newsletter/Newsletter special issue.md",
     "Semester Portion.md",
     "English Language EL.md",
     "readme.md",
@@ -188,7 +189,6 @@
     "aas books/Cambridge International AS and a Level English Language Coursebook.pdf",
     "aas books/Cambridge International AS and A Level Computer Science Coursebook.pdf",
     "Chem notes/Enthalpy.md",
-    "newsletter/Newsletter special issue.md",
     "How to memorize anything/CH1- Understanding Memory.md",
     "physics notes/Force, Pressure & Density.md",
     "Chem notes/Screenshot 2023-07-24 044228.png",

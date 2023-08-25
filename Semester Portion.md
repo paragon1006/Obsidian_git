@@ -26,3 +26,12 @@
 | 6   | Momentum             | Y   | Y   |
 | 7   | Matter and Materials | P   | N   |
 | 12  | Waves                | N   | N   |
+
+# Computer Science
+
+| Num | Chapter  | Fin | Self |
+| --- | -------- | --- | ---- |
+| 1   | data rep |     |      |
+| 2   | comms    |     |      |
+| 3   |          |     |      |
+| 4   |          |     |      |
