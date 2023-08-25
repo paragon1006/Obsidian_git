@@ -31,7 +31,7 @@
 
 | Num | Chapter  | Fin | Self |
 | --- | -------- | --- | ---- |
-| 1   | data rep |     |      |
-| 2   | comms    |     |      |
-| 3   |          |     |      |
-| 4   |          |     |      |
+| 1   | data rep | Y   |      |
+| 2   | comms    | Y   |      |
+| 3   | hardware | N   |      |
+| 4   | coding   | Y   |      |
