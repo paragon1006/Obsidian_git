@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"type":"file","file":"Chem notes/Pasted image 20230724044538.png","id":"e6c5772bda3465e4","x":198,"y":59,"width":378,"height":400},
-		{"type":"file","file":"Chem notes/Screenshot 2023-07-24 044228.png","id":"dd4ef30d6fe7db4f","x":229,"y":509,"width":347,"height":399},
+		{"type":"file","file":"School studies/Chem notes/Pasted image 20230724044538.png","id":"e6c5772bda3465e4","x":198,"y":59,"width":378,"height":400},
+		{"type":"file","file":"School studies/Chem notes/Screenshot 2023-07-24 044228.png","id":"dd4ef30d6fe7db4f","x":229,"y":509,"width":347,"height":399},
 		{"type":"text","text":"benzene #benzene","id":"a289f77fe2371210","x":-160,"y":509,"width":250,"height":50}
 	],
 	"edges":[

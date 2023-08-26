@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester Portion.md",
+                "file": "School studies/Semester Portion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Semester Portion.md",
+            "file": "School studies/Semester Portion.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Semester Portion.md",
+            "file": "School studies/Semester Portion.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Semester Portion.md"
+            "file": "School studies/Semester Portion.md"
           }
         }
       },
@@ -141,26 +141,27 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d4e6a019bc3e7e05",
+  "active": "403b51cf637474c9",
   "lastOpenFiles": [
+    "School studies",
     "rust/Cargo.md",
     "readme.md",
-    "English Language EL.md",
-    "Chem notes/Enthalpy.md",
+    "School studies/English Language EL.md",
+    "School studies/Chem notes/Enthalpy.md",
     "/Chem notes/Enthalpy.md",
-    "Semester Portion.md",
-    "Programming.md",
-    "Datatypes and structures.md",
+    "School studies/Semester Portion.md",
+    "School studies/CS/Programming.md",
+    "School studies/CS/Datatypes and structures.md",
     "/newsletter/Newsletter special issue.md",
     "/Semester Portion.md",
     "/English Language EL.md",
     "/readme.md",
     "/Programming.md",
     "/Datatypes and structures.md",
-    "physics notes/Force, Pressure & Density.md",
+    "School studies/physics notes/Force, Pressure & Density.md",
     "/physics notes/Force, Pressure & Density.md",
     "/Chem notes/Organic Chemistry.md",
-    "physics notes",
+    "School studies/physics notes",
     "/physics notes"
   ]
 }
