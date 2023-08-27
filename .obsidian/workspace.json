@@ -6,6 +6,7 @@
       {
         "id": "5dd8932691f1009b",
         "type": "tabs",
+        "dimension": 66.66666666666666,
         "children": [
           {
             "id": "a79a9b3c5f2b93b0",
@@ -19,19 +20,25 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "79e6fb6a3c45ee23",
+        "type": "tabs",
+        "dimension": 33.33333333333333,
+        "children": [
           {
-            "id": "f2a28ff96236b1fa",
+            "id": "8b5c29e77b6fc1cc",
             "type": "leaf",
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://obsidian.md/"
+                "url": "https://beta.character.ai/chat?char=5Ku7FpDG3A0mI1LXN22DtZVXDBS8xVmwjbFeUwaQOec"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,7 +199,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f2a28ff96236b1fa",
+  "active": "8b5c29e77b6fc1cc",
   "lastOpenFiles": [
     "School studies/English Language El/SP Q.md",
     "obsidian format/Obsidian-formatting.md",

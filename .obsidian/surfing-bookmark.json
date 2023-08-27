@@ -1,6 +1,18 @@
 {
   "bookmarks": [
     {
+      "id": "-1803638588",
+      "name": "Character.AI - Socrates",
+      "url": "https://beta.character.ai/chat?char=5Ku7FpDG3A0mI1LXN22DtZVXDBS8xVmwjbFeUwaQOec",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1693134949366,
+      "modified": 1693134949366
+    },
+    {
       "id": "2014068036",
       "name": "Obsidian",
       "url": "https://obsidian.md/",

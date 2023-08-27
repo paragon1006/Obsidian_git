@@ -1,6 +1,4 @@
-1. [Question 2](#question-2)
-1. [Question 3](#question-3)
-1. [Question 4](#question-4)
+
 # Questions
 
 ## Question 2

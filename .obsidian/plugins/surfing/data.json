@@ -23,7 +23,7 @@
   "useCustomIcons": false,
   "useWebview": false,
   "useIconList": true,
-  "darkMode": true,
+  "darkMode": false,
   "bookmarkManager": {
     "openBookMark": true,
     "saveBookMark": true,
@@ -45,10 +45,10 @@
   },
   "treeData": [
     {
-      "id": "f2a28ff96236b1fa",
+      "id": "8b5c29e77b6fc1cc",
       "parent": 0,
       "droppable": true,
-      "text": "Obsidian - Sharpen your thinking",
+      "text": "Chat now with Socrates · created by @Kayslay",
       "data": {
         "fileType": "site",
         "fileSize": "",
