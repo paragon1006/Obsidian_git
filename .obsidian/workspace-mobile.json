@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Semester Portion.md",
+                "file": "School studies/CS/Pseudocode.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "School studies/Semester Portion.md",
+            "file": "School studies/CS/Pseudocode.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "School studies/Semester Portion.md",
+            "file": "School studies/CS/Pseudocode.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "School studies/Semester Portion.md"
+            "file": "School studies/CS/Pseudocode.md"
           }
         }
       },
@@ -124,6 +124,14 @@
         "type": "leaf",
         "state": {
           "type": "git-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "fda77315a68542f5",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
           "state": {}
         }
       }
@@ -139,20 +147,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "403b51cf637474c9",
+  "active": "fda77315a68542f5",
   "lastOpenFiles": [
+    "School studies/CS/Datatypes and structures.md",
+    "School studies/CS/Pseudocode.md",
+    "School studies/Semester Portion.md",
     "School studies",
     "rust/Cargo.md",
     "readme.md",
     "School studies/English Language EL.md",
     "School studies/Chem notes/Enthalpy.md",
     "/Chem notes/Enthalpy.md",
-    "School studies/Semester Portion.md",
     "School studies/CS/Programming.md",
-    "School studies/CS/Datatypes and structures.md",
     "/newsletter/Newsletter special issue.md",
     "/Semester Portion.md",
     "/English Language EL.md",
