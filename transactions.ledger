@@ -19,11 +19,9 @@ alias i=Income
 ; This only needs to be done once, and enables you to reconcile your
 ; Ledger file with your bank account statements.
 
-2023-08-27 Starting Balances
-    ; Add a line for each bank account or credit card
-    c:Chase                   $-250.45
-    b:BankOfAmerica    $450.27
-    StartingBalance      ; Leave this line alone
+2023/08/27 Starting Balances
+    c:Chase    $937.00
+    StartingBalance    ; Leave this line alone
 
 ; I highly recommend reading through the Ledger documentation about the basics
 ; of accounting with Ledger
