@@ -15,6 +15,7 @@
               "state": {
                 "file": "obsidian format/Obsidian-formatting.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -170,6 +171,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
       "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
