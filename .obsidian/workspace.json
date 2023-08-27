@@ -178,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,7 +194,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "54c5a6e575f4cd1d",
+  "active": "322c528cb7f7b225",
   "lastOpenFiles": [
     "School studies/English Language El/English Language EL.md",
     "School studies/English Language El/SP Q.md",
