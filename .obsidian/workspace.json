@@ -8,31 +8,28 @@
         "type": "tabs",
         "children": [
           {
-            "id": "498ad8f197d58fa8",
+            "id": "d988ad16fe35411a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian format/Obsidian-formatting.md",
+                "file": "Finances.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d988ad16fe35411a",
+            "id": "599ccaf54bfacef9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "csv-view",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "finance.csv"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Finances.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Finances.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Finances.md"
               }
             }
           },
@@ -195,8 +192,10 @@
   },
   "active": "54c5a6e575f4cd1d",
   "lastOpenFiles": [
-    "Untitled.md",
+    "finance.csv",
+    "Finances.md",
     "obsidian format/Obsidian-formatting.md",
+    "New Text Document.txt",
     "transactions.ledger",
     "conflict-files-obsidian-git.md",
     "Datatypes and structures.md",
@@ -234,14 +233,11 @@
     "newsletter/Newsletter special issue.md",
     "English Language EL.md",
     "readme.md",
-    "aas books/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
-    "aas books/Cambridge International AS & A Level Physics Coursebook with Digital Access (2 Years).pdf",
     "Chem notes/Enthalpy.md",
     "How to memorize anything/CH1- Understanding Memory.md",
     "physics notes/Force, Pressure & Density.md",
     "Chem notes/Organic chem.canvas",
     "Chem notes/Organic Chemistry.md",
-    "sdfdfdknfkdn.md",
-    "CS/networking/Networking.md"
+    "sdfdfdknfkdn.md"
   ]
 }
