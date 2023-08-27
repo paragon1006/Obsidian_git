@@ -29,13 +29,7 @@
                 "url": "https://www.merriam-webster.com/thesaurus/leviathan"
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "85237db631a638ea",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "db7b70a5d9c2383e",
             "type": "leaf",
@@ -45,8 +39,19 @@
                 "url": "https://beta.character.ai/chat?char=5Ku7FpDG3A0mI1LXN22DtZVXDBS8xVmwjbFeUwaQOec"
               }
             }
+          },
+          {
+            "id": "8e11478eafd4e805",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://discord.com/channels/898079566189449277/898083748086681661"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -197,8 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,7 +222,7 @@
       "meld-encrypt:Convert to or from an Encrypted note": false
     }
   },
-  "active": "db7b70a5d9c2383e",
+  "active": "8e11478eafd4e805",
   "lastOpenFiles": [
     "School studies/English Language El/SP Q.md",
     "Question 4.md",

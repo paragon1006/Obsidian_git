@@ -1,6 +1,18 @@
 {
   "bookmarks": [
     {
+      "id": "-1875438792",
+      "name": "Obsidian discord",
+      "url": "https://discord.com/channels/@me",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1693146900000,
+      "modified": 1693146900000
+    },
+    {
       "id": "-1803638588",
       "name": "Character.AI - Socrates",
       "url": "https://beta.character.ai/chat?char=5Ku7FpDG3A0mI1LXN22DtZVXDBS8xVmwjbFeUwaQOec",
@@ -31,6 +43,28 @@
       "text": "ROOT",
       "label": "ROOT",
       "children": []
+    },
+    {
+      "value": "Computer",
+      "text": "Computer",
+      "label": "Computer"
+    },
+    {
+      "value": "obsidian",
+      "text": "obsidian",
+      "label": "obsidian",
+      "children": [
+        {
+          "value": "surfing",
+          "text": "surfing",
+          "label": "surfing"
+        },
+        {
+          "value": "dataview",
+          "text": "dataview",
+          "label": "dataview"
+        }
+      ]
     }
   ]
 }
