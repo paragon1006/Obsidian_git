@@ -4,37 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "70cc0dedd2425f59",
-        "type": "tabs",
-        "dimension": 44.74110032362459,
-        "children": [
-          {
-            "id": "bb0693d3ea59552c",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://improving-your-english.com/vocabulary/describe-rain/"
-              }
-            }
-          },
-          {
-            "id": "e0b216b12bf74f8c",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.merriam-webster.com/thesaurus/boomed"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "5dd8932691f1009b",
         "type": "tabs",
-        "dimension": 55.25889967637541,
         "children": [
           {
             "id": "a79a9b3c5f2b93b0",
@@ -46,6 +17,16 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "e0b216b12bf74f8c",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.merriam-webster.com/thesaurus/boomed"
               }
             }
           }
@@ -124,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School studies/English Language El/SP Q.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School studies/English Language El/SP Q.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School studies/English Language El/SP Q.md"
+              }
             }
           },
           {
@@ -197,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -220,7 +205,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e0b216b12bf74f8c",
+  "active": "1262eba30e8d6b9a",
   "lastOpenFiles": [
     "School studies/English Language El/SP Q.md",
     "School studies/CS/networking/1,Networking.md",
