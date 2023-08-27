@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "newsletter/Newsletter special issue.md",
+                "file": "School studies/English Language El/SP Q.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "newsletter/Newsletter special issue.md",
+            "file": "School studies/English Language El/SP Q.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "newsletter/Newsletter special issue.md",
+            "file": "School studies/English Language El/SP Q.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "newsletter/Newsletter special issue.md"
+            "file": "School studies/English Language El/SP Q.md"
           }
         }
       },
@@ -154,6 +154,16 @@
   },
   "active": "d4e6a019bc3e7e05",
   "lastOpenFiles": [
+    "newsletter/Newsletter special issue.md",
+    "School studies/CS/networking/1,Networking.md",
+    "Question 4.md",
+    "Excalidraw/Drawing 2023-08-27 20.08.26.excalidraw.md",
+    "/School studies/English Language El/SP Q.md",
+    "/School studies/CS/networking/1,Networking.md",
+    "/Question 4.md",
+    "/Excalidraw/Drawing 2023-08-27 20.08.26.excalidraw.md",
+    "Excalidraw",
+    "/Excalidraw",
     "obsidian format/Obsidian-formatting.md",
     "transactions.ledger",
     "School studies/English Language El/SP Q.md",
@@ -161,7 +171,6 @@
     "/transactions.ledger",
     "/readme.md",
     "/obsidian format/Obsidian-formatting.md",
-    "/School studies/English Language El/SP Q.md",
     "/School studies/English Language El/English Language EL.md",
     "School studies/English Language El",
     "/School studies/English Language El",
@@ -178,11 +187,6 @@
     "/newsletter/Newsletter special issue.md",
     "/Semester Portion.md",
     "/English Language EL.md",
-    "/Programming.md",
-    "/Datatypes and structures.md",
-    "School studies/physics notes/Force, Pressure & Density.md",
-    "/physics notes/Force, Pressure & Density.md",
-    "/Chem notes/Organic Chemistry.md",
     "School studies/physics notes",
     "/physics notes"
   ]
