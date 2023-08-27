@@ -42,7 +42,7 @@ Fibre Optic | Micro waves
 2 types
 shielded and unshielded
 (shield used to prevent interception)
-
+ 
 
 
 
