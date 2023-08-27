@@ -15,6 +15,7 @@
               "state": {
                 "file": "School studies/Semester Portion.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
