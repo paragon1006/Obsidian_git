@@ -3,5 +3,9 @@
   "obsidian-plugin-toc",
   "table-editor-obsidian",
   "better-word-count",
-  "obsidian-better-codeblock"
+  "obsidian-better-codeblock",
+  "editing-toolbar",
+  "obsidian-pandoc",
+  "surfing",
+  "ledger-obsidian"
 ]
