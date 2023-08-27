@@ -6,7 +6,7 @@
       {
         "id": "70cc0dedd2425f59",
         "type": "tabs",
-        "dimension": 22.89644012944984,
+        "dimension": 46.5210355987055,
         "children": [
           {
             "id": "bb0693d3ea59552c",
@@ -17,13 +17,24 @@
                 "url": "https://improving-your-english.com/vocabulary/describe-rain/"
               }
             }
+          },
+          {
+            "id": "e0b216b12bf74f8c",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://duckduckgo.com/?q=similie%20for%20cried%20hard"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5dd8932691f1009b",
         "type": "tabs",
-        "dimension": 77.10355987055017,
+        "dimension": 53.47896440129449,
         "children": [
           {
             "id": "a79a9b3c5f2b93b0",
@@ -209,7 +220,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bb0693d3ea59552c",
+  "active": "e0b216b12bf74f8c",
   "lastOpenFiles": [
     "School studies/English Language El/SP Q.md",
     "School studies/CS/networking/1,Networking.md",
