@@ -21,7 +21,7 @@ This is another paragraph.
 **BOLD** uses ** or __ around text
 *ITALIC* uses * or _ around text
 ~~Strikethrough~~ uses ~~ around text
-==Highlight== uses == around text
+==Highlight== uses == around text <!--SR:!2023-08-31,4,270-->
 
 ### Quotes
 

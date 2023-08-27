@@ -45,21 +45,10 @@
   },
   "treeData": [
     {
-      "id": "a79a9b3c5f2b93b0",
+      "id": "f2a28ff96236b1fa",
       "parent": 0,
       "droppable": true,
-      "text": "Chat now with Socrates · created by @Kayslay",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "1dbc65a1fdfb1fdb",
-      "parent": 0,
-      "droppable": true,
-      "text": "New Tab",
+      "text": "Obsidian - Sharpen your thinking",
       "data": {
         "fileType": "site",
         "fileSize": "",
