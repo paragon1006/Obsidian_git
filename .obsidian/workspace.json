@@ -39,19 +39,9 @@
                 "url": "https://beta.character.ai/chat?char=5Ku7FpDG3A0mI1LXN22DtZVXDBS8xVmwjbFeUwaQOec"
               }
             }
-          },
-          {
-            "id": "8e11478eafd4e805",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://discord.com/channels/898079566189449277/898083748086681661"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,7 +212,7 @@
       "meld-encrypt:Convert to or from an Encrypted note": false
     }
   },
-  "active": "8e11478eafd4e805",
+  "active": "db7b70a5d9c2383e",
   "lastOpenFiles": [
     "School studies/English Language El/SP Q.md",
     "Question 4.md",
