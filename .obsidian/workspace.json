@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bb0693d3ea59552c",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://improving-your-english.com/vocabulary/describe-rain/"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/English Language El/SP Q.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/English Language El/SP Q.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School studies/English Language El/SP Q.md"
-              }
+              "state": {}
             }
           },
           {
@@ -193,11 +200,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a79a9b3c5f2b93b0",
+  "active": "bb0693d3ea59552c",
   "lastOpenFiles": [
+    "School studies/English Language El/SP Q.md",
     "School studies/CS/networking/1,Networking.md",
     "School studies/CS/Datatypes and structures.md",
-    "School studies/English Language El/SP Q.md",
     "Excalidraw/Drawing 2023-08-27 20.08.26.excalidraw.md",
     "Excalidraw",
     "rust/Cargo.md",
