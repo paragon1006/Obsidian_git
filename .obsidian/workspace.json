@@ -173,8 +173,9 @@
       "ledger-obsidian:Add to Ledger": false
     }
   },
-  "active": "54c5a6e575f4cd1d",
+  "active": "322c528cb7f7b225",
   "lastOpenFiles": [
+    "transactions.ledger",
     "conflict-files-obsidian-git.md",
     "Datatypes and structures.md",
     "School studies/CS/networking/switch.png",
