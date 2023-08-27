@@ -6,6 +6,7 @@
       {
         "id": "db31cf16c747263d",
         "type": "tabs",
+        "dimension": 67.07119741100324,
         "children": [
           {
             "id": "1df83b2674888206",
@@ -13,13 +14,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/English Language El/English Language EL.md",
+                "file": "School studies/English Language El/SP Q.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "5dd8932691f1009b",
+        "type": "tabs",
+        "dimension": 32.92880258899677,
+        "children": [
           {
             "id": "a79a9b3c5f2b93b0",
             "type": "leaf",
@@ -30,8 +38,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School studies/English Language El/SP Q.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School studies/English Language El/SP Q.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School studies/English Language El/SP Q.md"
+              }
             }
           },
           {
@@ -166,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,7 +193,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a79a9b3c5f2b93b0",
+  "active": "1df83b2674888206",
   "lastOpenFiles": [
     "School studies/English Language El/English Language EL.md",
     "readme.md",

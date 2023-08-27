@@ -25,11 +25,11 @@
   "useIconList": true,
   "darkMode": true,
   "bookmarkManager": {
-    "openBookMark": false,
-    "saveBookMark": false,
+    "openBookMark": true,
+    "saveBookMark": true,
     "sendToReadWise": false,
     "pagination": "12",
-    "category": "- Computer\n    - 算法\n    - 数据结构\n- obsidian\n    - surfing\n    - dataview\n",
+    "category": "- Computer\n- obsidian\n    - surfing\n    - dataview\n",
     "defaultCategory": "ROOT",
     "defaultColumnList": [
       "name",
@@ -49,6 +49,17 @@
       "parent": 0,
       "droppable": true,
       "text": "Chat now with Socrates · created by @Kayslay",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "1dbc65a1fdfb1fdb",
+      "parent": 0,
+      "droppable": true,
+      "text": "New Tab",
       "data": {
         "fileType": "site",
         "fileSize": "",
