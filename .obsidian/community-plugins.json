@@ -1,10 +1,11 @@
 [
   "obsidian-git",
-  "obsidian-plugin-toc",
   "table-editor-obsidian",
   "better-word-count",
   "obsidian-better-codeblock",
   "editing-toolbar",
   "obsidian-pandoc",
-  "surfing"
+  "surfing",
+  "obsidian-spaced-repetition",
+  "open-weather"
 ]
