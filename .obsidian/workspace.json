@@ -4,20 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "87f94cada635b0e3",
+        "id": "baca9d3f7e51b298",
         "type": "tabs",
         "children": [
           {
-            "id": "8a7486ffdc35f5ee",
+            "id": "498ad8f197d58fa8",
             "type": "leaf",
             "state": {
-              "type": "ledger",
+              "type": "markdown",
               "state": {
-                "file": "transactions.ledger"
+                "file": "obsidian format/Obsidian-formatting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d988ad16fe35411a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -128,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           },
           {
@@ -174,8 +193,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8a7486ffdc35f5ee",
+  "active": "54c5a6e575f4cd1d",
   "lastOpenFiles": [
+    "Untitled.md",
+    "obsidian format/Obsidian-formatting.md",
     "transactions.ledger",
     "conflict-files-obsidian-git.md",
     "Datatypes and structures.md",
@@ -215,14 +236,12 @@
     "readme.md",
     "aas books/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
     "aas books/Cambridge International AS & A Level Physics Coursebook with Digital Access (2 Years).pdf",
-    "aas books/Cambridge International AS & A Level Chemistry Digital Practical Workbook (2 Years).pdf",
     "Chem notes/Enthalpy.md",
     "How to memorize anything/CH1- Understanding Memory.md",
     "physics notes/Force, Pressure & Density.md",
     "Chem notes/Organic chem.canvas",
     "Chem notes/Organic Chemistry.md",
     "sdfdfdknfkdn.md",
-    "CS/networking/Networking.md",
-    "obsidian format/Obsidian-formatting.md"
+    "CS/networking/Networking.md"
   ]
 }
