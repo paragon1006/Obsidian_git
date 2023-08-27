@@ -15,6 +15,7 @@ exploding in the distance, and their shock waves rocking the boat.
 
 Bright lights flashed in the sky, bright as a star. It lit up the sky as a lamp would a dark cave, revealing the clouds for only a moment. A moment too long the clouds drooped low in the sky the dark contrast of the blinding darkness against the clouds light up by thunder painted the sky in gloomy shades of grey. When the lightning fell to the ground it lit up not just the sky, but the waves too. Like the tentacles of a kraken the waves rose to smash all in their way. The leviathan waves were tipped with white foam and painted a dark grey-green. Striking not just the boat, but all the fell under it's path of fury. 
 
+As the storm raged on, the boat continued to be battered by the waves. The thunder and lightning provided brief glimpses of the ocean below, but the darkness between these flashes quickly swallowed up any sense of safety. The boat creaked and groaned under the strain, its mast having snapped off and its hull beginning to leak. Despite its efforts to stay afloat, it was clear that the boat was soon going to join it's crew beneath the waves. 
 
 # Question 3 
  In class, you have been discussing whether sending criminals to prison is an effective way of reducing crime. Write an article for your school magazine. In your writing discuss the advantages and disadvantages of sending criminals prison. Write between 600 & 900 words.
