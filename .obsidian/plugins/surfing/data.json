@@ -43,5 +43,17 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": []
+  "treeData": [
+    {
+      "id": "a79a9b3c5f2b93b0",
+      "parent": 0,
+      "droppable": true,
+      "text": "Chat now with Socrates · created by @Kayslay",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ]
 }
