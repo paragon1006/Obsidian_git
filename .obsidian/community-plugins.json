@@ -4,8 +4,12 @@
   "table-editor-obsidian",
   "better-word-count",
   "obsidian-better-codeblock",
+<<<<<<< HEAD
   "editing-toolbar",
   "obsidian-pandoc",
   "surfing",
   "ledger-obsidian"
+=======
+  "obsidian-spaced-repetition"
+>>>>>>> origin/main
 ]

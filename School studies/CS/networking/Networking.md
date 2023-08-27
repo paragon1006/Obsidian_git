@@ -27,7 +27,7 @@ Peer to Peer:- each computer has equal rights
 
 
 ## Cloud Network
-![network|300*600](cloud.png)
+![network|300*600](Cloud.png)
 Stores your data in many places
 
 ## Transmission media
