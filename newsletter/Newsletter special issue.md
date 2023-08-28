@@ -12,6 +12,12 @@ Every year, cascade proves itself to be a brilliant platform to not just compete
 
 ~ Vihaan Patel, IGCSE II B
 
+# Cascade fight
+On the 12th of August, just as Cascade 2023 was in full swing, a spark of hostility on the football field led to major altercation between Witty International School and CC-62. During the 10th minute, a foul was the reason for what later unfolded on the Jamnabai ground. What appeared to be the tension finally pushing through the barriers of civil dispute- a fight between schools seeming to be the result of a long bred rivalry. Considering the unsportsmanlike actions of CC 62's players, ours handled the hostility with appropriate answers, a reminder of our team's togetherness.
+
+Eventually, after a few minutes of chaos on the field, the referees and match officials rushed to break up the fight. The situation was unlike anything Cascade had witnessed in a rather long time. WIS went to score in the _ minute- the goal by __ being a spectacle to watch. Securing a place in the semi-finals, Witty International School placed 4th when the dust had later settled. 
+
+The team stood together in a circumstance wherein drawing from the strength in unity was imperative, showcasing to not just CC-62 but everyone that no matter which sport is to be played, Wittians shall always triumph in terms of upholding the spirit of their team.
 # Training Sessions
 ## chairs and cochairs
 The chairs and vice chairs went through rigorous training under the tutelage of Nauyam sheikh, an alumni, where they were trained for their many duties and tasks as chairs and vice chairs and carried out many mock sessions and practices along with a plethora of handling difficult delegates. One of the practices went on till 730 in the evening!

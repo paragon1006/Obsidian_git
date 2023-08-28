@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Chem notes/States of matter.md",
+                "file": "newsletter/Newsletter special issue.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "99571c5662e16744",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.dsebastien.net/2022-10-19-the-must-have-obsidian-plugins/"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "newsletter/Newsletter special issue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "newsletter/Newsletter special issue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "newsletter/Newsletter special issue.md"
+              }
             }
           },
           {
@@ -182,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,7 +195,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "99571c5662e16744",
+  "active": "76caf8563c7eb370",
   "lastOpenFiles": [
     "School studies/Chem notes/States of matter.md",
     "School studies/Chem notes/Enthalpy.md",
