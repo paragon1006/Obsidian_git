@@ -1,8 +1,8 @@
 - [x] [Question 2](#question-2)
-	- [A2](#a2)
+	- [~~A2~~](#a2)
 - [ ] [Question 3](#question-3)
 	- [A3](#a3)
-- [ ] [Question 4](#question-4)
+- [ ] [<font color="#494429">Question 4</font>](#question-4)
 	- [A4](#a4)
 
 # Question 2

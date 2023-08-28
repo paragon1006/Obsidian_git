@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "82356660275d3ec2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pg 140 Q1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/English Language El/SP Q.md",
+                "file": "Pg 140 Q1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/English Language El/SP Q.md",
+                "file": "Pg 140 Q1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/English Language El/SP Q.md"
+                "file": "Pg 140 Q1.md"
               }
             }
           },
@@ -197,9 +211,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a79a9b3c5f2b93b0",
+  "active": "82356660275d3ec2",
   "lastOpenFiles": [
     "School studies/English Language El/SP Q.md",
+    "Pg 140 Q1.md",
     "Question 4.md",
     "School studies/CS/networking/1,Networking.md",
     "School studies/CS/Datatypes and structures.md",
@@ -245,7 +260,6 @@
     "Programming.md",
     "CS/Pseudocode.md",
     "newsletter/Newsletter special issue.md",
-    "English Language EL.md",
     "Chem notes/Organic chem.canvas"
   ]
 }
