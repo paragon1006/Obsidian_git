@@ -45,43 +45,10 @@
   },
   "treeData": [
     {
-      "id": "db7b70a5d9c2383e",
+      "id": "e0b216b12bf74f8c",
       "parent": 0,
       "droppable": true,
-      "text": "Character.AI - Socrates",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "ad70c66209bb71f9",
-      "parent": 0,
-      "droppable": true,
-      "text": "Discord",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "302d3988effde80d",
-      "parent": 0,
-      "droppable": true,
-      "text": "Discord | Friends",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "8e11478eafd4e805",
-      "parent": 0,
-      "droppable": true,
-      "text": "Discord | Friends",
+      "text": "New Tab",
       "data": {
         "fileType": "site",
         "fileSize": "",

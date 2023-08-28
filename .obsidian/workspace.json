@@ -19,29 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e0b216b12bf74f8c",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.merriam-webster.com/thesaurus/leviathan"
-              }
-            }
-          },
-          {
-            "id": "db7b70a5d9c2383e",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://beta.character.ai/chat?char=5Ku7FpDG3A0mI1LXN22DtZVXDBS8xVmwjbFeUwaQOec"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d967d98868519a35",
@@ -115,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School studies/English Language El/SP Q.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School studies/English Language El/SP Q.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School studies/English Language El/SP Q.md"
+              }
             }
           },
           {
@@ -196,6 +180,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
       "surfing:surfing-bookmark-manager": false,
       "workspaces:Manage workspace layouts": false,
       "markdown-importer:Open format converter": false,
@@ -207,12 +193,10 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "meld-encrypt:New encrypted note": false,
-      "meld-encrypt:Convert to or from an Encrypted note": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "db7b70a5d9c2383e",
+  "active": "a79a9b3c5f2b93b0",
   "lastOpenFiles": [
     "School studies/English Language El/SP Q.md",
     "Question 4.md",
