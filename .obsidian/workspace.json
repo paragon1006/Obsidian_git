@@ -32,9 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "16bee02a9a42976b",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://duckduckgo.com/?q=amok"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pg 140 Q1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pg 140 Q1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pg 140 Q1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -211,10 +217,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "82356660275d3ec2",
+  "active": "16bee02a9a42976b",
   "lastOpenFiles": [
-    "School studies/English Language El/SP Q.md",
     "Pg 140 Q1.md",
+    "School studies/English Language El/SP Q.md",
     "Question 4.md",
     "School studies/CS/networking/1,Networking.md",
     "School studies/CS/Datatypes and structures.md",
