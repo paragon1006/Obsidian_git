@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d0f69c3f653a41eb",
+        "id": "e84f9df91ad7f054",
         "type": "tabs",
         "children": [
           {
-            "id": "ee443584be2e9458",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://discord.com/login?redirect_to=%2Fchannels%2F%40me"
-              }
-            }
-          },
-          {
-            "id": "5ae16fca5a6ee8b9",
+            "id": "76caf8563c7eb370",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "99571c5662e16744",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.dsebastien.net/2022-10-19-the-must-have-obsidian-plugins/"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d967d98868519a35",
@@ -203,9 +203,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ee443584be2e9458",
+  "active": "99571c5662e16744",
   "lastOpenFiles": [
     "School studies/Chem notes/States of matter.md",
+    "School studies/Chem notes/Enthalpy.md",
+    "School studies/Chem notes/Organic Chemistry.md",
+    "School studies/Chem notes/Organic chem.canvas",
+    "School studies/Chem notes/Pasted image 20230724044538.png",
+    "School studies/Chem notes/Screenshot 2023-07-24 044228.png",
+    "School studies/Chem notes/Untitled.canvas",
     "School studies/English Language El/English Language EL.md",
     "School studies/physics notes/Cambridge International AS & A Level Physics Coursebook with Digital Access (2 Years).pdf",
     "School studies/Chem notes/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
@@ -239,19 +245,13 @@
     "School studies/CS/networking/modem.png",
     "School studies/CS/networking/mesh_network.png",
     "School studies/CS/networking/hub.png",
-    "School studies/CS/networking/dns.png",
-    "School studies/CS/networking/Cloud.png",
     "School studies/physics notes/Force, Pressure & Density.md",
-    "School studies/Chem notes/Organic Chemistry.md",
-    "School studies/Chem notes/Organic chem.canvas",
-    "School studies/Chem notes/Enthalpy.md",
     "School studies/CS/Pseudocode.md",
     "School studies/CS/Programming.md",
     "School studies/CS/Flowcharts.md",
     "School studies/Semester Portion.md",
     "Semester Portion.md",
     "Programming.md",
-    "CS/Pseudocode.md",
     "Chem notes/Organic chem.canvas"
   ]
 }

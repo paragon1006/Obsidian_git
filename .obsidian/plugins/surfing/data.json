@@ -45,10 +45,21 @@
   },
   "treeData": [
     {
-      "id": "ee443584be2e9458",
+      "id": "99571c5662e16744",
       "parent": 0,
       "droppable": true,
-      "text": "Discord",
+      "text": "The Must-Have Obsidian plugins",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "5d18f77c362d8810",
+      "parent": 0,
+      "droppable": true,
+      "text": "DuckDuckGo Privacy Essentials - Chrome Web Store",
       "data": {
         "fileType": "site",
         "fileSize": "",
