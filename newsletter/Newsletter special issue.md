@@ -26,13 +26,13 @@ The chairs and vice chairs went through rigorous training under the tutelage of 
 
 
 ## Delegate training
-WISMUN delegates underwent training sessions in Pawan Baug and Chikoowadi, under the guidance of the Executive Board. The first sessions were for the general committees, while the second sessions were for the AIPPM and IWC committees. Delegates were trained for following the rules of procedure which was followed by the mock sessions. The secretary general, Vidhaan Khotari, supervised both Pawan Baug and Chikoowadi trainings, with the help of Urvi Ma'am, Vinay Sir and Kaushal Sir. The training lasted for nine days, with the help of the logistics team, overseen by the USGs Aarya Kudav and Aman Agarwal.
+WISMUN delegates underwent training sessions in Pawan Baug and Chikoowadi, under the guidance of the Executive Board. The first sessions were for the general committees, while the second sessions were for the AIPPM and IWC committees. Mock sessions were conducted to train delegates as well as ensure that all rules and procedures were followed. The Secretary General, Vidhaan Khotari, supervised both Pawan Baug and Chikoowadi trainings, with the help of Urvi Ma'am, Vinay Sir and Kaushal Sir. The training lasted for nine days, with the help of the logistics team, overseen by the USGs Aarya Kudav and Aman Agarwal.
 
 ~ Unnati Shah, AS Levels
 
 # Ceremony
 ## opening
-As we began our journey into WISMUN 2K23, Siya Raikar and Vedant Torgal, AS Level students, skilfully guided the opening ceremony. The event commenced with a captivating speech delivered by the Director General, Yashvi Mange. This was succeeded by the introduction of the Secretariat and Executive Board members. Adding to the charm, students from Witty Chikoowadi presented an engaging dance performance for the audience's delight.
+It was time for action!Siya Raikar and Vedant Torgal, AS Level students, skilfully guided the opening ceremony. The event commenced with a captivating speech delivered by the Director General, Yashvi Mange. This was succeeded by the introduction of the Secretariat and Executive Board members. Adding to the charm, students from Witty Chikoowadi presented an engaging dance performance for the audience's delight.
 
 Furthermore, the Chief Guest, Mr. Sonal Verma, and the Guest of Honour, Mr. Shishir Joshi, delivered engaging speeches that ignited tremendous enthusiasm among the students. Mrs. Sheetal Kapoor, the head of training, counselling, curriculum, and principal of Chikoowadi, also graced the stage with a speech. The opening ceremony reached its peak, leaving everyone in high spirits as delegates headed to their committees for two days of productive debates and fruitful contributions to solve global issues.
 ~ Unnati Shah, AS Level
