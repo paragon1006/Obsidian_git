@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,7 +197,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "76caf8563c7eb370",
+  "active": "322c528cb7f7b225",
   "lastOpenFiles": [
     "School studies/English Language El/Diary Pg 140 Q1.md",
     "School studies/English Language El/English Language EL.md",

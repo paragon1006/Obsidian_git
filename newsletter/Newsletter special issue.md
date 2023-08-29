@@ -20,7 +20,7 @@ Eventually, after a few minutes of chaos on the field, the referees and match of
 The team stood together in a circumstance wherein drawing from the strength in unity was imperative, showcasing to not just CC-62 but everyone that no matter which sport is to be played, Wittians shall always triumph in terms of upholding the spirit of their team.
 # Training Sessions
 ## chairs and cochairs
-The chairs and vice chairs went through rigorous training under the tutelage of Nauyam sheikh, an alumni, where they were trained for their many duties and tasks as chairs and vice chairs and carried out many mock sessions and practices along with a plethora of handling any situation they might encounter. One of the practices went on till 730 in the evening!
+The chairs and vice chairs went through rigorous training under the tutelage of Nauyam sheikh, an alumni, where they were trained for their many duties and tasks as chairs and vice chairs and carried out many mock sessions and practices along with a plethora of handling difficult delegates-reframe. One of the practices went on till 730 in the evening!
 
 ~Pragun Damani, AS Level
 
