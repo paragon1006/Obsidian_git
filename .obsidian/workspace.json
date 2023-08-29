@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/English Language El/Diary Pg 140 Q1.md",
+                "file": "newsletter/Newsletter special issue.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/English Language El/Diary Pg 140 Q1.md",
+                "file": "newsletter/Newsletter special issue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/English Language El/Diary Pg 140 Q1.md",
+                "file": "newsletter/Newsletter special issue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/English Language El/Diary Pg 140 Q1.md"
+                "file": "newsletter/Newsletter special issue.md"
               }
             }
           },
@@ -198,6 +198,7 @@
   },
   "active": "76caf8563c7eb370",
   "lastOpenFiles": [
+    "School studies/English Language El/Diary Pg 140 Q1.md",
     "School studies/English Language El/English Language EL.md",
     "newsletter/Newsletter special issue.md",
     "School studies/Chem notes/States of matter.md",
@@ -216,7 +217,6 @@
     "School studies/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
     "School studies/Cambridge International AS and A Levels Computer Science.pdf",
     "School studies/Cambridge International AS and a Level English Language Coursebook.pdf",
-    "School studies/English Language El/Diary Pg 140 Q1.md",
     "School studies/English Language El/Cambridge International AS and a Level English Language Coursebook.pdf",
     "School studies/English Language El/SP Q.md",
     "Question 4.md",
