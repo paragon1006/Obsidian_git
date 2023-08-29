@@ -1,8 +1,6 @@
 #newsletter
 ## Cascade
-Cascade is always structured in a way that fosters healthy rivalries, especially when schools jump into a neck-to-neck. Jamnabai International School, organised its 28th Cascade, providing a stellar opportunity for the students of over forty schools to showcase their incredible skill. As always, a wide array of activities were available- from performing arts and sports to literary events- just to name a few categories.
-
-From performing arts and sports to literary events and a plethora of quizzes.
+Cascade is always structured in a way that fosters healthy rivalries, especially when schools jump into a neck-to-neck. Jamnabai International School, organised its 28th Cascade, providing a stellar opportunity for the students of over forty schools to showcase their incredible skill. As always, a wide array of activities were available from performing arts and sports to literary events and a plethora of quizzes.
 
 Witty International School’s students put on riveting performances, delivered thought provoking speeches, played with great zeal and above all, displayed the true spirit of sportsmanship while prioritising the essence of genuine contest.
 
