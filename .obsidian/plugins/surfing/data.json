@@ -43,17 +43,5 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "10628f64de869737",
-      "parent": 0,
-      "droppable": true,
-      "text": "Discord",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ]
+  "treeData": []
 }

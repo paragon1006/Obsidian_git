@@ -19,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "10628f64de869737",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://discord.com/channels/@me/1123941757122531428"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Save My Exams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Save My Exams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Save My Exams.md"
+              }
             }
           },
           {
@@ -202,7 +195,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "10628f64de869737",
+  "active": "40d0f7f8cca674a2",
   "lastOpenFiles": [
     "Save My Exams.md",
     "School studies/English Language El/SP Q.md",
