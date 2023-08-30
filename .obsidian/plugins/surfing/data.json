@@ -43,28 +43,5 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "db549b5dfe51149a",
-      "parent": 0,
-      "droppable": true,
-      "text": "Home - Canva",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "5df73c73998e1131",
-      "parent": 0,
-      "droppable": true,
-      "text": "Black and White Monochrome Train Newsletter",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ]
+  "treeData": []
 }

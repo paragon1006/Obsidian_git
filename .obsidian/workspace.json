@@ -19,17 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ae09871cda12763b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School studies/English Language El/Diary Pg 140 Q1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School studies/English Language El/Diary Pg 140 Q1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School studies/English Language El/Diary Pg 140 Q1.md"
+              }
             }
           },
           {
@@ -200,7 +195,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ae09871cda12763b",
+  "active": "468ba25de7316396",
   "lastOpenFiles": [
     "School studies/English Language El/Diary Pg 140 Q1.md",
     "Excalidraw/Drawing 2023-08-31 04.56.32.excalidraw.md",
