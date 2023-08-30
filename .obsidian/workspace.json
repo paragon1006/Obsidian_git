@@ -11,12 +11,19 @@
             "id": "40d0f7f8cca674a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Save My Exams.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Excalidraw/client-server-architecture.md"
+              }
+            }
+          },
+          {
+            "id": "ddeb36a4aba28d28",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "School studies/CS/networking/switch.png"
               }
             }
           }
@@ -94,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Save My Exams.md",
+                "file": "Excalidraw/client-server-architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Save My Exams.md",
+                "file": "Excalidraw/client-server-architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Save My Exams.md"
+                "file": "Excalidraw/client-server-architecture.md"
               }
             }
           },
@@ -197,7 +204,19 @@
   },
   "active": "40d0f7f8cca674a2",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-08-27 20.08.26.excalidraw.md",
     "Save My Exams.md",
+    "School studies/CS/networking/switch.png",
+    "School studies/CS/networking/star_network.png",
+    "School studies/CS/networking/simple_network.png",
+    "School studies/CS/networking/packet_switching.png",
+    "School studies/CS/networking/Network_architectures.png",
+    "School studies/CS/networking/modem.png",
+    "School studies/CS/networking/mesh_network.png",
+    "School studies/CS/networking/hub.png",
+    "School studies/CS/networking/dns.png",
+    "School studies/CS/networking/Cloud.png",
+    "Excalidraw/client-server-architecture.md",
     "School studies/English Language El/SP Q.md",
     "School studies/English Language El/English Language EL.md",
     "newsletter/Newsletter special issue.md",
@@ -206,8 +225,6 @@
     "School studies/Chem notes/Enthalpy.md",
     "School studies/Chem notes/Organic Chemistry.md",
     "School studies/Chem notes/Organic chem.canvas",
-    "School studies/Chem notes/Pasted image 20230724044538.png",
-    "School studies/Chem notes/Screenshot 2023-07-24 044228.png",
     "School studies/Chem notes/Untitled.canvas",
     "School studies/physics notes/Cambridge International AS & A Level Physics Coursebook with Digital Access (2 Years).pdf",
     "School studies/Chem notes/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
@@ -222,7 +239,6 @@
     "Question 4.md",
     "School studies/CS/networking/1,Networking.md",
     "School studies/CS/Datatypes and structures.md",
-    "Excalidraw/Drawing 2023-08-27 20.08.26.excalidraw.md",
     "rust/Cargo.md",
     "rust/crates.md",
     "rust/Hello, World! & basics of the lang.md",
@@ -231,20 +247,10 @@
     "Finances.md",
     "conflict-files-obsidian-git.md",
     "Datatypes and structures.md",
-    "School studies/CS/networking/switch.png",
-    "School studies/CS/networking/star_network.png",
-    "School studies/CS/networking/simple_network.png",
-    "School studies/CS/networking/packet_switching.png",
-    "School studies/CS/networking/Network_architectures.png",
-    "School studies/CS/networking/modem.png",
-    "School studies/CS/networking/mesh_network.png",
-    "School studies/CS/networking/hub.png",
     "School studies/physics notes/Force, Pressure & Density.md",
     "School studies/CS/Pseudocode.md",
     "School studies/CS/Programming.md",
     "School studies/CS/Flowcharts.md",
-    "School studies/Semester Portion.md",
-    "Semester Portion.md",
     "Chem notes/Organic chem.canvas"
   ]
 }
