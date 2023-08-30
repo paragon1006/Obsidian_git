@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "58f356048eac7f93",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.musicianwave.com/words-to-describe-music/"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "newsletter/Newsletter special issue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "newsletter/Newsletter special issue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "newsletter/Newsletter special issue.md"
-              }
+              "state": {}
             }
           },
           {
@@ -195,12 +202,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2489640f9e91e6a6",
+  "active": "58f356048eac7f93",
   "lastOpenFiles": [
+    "newsletter/Newsletter special issue.md",
     "readme.md",
     "Save My Exams.md",
     "Question 4.md",
-    "newsletter/Newsletter special issue.md",
     "Excalidraw/client-server-architecture.md",
     "School studies/CS/networking/switch.png",
     "Excalidraw/Drawing 2023-08-27 20.08.26.excalidraw.md",
