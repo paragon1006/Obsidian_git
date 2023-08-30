@@ -40,8 +40,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School studies/English Language El/Diary Pg 140 Q1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School studies/English Language El/Diary Pg 140 Q1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School studies/English Language El/Diary Pg 140 Q1.md"
+              }
             }
           },
           {
@@ -213,7 +216,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5df73c73998e1131",
+  "active": "468ba25de7316396",
   "lastOpenFiles": [
     "School studies/English Language El/Diary Pg 140 Q1.md",
     "2023-08-31.md",
