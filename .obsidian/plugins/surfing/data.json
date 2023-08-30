@@ -45,10 +45,21 @@
   },
   "treeData": [
     {
-      "id": "71579298446e706d",
+      "id": "db549b5dfe51149a",
       "parent": 0,
       "droppable": true,
-      "text": "Reddit - Dive into anything",
+      "text": "Home - Canva",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "5df73c73998e1131",
+      "parent": 0,
+      "droppable": true,
+      "text": "Black and White Monochrome Train Newsletter",
       "data": {
         "fileType": "site",
         "fileSize": "",

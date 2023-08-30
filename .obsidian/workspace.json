@@ -19,8 +19,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "db549b5dfe51149a",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://canva.com"
+              }
+            }
+          },
+          {
+            "id": "5df73c73998e1131",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.canva.com/design/DAFrnY2-nJc/weZY2xvt2hLXOP_urmmvyQ/edit"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/English Language El/Diary Pg 140 Q1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/English Language El/Diary Pg 140 Q1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School studies/English Language El/Diary Pg 140 Q1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -196,7 +213,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "468ba25de7316396",
+  "active": "5df73c73998e1131",
   "lastOpenFiles": [
     "School studies/English Language El/Diary Pg 140 Q1.md",
     "2023-08-31.md",
