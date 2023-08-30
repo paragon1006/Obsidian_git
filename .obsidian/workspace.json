@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f5c913ddce02fa94",
+        "id": "ef7388d567e9654b",
         "type": "tabs",
         "children": [
           {
-            "id": "2489640f9e91e6a6",
+            "id": "468ba25de7316396",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "School studies/English Language El/Diary Pg 140 Q1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -69,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School studies/English Language El/Diary Pg 140 Q1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School studies/English Language El/Diary Pg 140 Q1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School studies/English Language El/Diary Pg 140 Q1.md"
+              }
             }
           },
           {
@@ -186,17 +196,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2489640f9e91e6a6",
+  "active": "468ba25de7316396",
   "lastOpenFiles": [
+    "obsidian format/Obsidian-formatting.md",
+    "School studies/English Language El/Diary Pg 140 Q1.md",
     "School studies/CS/Programming.md",
     "School studies/Chem notes/Enthalpy.md",
     "School studies/Semester Portion.md",
     "obsidian format/MathJax.md",
-    "obsidian format/Obsidian-formatting.md",
     "School studies/Chem notes/States of matter.md",
     "School studies/CS/Datatypes and structures.md",
     "Question 4.md",
-    "School studies/English Language El/Diary Pg 140 Q1.md",
     "School studies/English Language El/SP Q.md",
     "School studies/English Language El/English Language EL.md",
     "Excalidraw/Drawing 2023-08-31 01.51.39.excalidraw.md",
