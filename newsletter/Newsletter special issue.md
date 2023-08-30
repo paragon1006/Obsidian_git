@@ -27,6 +27,8 @@ The chairs and vice chairs went through rigorous training under the tutelage of 
 WISMUN delegates underwent training sessions in Pawan Baug and Chikoowadi, under the guidance of the Executive Board. The first sessions were for the general committees, while the second sessions were for the AIPPM and IWC committees. Mock sessions were conducted to train delegates as well as ensure that all rules and procedures were followed. The Secretary General, Vidhaan Khotari, supervised both Pawan Baug and Chikoowadi trainings, with the help of Urvi Ma'am, Vinay Sir and Kaushal Sir. The training lasted for nine days, with the help of the logistics team, overseen by the USGs Aarya Kudav and Aman Agarwal.
 
 ~ Unnati Shah, AS Levels
+## Hosting
+The responsibility of hosting was managed jointly by the USG of Communications, Khushi Beherani, and the USG of Delegate Affairs, Mayur Ramesh. Kareena Faria, Rishabh Vazir, Siya Raikar, and Vedant Torgal led the hosting and scriptwriting. They created the script tailored to match their own personalities, working on this creative project for two weeks. The unwavering dedication they invested brought out impressive results witnessed in the opening and closing ceremony.
 
 # Ceremony
 ## opening

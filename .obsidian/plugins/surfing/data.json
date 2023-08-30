@@ -43,5 +43,17 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": []
+  "treeData": [
+    {
+      "id": "09a7bb01c42c9575",
+      "parent": 0,
+      "droppable": true,
+      "text": "GitHub - paragon1006/Obsidian_git: For my personal git backup of files",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ]
 }

@@ -4,26 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e84f9df91ad7f054",
+        "id": "f5c913ddce02fa94",
         "type": "tabs",
         "children": [
           {
-            "id": "40d0f7f8cca674a2",
+            "id": "2489640f9e91e6a6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/client-server-architecture.md"
-              }
-            }
-          },
-          {
-            "id": "ddeb36a4aba28d28",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "School studies/CS/networking/switch.png"
+                "file": "newsletter/Newsletter special issue.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -101,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/client-server-architecture.md",
+                "file": "newsletter/Newsletter special issue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/client-server-architecture.md",
+                "file": "newsletter/Newsletter special issue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/client-server-architecture.md"
+                "file": "newsletter/Newsletter special issue.md"
               }
             }
           },
@@ -202,11 +195,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "40d0f7f8cca674a2",
+  "active": "2489640f9e91e6a6",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-08-27 20.08.26.excalidraw.md",
+    "readme.md",
     "Save My Exams.md",
+    "Question 4.md",
+    "newsletter/Newsletter special issue.md",
+    "Excalidraw/client-server-architecture.md",
     "School studies/CS/networking/switch.png",
+    "Excalidraw/Drawing 2023-08-27 20.08.26.excalidraw.md",
     "School studies/CS/networking/star_network.png",
     "School studies/CS/networking/simple_network.png",
     "School studies/CS/networking/packet_switching.png",
@@ -216,10 +213,8 @@
     "School studies/CS/networking/hub.png",
     "School studies/CS/networking/dns.png",
     "School studies/CS/networking/Cloud.png",
-    "Excalidraw/client-server-architecture.md",
     "School studies/English Language El/SP Q.md",
     "School studies/English Language El/English Language EL.md",
-    "newsletter/Newsletter special issue.md",
     "School studies/English Language El/Diary Pg 140 Q1.md",
     "School studies/Chem notes/States of matter.md",
     "School studies/Chem notes/Enthalpy.md",
@@ -236,14 +231,12 @@
     "School studies/Cambridge International AS and A Levels Computer Science.pdf",
     "School studies/Cambridge International AS and a Level English Language Coursebook.pdf",
     "School studies/English Language El/Cambridge International AS and a Level English Language Coursebook.pdf",
-    "Question 4.md",
     "School studies/CS/networking/1,Networking.md",
     "School studies/CS/Datatypes and structures.md",
     "rust/Cargo.md",
     "rust/crates.md",
     "rust/Hello, World! & basics of the lang.md",
     "obsidian format/Obsidian-formatting.md",
-    "readme.md",
     "Finances.md",
     "conflict-files-obsidian-git.md",
     "Datatypes and structures.md",
