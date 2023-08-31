@@ -31,3 +31,13 @@
 - Systematic errors arise from the use of faulty instruments used or from flaws in the experimental method
 - This type of error is repeated every time the instrument is used or the method is followed, which affects the **accuracy** of all readings obtained
 - To **reduce** systematic errors: instruments should be **recalibrated** or the technique being used should be corrected or adjusted
+![[prescisionoraccuracy.excalidraw]]
+## Zero_Error
+- This is a type of systematic error which occurs when an instrument gives a reading when the **true reading is zero**
+- This introduces a fixed error into readings which must be accounted for when the results are recorded
+
+# Precision&Accuracy
+- **Precision of a measurement:** this is how close the measured values are to each other; if a measurement is repeated several times, then they can be described as precise when the values are very similar to, or the same as, each other
+- The precision of a measurement is reflected in the values recorded - measurements to a greater number of decimal places are said to be more **precise** than those to a whole number
+- **Accuracy**: this is how close a measured value is to the true value; the accuracy can be increased by repeating measurements and finding a mean average
+# 
