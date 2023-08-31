@@ -26,7 +26,7 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://www.savemyexams.com/a-level/physics/cie/22/revision-notes/1-physical-quantities--units/1-1-physical-quantities--units/1-1-1-physical-quantities/"
+                "url": "https://www.savemyexams.com/a-level/physics/cie/22/revision-notes/1-physical-quantities--units/1-1-physical-quantities--units/1-1-2-si-units/"
               }
             }
           }
@@ -49,8 +49,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "09809f7719b49f1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d967d98868519a35",
@@ -125,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "readme.md"
+              }
             }
           },
           {
@@ -223,9 +240,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "52a4cbde5fba5687",
+  "active": "09809f7719b49f1f",
   "lastOpenFiles": [
     "Physical Quantities.md",
+    "'.md",
+    "Physical.md",
     "Save My Exams.md",
     "Excalidraw/client-server-architecture.md",
     "School studies/English Language El/Diary Pg 140 Q1.md",
@@ -271,8 +290,6 @@
     "School studies/CS/networking/1,Networking.md",
     "rust/Cargo.md",
     "rust/crates.md",
-    "rust/Hello, World! & basics of the lang.md",
-    "Finances.md",
     "Chem notes/Organic chem.canvas"
   ]
 }
