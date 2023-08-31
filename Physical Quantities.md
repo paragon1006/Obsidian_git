@@ -1,5 +1,5 @@
 #physics #science 
-
+https://pmt.physicsandmathstutor.com/download/Physics/A-level/Notes/CAIE/01-Physical-Quantities-Units/Notes%20-%20Topic%201%20%20Physical%20Quantities%20and%20Units-%20CAIE%20Physics%20A-level.pdf
 # Physical_Quantity
 - Anything that can be measured is a physical quantity 
 - All physical quantities consist of a numerical magnitude and a unit
