@@ -48,7 +48,18 @@
       "id": "52a4cbde5fba5687",
       "parent": 0,
       "droppable": true,
-      "text": "Physical Quantities (1.1.1) | CIE A Level Physics Revision Notes 2022 | Save My Exams",
+      "text": "Scalars & Vectors (1.1.4) | CIE A Level Physics Revision Notes 2022 | Save My Exams",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "e4e3c17842d54b84",
+      "parent": 0,
+      "droppable": true,
+      "text": "Code Chart (ALT and HTML) for Greek Letters & Symbols",
       "data": {
         "fileType": "site",
         "fileSize": "",

@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1983170b42435741",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Save My Exams.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "52a4cbde5fba5687",
             "type": "leaf",
             "state": {
@@ -30,8 +17,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4dc2022f908f1ca5",
@@ -125,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2023-08-31 17.28.33.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2023-08-31 17.28.33.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Drawing 2023-08-31 17.28.33.excalidraw.md"
+              }
             }
           },
           {
@@ -223,13 +213,50 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "52a4cbde5fba5687",
+  "floating": {
+    "id": "d4bbd20ce9d801bb",
+    "type": "floating",
+    "children": [
+      {
+        "id": "84ee434c06dab738",
+        "type": "window",
+        "children": [
+          {
+            "id": "05f0d62aaa9fbd98",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e1502b4191715b90",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Drawing 2023-08-31 17.28.33.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1034,
+        "y": 28,
+        "width": 620,
+        "height": 680,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e1502b4191715b90",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Excalidraw/Drawing 2023-08-31 17.28.33.excalidraw.md",
+    "Save My Exams.md",
     "Physical Quantities.md",
     "readme.md",
     "'.md",
     "Physical.md",
-    "Save My Exams.md",
     "Excalidraw/client-server-architecture.md",
     "School studies/English Language El/Diary Pg 140 Q1.md",
     "2023-08-31.md",
@@ -271,8 +298,6 @@
     "School studies/Cambridge International AS and A Levels Computer Science.pdf",
     "School studies/Cambridge International AS and a Level English Language Coursebook.pdf",
     "School studies/CS/networking/1,Networking.md",
-    "rust/Cargo.md",
-    "rust/crates.md",
     "Chem notes/Organic chem.canvas"
   ]
 }
