@@ -18,13 +18,14 @@
 
 | Num | Chapter              | Fin | Tut |
 | --- | -------------------- | --- | --- |
-| 1   | Kinematics           | Y   | Y   |
-| 2   | Accelerated Motion   | Y   | Y   |
-| 3   | Dynamics             | Y   | Y   |
-| 4   | Forces               | Y   | Y   |
-| 5   | Work, Energy & Power | Y   | Y   |
-| 6   | Momentum             | Y   | Y   |
-| 7   | Matter and Materials | P   | N   |
+| 1   | Physical Quantities  | Y   | Y   |
+| 2   | Kinematics           | Y   | Y   |
+| 3   | Accelerated Motion   | Y   | Y   |
+| 4   | Dynamics             | Y   | Y   |
+| 5   | Forces               | Y   | Y   |
+| 6   | Work, Energy & Power | Y   | Y   |
+| 7   | Momentum             | Y   | Y   |
+| 8   | Matter and Materials | Y   | N   |
 | 12  | Waves                | N   | N   |
 
 # Computer Science
