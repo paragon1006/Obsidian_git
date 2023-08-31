@@ -4,16 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "a0fc9945f87ecd0b",
+        "id": "3bafd5771a0ac57d",
         "type": "tabs",
         "children": [
           {
-            "id": "96b8181eb9e57ceb",
+            "id": "1983170b42435741",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/client-server-architecture.md"
+                "file": "Save My Exams.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52a4cbde5fba5687",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.savemyexams.com/a-level/physics/cie/22/revision-notes/1-physical-quantities--units/1-1-physical-quantities--units/1-1-1-physical-quantities/"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "4dc2022f908f1ca5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d06078da46eb6e26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physical Quantities.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -75,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d967d98868519a35",
@@ -91,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/client-server-architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/client-server-architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/client-server-architecture.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 223.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,8 +223,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "96b8181eb9e57ceb",
+  "active": "52a4cbde5fba5687",
   "lastOpenFiles": [
+    "Physical Quantities.md",
+    "Save My Exams.md",
+    "Excalidraw/client-server-architecture.md",
     "School studies/English Language El/Diary Pg 140 Q1.md",
     "2023-08-31.md",
     "Excalidraw/Drawing 2023-08-31 04.56.32.excalidraw.md",
@@ -212,8 +246,6 @@
     "Untitled 20230831 015130.encrypted",
     "newsletter/Newsletter special issue.md",
     "readme.md",
-    "Save My Exams.md",
-    "Excalidraw/client-server-architecture.md",
     "School studies/CS/networking/switch.png",
     "Excalidraw/Drawing 2023-08-27 20.08.26.excalidraw.md",
     "School studies/CS/networking/star_network.png",
@@ -241,7 +273,6 @@
     "rust/crates.md",
     "rust/Hello, World! & basics of the lang.md",
     "Finances.md",
-    "conflict-files-obsidian-git.md",
     "Chem notes/Organic chem.canvas"
   ]
 }
