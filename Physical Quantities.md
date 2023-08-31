@@ -1,9 +1,4 @@
 #physics #science 
-- [Physical_Quantity](#physical_quantity)
-- [SI_Base_Units](#si_base_units)
-	- [6_Base_Units](#6_base_units)
-- [Derived_Units](#derived_units)
-
 # Physical_Quantity
 - Anything that can be measured is a physical quantity 
 - All physical quantities consist of a numerical magnitude and a unit
@@ -21,3 +16,6 @@
 
 # Derived_Units
 
+
+
+- [ ] Finished
