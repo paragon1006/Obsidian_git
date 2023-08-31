@@ -108,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d967d98868519a35",
@@ -124,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Physical Quantities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Physical Quantities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Physical Quantities.md"
+              }
             }
           },
           {
@@ -222,7 +227,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "52a4cbde5fba5687",
+  "active": "54c5a6e575f4cd1d",
   "lastOpenFiles": [
     "Physical Quantities.md",
     "readme.md",

@@ -1,4 +1,5 @@
 #physics #science 
+
 # Physical_Quantity
 - Anything that can be measured is a physical quantity 
 - All physical quantities consist of a numerical magnitude and a unit
@@ -14,8 +15,4 @@
 | Temperature         | Kelvin   | K      |
 | Amount Of Substance | Mole     | mol    |
 
-# Derived_Units
 
-
-
-- [ ] Finished
