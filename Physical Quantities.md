@@ -17,3 +17,5 @@
 
 
 # Scalar&Vector
+- A **scalar** is a quantity which **only** has a magnitude (size)
+- A **vector** is a quantity which has **both** a magnitude and a direction
