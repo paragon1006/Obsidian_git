@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School studies/physics notes/1.Physics.readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School studies/physics notes/1.Physics.readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -131,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School studies/physics notes/1.Physics.readme.md"
+              }
             }
           },
           {
@@ -192,41 +196,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "d4bbd20ce9d801bb",
-    "type": "floating",
-    "children": [
-      {
-        "id": "84ee434c06dab738",
-        "type": "window",
-        "children": [
-          {
-            "id": "05f0d62aaa9fbd98",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e1502b4191715b90",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1034,
-        "y": 28,
-        "width": 620,
-        "height": 680,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "e1502b4191715b90",
+  "active": "52a4cbde5fba5687",
   "lastOpenFiles": [
+    "School studies/physics notes/physics-maths-tutor/2kinematics.pdf",
     "School studies/physics notes/1.Physics.readme.md",
     "School studies/Semester Portion.md",
     "School studies/physics notes/Physical Quantities.md",
@@ -255,7 +227,6 @@
     "School studies/English Language El/English Language EL.md",
     "Excalidraw/Drawing 2023-08-31 01.51.39.excalidraw.md",
     "Untitled 20230831 015130.encrypted",
-    "newsletter/Newsletter special issue.md",
     "School studies/CS/networking/switch.png",
     "School studies/CS/networking/star_network.png",
     "School studies/CS/networking/simple_network.png",
