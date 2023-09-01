@@ -32,19 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5a08e76822b05caa",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,7 +209,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5a08e76822b05caa",
+  "active": "f9e4fe7c38948fa7",
   "lastOpenFiles": [
     "School studies/physics notes/Physical Quantities.md",
     "Physics flashcards.md",

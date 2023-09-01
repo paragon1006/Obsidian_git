@@ -1,5 +1,5 @@
-#physics #flashcards
-## Chapter 1
+#physics #flashcards 
+# Chapter 1
 What is a physical quantity :: Anything that can be measured is a physical quantity 
 How represent a physical quantity :: To represent a physical quantity, it must contain both a numerical value and the **unit** in which it was measured <!--SR:!2023-09-04,3,250-->
 Base unit of mass :: Kilogram kg <!--SR:!2023-09-05,4,270-->
