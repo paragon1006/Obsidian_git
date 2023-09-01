@@ -13,20 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homework.md",
+                "file": "School studies/English Language El/Page 147 EL hw.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "7633078cddbf01cc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/englishhomework1_9_23.excalidraw.md"
               }
             }
           }
@@ -104,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework.md",
+                "file": "School studies/English Language El/Page 147 EL hw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homework.md",
+                "file": "School studies/English Language El/Page 147 EL hw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework.md"
+                "file": "School studies/English Language El/Page 147 EL hw.md"
               }
             }
           },
@@ -208,11 +198,12 @@
   },
   "active": "45b4eb1776cb5a7a",
   "lastOpenFiles": [
+    "School studies/English Language El/Page 147 EL hw.md",
+    "School studies/Notes websites.md",
+    "School studies/English Language El/Diary Pg 140 Q1.md",
     "obsidian format/Obsidian-formatting.md",
-    "Homework.md",
     "Excalidraw/englishhomework1_9_23.excalidraw.md",
     "Pasted Image 20230901081322_875.png",
-    "Notes websites.md",
     "rust/Hello, World! & basics of the lang.md",
     "rust/crates.md",
     "rust/Cargo.md",
@@ -229,7 +220,6 @@
     "'.md",
     "Physical.md",
     "Excalidraw/client-server-architecture.md",
-    "School studies/English Language El/Diary Pg 140 Q1.md",
     "2023-08-31.md",
     "Excalidraw/Drawing 2023-08-31 04.56.32.excalidraw.md",
     "School studies/Chem notes/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
