@@ -4,15 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "8bc98bfb98831ed9",
+        "id": "f9bacb1e55bcbe63",
         "type": "tabs",
         "children": [
           {
-            "id": "c71f59d6df05b607",
+            "id": "45b4eb1776cb5a7a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "obsidian format/Obsidian-formatting.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7633078cddbf01cc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/englishhomework1_9_23.excalidraw.md"
+              }
             }
           }
         ]
@@ -44,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#cie",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +84,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "obsidian format/Obsidian-formatting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "obsidian format/Obsidian-formatting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "obsidian format/Obsidian-formatting.md"
+              }
             }
           },
           {
@@ -188,8 +206,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c71f59d6df05b607",
+  "active": "45b4eb1776cb5a7a",
   "lastOpenFiles": [
+    "Homework.md",
+    "Excalidraw/englishhomework1_9_23.excalidraw.md",
+    "Pasted Image 20230901081322_875.png",
     "Notes websites.md",
     "rust/Hello, World! & basics of the lang.md",
     "rust/crates.md",
@@ -200,7 +221,6 @@
     "School studies/physics notes/physics-maths-tutor/2kinematics.pdf",
     "School studies/physics notes/Physical Quantities.md",
     "Excalidraw/Pasted Image 20230831180415_600.png",
-    "Untitled.md",
     "Excalidraw/Drawing 2023-08-31 17.28.33.excalidraw.md",
     "Save My Exams.md",
     "Physical Quantities.md",
@@ -217,8 +237,6 @@
     "School studies/Chem notes/Enthalpy.md",
     "obsidian format/MathJax.md",
     "School studies/Chem notes/States of matter.md",
-    "School studies/CS/Datatypes and structures.md",
-    "Question 4.md",
     "Untitled 20230831 015130.encrypted",
     "School studies/CS/networking/switch.png",
     "School studies/CS/networking/star_network.png",
@@ -228,7 +246,6 @@
     "School studies/CS/networking/modem.png",
     "School studies/CS/networking/mesh_network.png",
     "School studies/CS/networking/hub.png",
-    "School studies/CS/networking/dns.png",
     "School studies/Chem notes/Organic chem.canvas",
     "School studies/Chem notes/Untitled.canvas",
     "School studies/physics notes/Cambridge International AS & A Level Physics Coursebook with Digital Access (2 Years).pdf",
