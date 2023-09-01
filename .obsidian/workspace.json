@@ -32,9 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5a08e76822b05caa",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -175,9 +185,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "01bf04ca3732625e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -201,7 +219,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "322c528cb7f7b225",
+  "active": "5a08e76822b05caa",
   "lastOpenFiles": [
     "School studies/physics notes/Physical Quantities.md",
     "Physics flashcards.md",
