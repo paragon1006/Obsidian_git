@@ -177,11 +177,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,7 +201,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f9e4fe7c38948fa7",
+  "active": "322c528cb7f7b225",
   "lastOpenFiles": [
     "School studies/physics notes/Physical Quantities.md",
     "Physics flashcards.md",
