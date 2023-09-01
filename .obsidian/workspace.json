@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Notes websites.md",
+                "file": "School studies/CS/Programming.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f1c59b6117385b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School studies/physics notes/Physical Quantities.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Notes websites.md",
+                "file": "School studies/CS/Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Notes websites.md",
+                "file": "School studies/CS/Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Notes websites.md"
+                "file": "School studies/CS/Programming.md"
               }
             }
           },
@@ -198,9 +211,14 @@
   },
   "active": "f9e4fe7c38948fa7",
   "lastOpenFiles": [
-    "obsidian format/MathJax.md",
-    "School studies/Notes websites.md",
     "School studies/physics notes/Physical Quantities.md",
+    "School studies/CS/Programming.md",
+    "School studies/CS/Flowcharts.md",
+    "School studies/CS/Pseudocode.md",
+    "School studies/Semester Portion.md",
+    "School studies/Notes websites.md",
+    "Untitled.md",
+    "obsidian format/MathJax.md",
     "School studies/physics notes/Cambridge International AS & A Level Physics Coursebook with Digital Access (2 Years).pdf",
     "School studies/physics notes/Physics flashcards.md",
     "School studies/physics notes/1.Physics.readme.md",
@@ -213,7 +231,6 @@
     "rust/Hello, World! & basics of the lang.md",
     "rust/crates.md",
     "rust/Cargo.md",
-    "School studies/Semester Portion.md",
     "School studies/Chem notes/1.Chemistry.readme.md",
     "School studies/physics notes/physics-maths-tutor/2kinematics.pdf",
     "Excalidraw/Pasted Image 20230831180415_600.png",
@@ -224,10 +241,7 @@
     "'.md",
     "Physical.md",
     "Excalidraw/client-server-architecture.md",
-    "2023-08-31.md",
-    "Excalidraw/Drawing 2023-08-31 04.56.32.excalidraw.md",
     "School studies/Chem notes/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
-    "School studies/CS/Programming.md",
     "Untitled 20230831 015130.encrypted",
     "School studies/CS/networking/switch.png",
     "School studies/CS/networking/star_network.png",
