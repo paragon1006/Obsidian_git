@@ -43,17 +43,5 @@
     ],
     "defaultFilterType": "menu"
   },
-  "treeData": [
-    {
-      "id": "8b445cea0be7b8f4",
-      "parent": 0,
-      "droppable": true,
-      "text": "HTML Web Page Examples (with Source Code)",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ]
+  "treeData": []
 }
