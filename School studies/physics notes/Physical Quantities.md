@@ -13,7 +13,7 @@
 # Physical_Quantity
 - What is a physical quantity :: Anything that can be measured is a physical quantity 
 - What All physical quantities consist of a numerical magnitude and a unit
-- How represent a physical quantity :: To represent a physical quantity, it must contain both a numerical value and the **unit** in which it was measured <!--SR:!2023-09-04,3,250-->
+- To represent a physical quantity, it must contain both a numerical value and the **unit** in which it was measured 
 # SI_Base_Units 
 ## 6_Base_Units
 | **Quantity**        | **SI Base** | **Symbol** |
