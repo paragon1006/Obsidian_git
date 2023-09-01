@@ -1,3 +1,4 @@
+#rust #code
 ## New Cargo
 ``` terminal
 cargo new {cargo_name}

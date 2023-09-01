@@ -1,3 +1,4 @@
+#rust #code
 ``` rust
 fn main(){
     println!("hello, world!")
