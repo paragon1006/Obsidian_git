@@ -19,19 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "340964bce440ca02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian format/MathJax.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -211,10 +198,10 @@
   },
   "active": "f9e4fe7c38948fa7",
   "lastOpenFiles": [
+    "obsidian format/MathJax.md",
     "School studies/Notes websites.md",
     "School studies/physics notes/Physical Quantities.md",
     "School studies/physics notes/Cambridge International AS & A Level Physics Coursebook with Digital Access (2 Years).pdf",
-    "obsidian format/MathJax.md",
     "School studies/physics notes/Physics flashcards.md",
     "School studies/physics notes/1.Physics.readme.md",
     "School studies/physics notes/Force, Pressure & Density.md",
