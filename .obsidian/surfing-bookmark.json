@@ -1,6 +1,18 @@
 {
   "bookmarks": [
     {
+      "id": "1836938752",
+      "name": "Reddit",
+      "url": "https://reddit.com",
+      "description": "reddit",
+      "category": [
+        "Computer"
+      ],
+      "tags": "",
+      "created": 1693426500000,
+      "modified": 1693426500000
+    },
+    {
       "id": "-1875438792",
       "name": "Obsidian discord",
       "url": "https://discord.com/channels/@me",
