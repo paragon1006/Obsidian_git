@@ -150,13 +150,18 @@
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "meld-encrypt:New encrypted note": false,
-      "meld-encrypt:Convert to or from an Encrypted note": false
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ee8dc2d84a2c2258",
+  "active": "d4e6a019bc3e7e05",
   "lastOpenFiles": [
+    "School studies/English Language El/Page 147 EL hw.md",
+    "readme.md",
+    "Excalidraw/Drawing 2023-08-27 20.08.26.excalidraw.md",
+    "School studies/Semester Portion.md",
+    "School studies/physics notes/physics-maths-tutor/12.5superposition.pdf",
     "School studies/physics notes/1.Physics.readme.md",
     "School studies/physics notes/Physical Quantities.md",
     "School studies/physics notes/physics-maths-tutor/3dynamics.pdf",
@@ -171,8 +176,6 @@
     "Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md",
     "School studies/physics notes/physics-maths-tutor/4forces_density_pressure.pdf",
     "School studies/physics notes/physics-maths-tutor/12waves.pdf",
-    "School studies/physics notes/physics-maths-tutor/12.5superposition.pdf",
-    "School studies/English Language El/Page 147 EL hw.md",
     "School studies/Chem notes/1.Chemistry.readme.md",
     "Pasted Image 20230901081322_875.png",
     "Excalidraw/resolving-vectors.excalidraw.md",
@@ -192,9 +195,6 @@
     "/Excalidraw/prescisionoraccuracy.excalidraw.md",
     "/Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md",
     "/rust/crates.md",
-    "/rust/Hello, World! & basics of the lang.md",
-    "/rust/Cargo.md",
-    "/obsidian format/Obsidian-formatting.md",
     "/Pasted Image 20230901081322_875.png",
     "/Excalidraw/Pasted Image 20230831180415_600.png"
   ]
