@@ -49,3 +49,4 @@
 - The precision of a measurement is reflected in the values recorded - measurements to a greater number of decimal places are said to be more **precise** than those to a whole number
 - **Accuracy**: this is how close a measured value is to the true value; the accuracy can be increased by repeating measurements and finding a mean average
 ![[prescisionoraccuracy.excalidraw]]
+# Uncertainty
