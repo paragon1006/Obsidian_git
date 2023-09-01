@@ -21,19 +21,17 @@
             }
           },
           {
-            "id": "8f1c59b6117385b0",
+            "id": "5f4caffd037b918f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "School studies/physics notes/Physical Quantities.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Programming.md",
+                "file": "Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Programming.md",
+                "file": "Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/CS/Programming.md"
+                "file": "Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md"
               }
             }
           },
@@ -209,10 +207,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f9e4fe7c38948fa7",
+  "active": "5f4caffd037b918f",
   "lastOpenFiles": [
-    "School studies/physics notes/Physical Quantities.md",
     "School studies/CS/Programming.md",
+    "Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md",
+    "School studies/physics notes/Physical Quantities.md",
     "School studies/CS/Flowcharts.md",
     "School studies/CS/Pseudocode.md",
     "School studies/Semester Portion.md",
@@ -240,7 +239,6 @@
     "readme.md",
     "'.md",
     "Physical.md",
-    "Excalidraw/client-server-architecture.md",
     "School studies/Chem notes/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
     "Untitled 20230831 015130.encrypted",
     "School studies/CS/networking/switch.png",
