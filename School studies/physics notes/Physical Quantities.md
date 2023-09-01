@@ -1,21 +1,36 @@
 #physics #science 
-https://pmt.physicsandmathstutor.com/download/Physics/A-level/Notes/CAIE/01-Physical-Quantities-Units/Notes%20-%20Topic%201%20%20Physical%20Quantities%20and%20Units-%20CAIE%20Physics%20A-level.pdf
+- [Physical_Quantity](#physical_quantity)
+- [SI_Base_Units](#si_base_units)
+	- [6_Base_Units](#6_base_units)
+- [Scalar&Vector](#scalarvector)
+	- [Resolving_Vectors](#resolving_vectors)
+- [Errors](#errors)
+	- [Random_Error](#random_error)
+	- [Systematic_Error](#systematic_error)
+	- [Zero_Error](#zero_error)
+- [Precision&Accuracy](#precisionaccuracy)
+[Physics maths tutor for this chapter](https://pmt.physicsandmathstutor.com/download/Physics/A-level/Notes/CAIE/01-Physical-Quantities-Units/Notes%20-%20Topic%201%20%20Physical%20Quantities%20and%20Units-%20CAIE%20Physics%20A-level.pdf)
 # Physical_Quantity
-- Anything that can be measured is a physical quantity 
-- All physical quantities consist of a numerical magnitude and a unit
-- To represent a physical quantity, it must contain both a numerical value and the **unit** in which it was measured
+- What is a physical quantity :: Anything that can be measured is a physical quantity 
+- What All physical quantities consist of a numerical magnitude and a unit
+- How represent a physical quantity :: To represent a physical quantity, it must contain both a numerical value and the **unit** in which it was measured <!--SR:!2023-09-04,3,250-->
 # SI_Base_Units 
 ## 6_Base_Units
-| **Quantity**            | **SI Base**  | **Symbol** |
-| ------------------- | -------- | ------ |
-| Mass                | Kilogram | kg     |
-| Length              | Metre    | m      |
-| Time                | Second   | s      |
-| Current             | Ampere   | A      |
-| Temperature         | Kelvin   | K      |
-| Amount Of Substance | Mole     | mol    |
-
-
+| **Quantity**        | **SI Base** | **Symbol** |
+| ------------------- | ----------- | ---------- |
+| Mass                | Kilogram    | kg         |
+| Length              | Metre       | m          |
+| Time                | Second      | s          |
+| Current             | Ampere      | A          |
+| Temperature         | Kelvin      | K          |
+| Amount Of Substance | Mole        | mol        |
+## questions
+Base unit of mass :: Kilogram kg <!--SR:!2023-09-05,4,270-->
+Base unit of length :: Metre m <!--SR:!2023-09-05,4,270-->
+Base unit of time :: Seconds s <!--SR:!2023-09-05,4,270-->
+Base unit of current :: Ampere A <!--SR:!2023-09-05,4,270-->
+Base unit of Temperature :: Kelvin K <!--SR:!2023-09-05,4,270-->
+Base unit of Amount of Substance :: Mole mol <!--SR:!2023-09-05,4,270-->
 # Scalar&Vector
 - A **scalar** is a quantity which **only** has a magnitude (size)
 - A **vector** is a quantity which has **both** a magnitude and a direction

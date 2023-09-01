@@ -43,17 +43,5 @@
     ],
     "defaultFilterType": "menu"
   },
-  "treeData": [
-    {
-      "id": "8e29205c2c836ccc",
-      "parent": 0,
-      "droppable": true,
-      "text": "schizophrenia at DuckDuckGo",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ]
+  "treeData": []
 }
