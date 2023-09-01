@@ -11,13 +11,8 @@
             "id": "52a4cbde5fba5687",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/physics notes/1.Physics.readme.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/physics notes/1.Physics.readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/physics notes/1.Physics.readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School studies/physics notes/1.Physics.readme.md"
-              }
+              "state": {}
             }
           },
           {
@@ -198,8 +189,8 @@
   },
   "active": "52a4cbde5fba5687",
   "lastOpenFiles": [
-    "School studies/physics notes/physics-maths-tutor/2kinematics.pdf",
     "School studies/physics notes/1.Physics.readme.md",
+    "School studies/physics notes/physics-maths-tutor/2kinematics.pdf",
     "School studies/Semester Portion.md",
     "School studies/physics notes/Physical Quantities.md",
     "Excalidraw/Pasted Image 20230831180415_600.png",
@@ -245,7 +236,6 @@
     "School studies/Cambridge International AS & A Level Physics Coursebook with Digital Access (2 Years).pdf",
     "School studies/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
     "School studies/Cambridge International AS and A Levels Computer Science.pdf",
-    "School studies/Cambridge International AS and a Level English Language Coursebook.pdf",
     "Chem notes/Organic chem.canvas"
   ]
 }
