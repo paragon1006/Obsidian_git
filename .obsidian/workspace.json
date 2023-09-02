@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/CS/Programming.md",
+                "file": "School studies/English Language El/Page 147 EL hw.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Programming.md",
+                "file": "School studies/English Language El/Page 147 EL hw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Programming.md",
+                "file": "School studies/English Language El/Page 147 EL hw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/CS/Programming.md"
+                "file": "School studies/English Language El/Page 147 EL hw.md"
               }
             }
           },
@@ -198,8 +198,10 @@
   },
   "active": "f9e4fe7c38948fa7",
   "lastOpenFiles": [
-    "Excalidraw/procedures.excalidraw.md",
+    "Excalidraw/Pasted Image 20230901081322_875.png",
+    "readme.md",
     "School studies/CS/Programming.md",
+    "Excalidraw/procedures.excalidraw.md",
     "School studies/physics notes/Physical Quantities.md",
     "School studies/CS/Flowcharts.md",
     "School studies/CS/Pseudocode.md",
@@ -215,7 +217,6 @@
     "School studies/English Language El/Diary Pg 140 Q1.md",
     "obsidian format/Obsidian-formatting.md",
     "Excalidraw/englishhomework1_9_23.excalidraw.md",
-    "Pasted Image 20230901081322_875.png",
     "rust/Hello, World! & basics of the lang.md",
     "rust/crates.md",
     "rust/Cargo.md",
@@ -225,9 +226,7 @@
     "Excalidraw/Drawing 2023-08-31 17.28.33.excalidraw.md",
     "Save My Exams.md",
     "Physical Quantities.md",
-    "readme.md",
     "'.md",
-    "Physical.md",
     "School studies/Chem notes/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
     "Untitled 20230831 015130.encrypted",
     "School studies/CS/networking/switch.png",
