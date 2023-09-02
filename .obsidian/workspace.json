@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4a012eef512da5e4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "ffc79bb6495266f6",
             "type": "leaf",
             "state": {
@@ -49,7 +41,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,8 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 370.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,10 +216,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b5891a62aa4354dc",
+  "active": "322c528cb7f7b225",
   "lastOpenFiles": [
-    "School studies/CS/Programming.md",
     "School studies/CS/Pseudocode.md",
+    "School studies/CS/Programming.md",
     "obsidian format/Obsidian-formatting.md",
     "Excalidraw/cs-hw-gdhjksl.excalidraw.md",
     "Excalidraw/Drawing 2023-09-02 08.45.50.excalidraw.md",
