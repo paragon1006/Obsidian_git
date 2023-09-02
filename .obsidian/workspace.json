@@ -175,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,6 +197,8 @@
   },
   "active": "f9e4fe7c38948fa7",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "School studies/English Language El/Page 147 EL hw.md",
     "Excalidraw/Pasted Image 20230901081322_875.png",
     "readme.md",
     "School studies/CS/Programming.md",
@@ -213,7 +214,6 @@
     "School studies/physics notes/Physics flashcards.md",
     "School studies/physics notes/1.Physics.readme.md",
     "School studies/physics notes/Force, Pressure & Density.md",
-    "School studies/English Language El/Page 147 EL hw.md",
     "School studies/English Language El/Diary Pg 140 Q1.md",
     "obsidian format/Obsidian-formatting.md",
     "Excalidraw/englishhomework1_9_23.excalidraw.md",

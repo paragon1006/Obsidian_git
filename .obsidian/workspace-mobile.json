@@ -11,8 +11,13 @@
             "id": "d4e6a019bc3e7e05",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "readme.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "readme.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +114,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "readme.md"
+          }
         }
       },
       {
@@ -131,10 +140,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "meld-encrypt:New encrypted note": false,
-      "meld-encrypt:Convert to or from an Encrypted note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -143,45 +148,54 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "403b51cf637474c9",
+  "active": "d4e6a019bc3e7e05",
   "lastOpenFiles": [
-    "Question 4.md",
+    "School studies/English Language El/Page 147 EL hw.md",
     "readme.md",
-    "School studies/English Language El/SP Q.md",
     "Excalidraw/Drawing 2023-08-27 20.08.26.excalidraw.md",
-    "newsletter/Newsletter special issue.md",
-    "School studies/CS/networking/1,Networking.md",
-    "/School studies/English Language El/SP Q.md",
-    "/School studies/CS/networking/1,Networking.md",
-    "/Question 4.md",
-    "/Excalidraw/Drawing 2023-08-27 20.08.26.excalidraw.md",
-    "Excalidraw",
-    "/Excalidraw",
-    "obsidian format/Obsidian-formatting.md",
-    "transactions.ledger",
-    "School studies/English Language El/English Language EL.md",
-    "/transactions.ledger",
-    "/readme.md",
-    "/obsidian format/Obsidian-formatting.md",
-    "/School studies/English Language El/English Language EL.md",
-    "School studies/English Language El",
-    "/School studies/English Language El",
-    "School studies/CS/Pseudocode.md",
-    "School studies/CS/Datatypes and structures.md",
     "School studies/Semester Portion.md",
-    "School studies",
-    "rust/Cargo.md",
-    "School studies/English Language EL.md",
-    "School studies/Chem notes/Enthalpy.md",
-    "/Chem notes/Enthalpy.md",
-    "School studies/CS/Programming.md",
+    "School studies/physics notes/physics-maths-tutor/12.5superposition.pdf",
+    "School studies/physics notes/1.Physics.readme.md",
+    "School studies/physics notes/Physical Quantities.md",
+    "School studies/physics notes/physics-maths-tutor/3dynamics.pdf",
+    "School studies/physics notes/Physics flashcards.md",
+    "Excalidraw/englishhomework1_9_23.excalidraw.md",
+    "School studies/physics notes/physics-maths-tutor/7springs_stuff.pdf",
+    "School studies/physics notes/physics-maths-tutor/5work_energy_power.pdf",
+    "School studies/physics notes/physics-maths-tutor/2kinematics.pdf",
+    "School studies/physics notes/physics-maths-tutor/1physical_quantities.pdf",
+    "School studies/Notes websites.md",
+    "Excalidraw/prescisionoraccuracy.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md",
+    "School studies/physics notes/physics-maths-tutor/4forces_density_pressure.pdf",
+    "School studies/physics notes/physics-maths-tutor/12waves.pdf",
+    "School studies/Chem notes/1.Chemistry.readme.md",
+    "Pasted Image 20230901081322_875.png",
+    "Excalidraw/resolving-vectors.excalidraw.md",
+    "Excalidraw/Pasted Image 20230831180415_600.png",
+    "Excalidraw/Drawing 2023-08-31 01.51.39.excalidraw.md",
+    "/School studies/physics notes/1.Physics.readme.md",
+    "/School studies/physics notes/Physical Quantities.md",
+    "/School studies/physics notes/physics-maths-tutor/3dynamics.pdf",
+    "/School studies/physics notes/Physics flashcards.md",
+    "/School studies/English Language El/Diary Pg 140 Q1.md",
+    "/Excalidraw/englishhomework1_9_23.excalidraw.md",
     "/newsletter/Newsletter special issue.md",
-    "/Semester Portion.md",
-    "/English Language EL.md",
-    "School studies/physics notes",
-    "/physics notes"
+    "/School studies/physics notes/physics-maths-tutor/7springs_stuff.pdf",
+    "/School studies/Semester Portion.md",
+    "/School studies/Notes websites.md",
+    "/School studies/CS/Programming.md",
+    "/Excalidraw/prescisionoraccuracy.excalidraw.md",
+    "/Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md",
+    "/rust/crates.md",
+    "/Pasted Image 20230901081322_875.png",
+    "/Excalidraw/Pasted Image 20230831180415_600.png"
   ]
 }
