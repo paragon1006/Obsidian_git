@@ -26,9 +26,22 @@
                 "url": "file:///C:/Users/beast/AppData/Local/Microsoft/Windows/INetCache/IE/BDT69OPI/may_edition-1_230605_184900[1].pdf"
               }
             }
+          },
+          {
+            "id": "05b26fdc792adf32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School studies/CS/Pseudocode.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School studies/CS/Pseudocode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School studies/CS/Pseudocode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School studies/CS/Pseudocode.md"
+              }
             }
           },
           {
@@ -201,7 +218,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "75df8baf9b46413a",
+  "active": "05b26fdc792adf32",
   "lastOpenFiles": [
     "School studies/CS/Pseudocode.md",
     "School studies/CS/Programming.md",
