@@ -86,3 +86,28 @@ OUTPUT DIV(13,2)
 ```
 
 
+# Procedures
+##### ***Procedures*** 
+- It refers to a *self contained* block of code that performs a specific task or set of related tasks
+- It allows instructions to be re-usable and modular
+- It allows to break down code into smaller manageable pieces
+- Variables defined within a procedure have a limited scope
+	- That means *unlike* functions it cannot return a value
+
+![[procedures.excalidraw| 250]]
+``` PSEUDOCODE
+CALL dhruv
+CALL dhruv
+CALL dhruv
+''' OUT
+	Hello
+	Bye
+	See ya
+	Hello
+	Bye
+	See ya
+	Hello
+	Bye
+	See ya
+'''
+```

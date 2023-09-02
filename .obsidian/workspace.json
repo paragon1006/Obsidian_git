@@ -19,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5f4caffd037b918f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md",
+                "file": "School studies/CS/Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md",
+                "file": "School studies/CS/Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md"
+                "file": "School studies/CS/Programming.md"
               }
             }
           },
@@ -207,10 +196,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5f4caffd037b918f",
+  "active": "f9e4fe7c38948fa7",
   "lastOpenFiles": [
+    "Excalidraw/procedures.excalidraw.md",
     "School studies/CS/Programming.md",
-    "Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md",
     "School studies/physics notes/Physical Quantities.md",
     "School studies/CS/Flowcharts.md",
     "School studies/CS/Pseudocode.md",
