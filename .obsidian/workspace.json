@@ -14,8 +14,42 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "ffc79bb6495266f6",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.canva.com/"
+              }
+            }
+          },
+          {
+            "id": "b5891a62aa4354dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School studies/CS/Pseudocode.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0823db5be410305a",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://designs.ai/colors/colors/"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "School studies/CS/Pseudocode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "School studies/CS/Pseudocode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "School studies/CS/Pseudocode.md"
               }
             }
           },
@@ -170,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,12 +225,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "54c5a6e575f4cd1d",
+  "active": "b5891a62aa4354dc",
   "lastOpenFiles": [
-    "obsidian format/Obsidian-formatting.md",
     "School studies/CS/Programming.md",
-    "Excalidraw/cs-hw-gdhjksl.excalidraw.md",
     "School studies/CS/Pseudocode.md",
+    "obsidian format/Obsidian-formatting.md",
+    "Excalidraw/cs-hw-gdhjksl.excalidraw.md",
     "Excalidraw/Drawing 2023-09-02 08.45.50.excalidraw.md",
     "readme.md",
     "School studies/CS/Flowcharts.md",
