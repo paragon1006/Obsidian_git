@@ -9,7 +9,7 @@
 | 5   | [Loops (For)]()                                           | Y   |
 | 6   | [Loops (repeat)]                                          | Y   |
 | 7   | Loops (while)                                             | Y   |
-| 8   | Procedures (default)                                      | N   |
+| 8   | [Procedures (default)](#Procedures)                                      | N   |
 | 9   | Procedures (parameterized)                                | N   |
 | 10  | Functions (default)                                       | N   |
 | 11  | Functions (parameterized)                                 | N   |
@@ -99,6 +99,7 @@ OUTPUT DIV(13,2)
 CALL dhruv
 CALL dhruv
 CALL dhruv
+
 ''' OUT
 	Hello
 	Bye
@@ -111,3 +112,53 @@ CALL dhruv
 	See ya
 '''
 ```
+
+``` PSEUDOCODE
+OUTPUT "What do you want to do"
+INPUT ch
+CASE OF ch
+	1: CALL dhruv
+	2: OUTPUT "hehehehehe"
+ENDCASE
+CALL dhruv
+''' OUT
+	What do you want to do
+		1 {USER INPUT}
+	Hello
+	Bye
+	See ya
+'''
+```
+##### Default procedure structure
+``` PSEUDOCODE
+PROCEDURE Name
+	Statements 1
+	Statements 2
+ENDPROCEDURE
+CALL Name
+```
+
+
+>[!question]- ***WAP*** a procedure to add 2 numbers
+> ```PSEUDOCODE
+> PROCEDURE Add
+> 	OUTPUT "Enter num 1"
+> 	INPUT Num1
+> 	OUTPUT "Enter num 2"
+> 	INPUT Num2
+> 	Result <-- Num1+Num2
+> 	OUTPUT Result 
+> ```
+
+>[!question]- ***WAP*** a procedure to cube a number
+>``` PSEUDOCODE
+>PROCEDURE Cubie
+>	OUTPUT "Enter a number"
+>	INPUT Num
+>	RESULT <-- `Num**3`
+>	OUTPUT Result
+>ENDPROCEDURE
+>```
+
+>[!question]- ***WAP*** to ask a user a choice to perform various tasks ![[cs-hw-gdhjksl.excalidraw]]
+

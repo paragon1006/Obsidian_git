@@ -1,4 +1,23 @@
 Tags: #cs #pseudocode #code
+- [Components of pseudocode](#Components%20of%20pseudocode)
+	- [Variables](#Variables)
+		- [Memory locations](#Memory%20locations)
+		- [Datatypes:](###Datatypes:)
+	- [Input/Output](#Input/Output)
+	- [Conditional Statements](#Conditional%20Statements)
+		- [If pseudocode:](#If%20pseudocode:)
+		- [If python](#If%20python)
+		- [If Else pseudocode](#If%20Else%20pseudocode)
+		- [If Else python](#If%20Else%20python)
+		- [Case of pseudocode](#Case%20of%20pseudocode)
+	- [Iterative Statements](#Iterative%20Statements)
+		- [Components of Iterative Statements](#Components%20of%20Iterative%20Statements)
+		- [For loop pseudocode](#For%20loop%20pseudocode)
+		- [For loop python](#For%20loop%20python)
+		- [Repeat Until loop pseudocode](#Repeat%20Until%20loop%20pseudocode)
+		- [While loop pseudocode](#While%20loop%20pseudocode)
+		- [While loop python](#While%20loop%20python)
+
 # Components of pseudocode
 
 ## Variables

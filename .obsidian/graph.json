@@ -11,16 +11,12 @@
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1.99964278382262,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.320069204152249,
-  "repelStrength": 20,
-  "linkStrength": 1,
-  "linkDistance": 247,
-<<<<<<< HEAD
-  "scale": 0.05932617187499997,
-=======
-  "scale": 0.15114280066011954,
->>>>>>> origin/main
+  "centerStrength": 0.261245674740484,
+  "repelStrength": 13.8062283737024,
+  "linkStrength": 0.731833910034602,
+  "linkDistance": 250,
+  "scale": 0.13168724279835384,
   "close": true
 }

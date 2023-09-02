@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f9bacb1e55bcbe63",
+        "id": "92acbc34f3b9d7be",
         "type": "tabs",
         "children": [
           {
-            "id": "f9e4fe7c38948fa7",
+            "id": "4a012eef512da5e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/English Language El/Page 147 EL hw.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/English Language El/Page 147 EL hw.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/English Language El/Page 147 EL hw.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/English Language El/Page 147 EL hw.md"
+                "file": "readme.md"
               }
             }
           },
@@ -195,17 +190,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f9e4fe7c38948fa7",
+  "active": "54c5a6e575f4cd1d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "School studies/English Language El/Page 147 EL hw.md",
-    "Excalidraw/Pasted Image 20230901081322_875.png",
-    "readme.md",
+    "obsidian format/Obsidian-formatting.md",
     "School studies/CS/Programming.md",
+    "Excalidraw/cs-hw-gdhjksl.excalidraw.md",
+    "School studies/CS/Pseudocode.md",
+    "Excalidraw/Drawing 2023-09-02 08.45.50.excalidraw.md",
+    "readme.md",
+    "School studies/CS/Flowcharts.md",
+    "School studies/English Language El/Page 147 EL hw.md",
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/Pasted Image 20230901081322_875.png",
     "Excalidraw/procedures.excalidraw.md",
     "School studies/physics notes/Physical Quantities.md",
-    "School studies/CS/Flowcharts.md",
-    "School studies/CS/Pseudocode.md",
     "School studies/Semester Portion.md",
     "School studies/Notes websites.md",
     "Untitled.md",
@@ -215,7 +213,6 @@
     "School studies/physics notes/1.Physics.readme.md",
     "School studies/physics notes/Force, Pressure & Density.md",
     "School studies/English Language El/Diary Pg 140 Q1.md",
-    "obsidian format/Obsidian-formatting.md",
     "Excalidraw/englishhomework1_9_23.excalidraw.md",
     "rust/Hello, World! & basics of the lang.md",
     "rust/crates.md",
@@ -225,8 +222,6 @@
     "Excalidraw/Pasted Image 20230831180415_600.png",
     "Excalidraw/Drawing 2023-08-31 17.28.33.excalidraw.md",
     "Save My Exams.md",
-    "Physical Quantities.md",
-    "'.md",
     "School studies/Chem notes/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
     "Untitled 20230831 015130.encrypted",
     "School studies/CS/networking/switch.png",
