@@ -45,43 +45,10 @@
   },
   "treeData": [
     {
-      "id": "ffc79bb6495266f6",
+      "id": "75df8baf9b46413a",
       "parent": 0,
       "droppable": true,
-      "text": "Home - Canva",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "b5891a62aa4354dc",
-      "parent": 0,
-      "droppable": true,
-      "text": "Black and White Monochrome Train Newsletter",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "0823db5be410305a",
-      "parent": 0,
-      "droppable": true,
-      "text": "Color Matcher - Trendy Color Palettes from Designs.ai",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "67ae0524075e1bc7",
-      "parent": 0,
-      "droppable": true,
-      "text": "Understanding Success Criterion 1.4.3: Contrast (Minimum) | WAI | W3C",
+      "text": "New Tab",
       "data": {
         "fileType": "site",
         "fileSize": "",
