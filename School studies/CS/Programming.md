@@ -9,7 +9,7 @@
 | 5   | [Loops (For)]()                                           | Y   |
 | 6   | [Loops (repeat)]                                          | Y   |
 | 7   | Loops (while)                                             | Y   |
-| 8   | [Procedures (default)](#Library-Routines(Integers))       | N   |
+| 8   | [Procedures (default)](Procedures(Default))       | N   |
 | 9   | Procedures (parameterized)                                | N   |
 | 10  | Functions (default)                                       | N   |
 | 11  | Functions (parameterized)                                 | N   |
@@ -84,4 +84,4 @@ OUTPUT DIV(13,2)
 	6
 '''
 ```
-#
+# Procedures(Default)
