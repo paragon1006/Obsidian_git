@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
-                "mode": "source",
+                "file": "School studies/CS/Programming.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "readme.md",
+            "file": "School studies/CS/Programming.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "readme.md",
+            "file": "School studies/CS/Programming.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "readme.md"
+            "file": "School studies/CS/Programming.md"
           }
         }
       },
@@ -157,8 +157,15 @@
   },
   "active": "d4e6a019bc3e7e05",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-08-27 20.08.26.excalidraw.md",
+    "'Elaborate coping mechanisms'.md",
+    "Excalidraw/Drawing 2023-09-03 19.11.41.excalidraw.md",
+    "/'Elaborate coping mechanisms'.md",
+    "/School studies/CS/Programming.md",
+    "/Excalidraw/Drawing 2023-09-03 19.11.41.excalidraw.md",
     "readme.md",
+    "Pasted Image 20230901081322_875.png",
+    "School studies/CS/Programming.md",
+    "Excalidraw/Drawing 2023-08-27 20.08.26.excalidraw.md",
     "School studies/English Language El/Page 147 EL hw.md",
     "School studies/Semester Portion.md",
     "School studies/physics notes/physics-maths-tutor/12.5superposition.pdf",
@@ -177,7 +184,6 @@
     "School studies/physics notes/physics-maths-tutor/4forces_density_pressure.pdf",
     "School studies/physics notes/physics-maths-tutor/12waves.pdf",
     "School studies/Chem notes/1.Chemistry.readme.md",
-    "Pasted Image 20230901081322_875.png",
     "Excalidraw/resolving-vectors.excalidraw.md",
     "Excalidraw/Pasted Image 20230831180415_600.png",
     "Excalidraw/Drawing 2023-08-31 01.51.39.excalidraw.md",
@@ -189,12 +195,6 @@
     "/Excalidraw/englishhomework1_9_23.excalidraw.md",
     "/newsletter/Newsletter special issue.md",
     "/School studies/physics notes/physics-maths-tutor/7springs_stuff.pdf",
-    "/School studies/Semester Portion.md",
-    "/School studies/Notes websites.md",
-    "/School studies/CS/Programming.md",
-    "/Excalidraw/prescisionoraccuracy.excalidraw.md",
-    "/Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md",
-    "/rust/crates.md",
     "/Pasted Image 20230901081322_875.png",
     "/Excalidraw/Pasted Image 20230831180415_600.png"
   ]
