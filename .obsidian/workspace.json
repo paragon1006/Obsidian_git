@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fecc3b67dfb0413e",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.canva.com/"
-              }
-            }
-          },
-          {
             "id": "39bea65c00d41611",
             "type": "leaf",
             "state": {
@@ -29,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "75df8baf9b46413a",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "file:///C:/Users/beast/AppData/Local/Microsoft/Windows/INetCache/IE/BDT69OPI/may_edition-1_230605_184900[1].pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,9 +197,9 @@
   },
   "active": "39bea65c00d41611",
   "lastOpenFiles": [
+    "School studies/CS/Programming.md",
     "Procedures (default).md",
     "School studies/CS/Pseudocode.md",
-    "School studies/CS/Programming.md",
     "conflict-files-obsidian-git.md",
     "Pasted Image 20230901081322_875.png",
     "Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md",
