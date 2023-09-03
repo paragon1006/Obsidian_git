@@ -19,24 +19,19 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "7361244cae2f545e",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "cb12c271f2f2001b",
+            "id": "be2371152ea5b07b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "surfing-view",
               "state": {
-                "file": "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf"
+                "url": "https://www.youtube.com/watch?v=t5YAJUbGxLU"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d967d98868519a35",
@@ -111,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School studies/CS/Programming.md"
-              }
+              "state": {}
             }
           },
           {
@@ -213,10 +203,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "39bea65c00d41611",
+  "active": "be2371152ea5b07b",
   "lastOpenFiles": [
-    "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf",
     "School studies/CS/Programming.md",
+    "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf",
     "Procedures (default).md",
     "School studies/CS/Pseudocode.md",
     "conflict-files-obsidian-git.md",
