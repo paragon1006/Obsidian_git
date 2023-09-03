@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "39bea65c00d41611",
+            "id": "a717f301babbb3eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/CS/Programming.md",
+                "file": "'Elaborate coping mechanisms'.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "be2371152ea5b07b",
+            "id": "ad2b973c7fa73e95",
             "type": "leaf",
             "state": {
-              "type": "surfing-view",
+              "type": "excalidraw",
               "state": {
-                "url": "https://www.youtube.com/watch?v=t5YAJUbGxLU"
+                "file": "Excalidraw/Drawing 2023-09-03 19.11.41.excalidraw.md"
               }
             }
           }
@@ -105,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2023-09-03 19.11.41.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2023-09-03 19.11.41.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-03 19.11.41.excalidraw.md"
+              }
             }
           },
           {
@@ -203,8 +207,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "be2371152ea5b07b",
+  "active": "ad2b973c7fa73e95",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-09-03 19.11.41.excalidraw.md",
+    "'Elaborate coping mechanisms'.md",
     "School studies/CS/Programming.md",
     "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf",
     "Procedures (default).md",
@@ -223,7 +229,6 @@
     "School studies/physics notes/Physical Quantities.md",
     "School studies/Semester Portion.md",
     "School studies/Notes websites.md",
-    "Untitled.md",
     "obsidian format/MathJax.md",
     "School studies/physics notes/Cambridge International AS & A Level Physics Coursebook with Digital Access (2 Years).pdf",
     "School studies/physics notes/Physics flashcards.md",
