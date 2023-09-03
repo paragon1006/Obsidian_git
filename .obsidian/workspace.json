@@ -19,7 +19,13 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "7361244cae2f545e",
+        "type": "tabs",
+        "children": [
           {
             "id": "cb12c271f2f2001b",
             "type": "leaf",
@@ -30,8 +36,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf",
+                "file": "School studies/CS/Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf",
+                "file": "School studies/CS/Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf"
+                "file": "School studies/CS/Programming.md"
               }
             }
           },
@@ -187,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,10 +213,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cb12c271f2f2001b",
+  "active": "39bea65c00d41611",
   "lastOpenFiles": [
-    "School studies/CS/Programming.md",
     "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf",
+    "School studies/CS/Programming.md",
     "Procedures (default).md",
     "School studies/CS/Pseudocode.md",
     "conflict-files-obsidian-git.md",
