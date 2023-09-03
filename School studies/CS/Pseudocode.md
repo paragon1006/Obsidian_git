@@ -1,23 +1,4 @@
-Tags: #cs #pseudocode #code 
-- [Components of pseudocode](#Components%20of%20pseudocode)
-	- [Variables](#Variables)
-		- [Memory locations](#Memory%20locations)
-		- [Datatypes:](#Datatypes:)
-	- [Input/Output](#Input/Output)
-	- [Conditional Statements](#Conditional%20Statements)
-		- [If pseudocode:](#If%20pseudocode:)
-		- [If python](#If%20python)
-		- [If Else pseudocode](#If%20Else%20pseudocode)
-		- [If Else python](#If%20Else%20python)
-		- [Case of pseudocode](#Case%20of%20pseudocode)
-	- [Iterative Statements](#Iterative%20Statements)
-		- [Components of Iterative Statements](#Components%20of%20Iterative%20Statements)
-		- [For loop pseudocode](#For%20loop%20pseudocode)
-		- [For loop python](#For%20loop%20python)
-		- [Repeat Until loop pseudocode](#Repeat%20Until%20loop%20pseudocode)
-		- [While loop pseudocode](#While%20loop%20pseudocode)
-		- [While loop python](#While%20loop%20python)
-
+Tags: #cs #pseudocode #code
 # Components of pseudocode
 
 ## Variables
@@ -34,7 +15,7 @@ a = 10
 b = 20
 
 ***WAP*** to create a variable and print it on your screen-
-```PSEUDOCODE
+```//PSEUDOCODE//
 DECLARE Num:INTEGER                                      
 NUM <-- 10
 OUTPUT "The value is", Num
@@ -56,7 +37,7 @@ print(a)
 ***Output*** - It refers to a statement that allows to print or display the required information on the screen
 
 >[!question]- ***WAP*** to take an input and output square on screen in pseudocode
->```PSEUDOCODE
+>```//PSEUDOCODE//
 DECLARE NUM:INTEGER
 OUTPUT "Enter a number"
 INPUT Num
@@ -69,7 +50,7 @@ print(Num^2)
 
 
 ***WAP*** to take a number and print the square in various formats
-```PSEUDOCODE
+```//PSEUDOCODE//
 DECLARE NUM:INTEGER
 OUTPUT "Enter a number"
 INPUT Num
@@ -86,7 +67,7 @@ print("The value",Num**2,"is the square")
 
 ## Conditional Statements
 ### If pseudocode:
-``` PSEUDOCODE
+``` //PSEUDOCODE//
 IF {CONDITION}
 	THEN
 		{STATEMENT}
@@ -104,7 +85,7 @@ if {condition}:
 	{statement}
 ```
 ### If Else pseudocode
-``` PSEUDOCODE
+``` //PSEUDOCODE//
 IF {CONDITION}
 	THEN 
 		{STATEMENT}
@@ -140,7 +121,7 @@ else:
 ```
 
 ### Case of pseudocode
-``` PSEUDOCODE
+``` //PSEUDOCODE//
 CASE OF variable
 	VALUE 1: {STATEMENT}
 	VALUE 2: {STATEMENT}
@@ -170,7 +151,7 @@ Initialization {start}
 condition {end}
 increment/decrement {factor}
 ### For loop pseudocode
-```PSEUDOCODE
+```//PSEUDOCODE//
 FOR Variable <- {START} TO {END}
 	{STATEMENT}
 NEXT Variable
@@ -191,7 +172,7 @@ for x in range(0,9):
 	print("hi")
 ```
 ### Repeat Until loop pseudocode
-```PSEUDOCODE
+```//PSEUDOCODE//
 VARIABLE <- {START}
 REPEAT
 	{STATEMENT}
@@ -206,7 +187,7 @@ REPEAT
 UNTIL Count>10
 ```
 ### While loop pseudocode
-``` PSEUDOCODE
+``` //PSEUDOCODE//
 Variable <- {START}
 WHILE Variable <= 0 DO
 	{STATEMENTS}
