@@ -13,6 +13,16 @@
             "state": {
               "type": "surfing-view",
               "state": {
+                "url": "https://www.canva.com/"
+              }
+            }
+          },
+          {
+            "id": "39bea65c00d41611",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
                 "url": "https://www.canva.com/design/DAFrnY2-nJc/weZY2xvt2hLXOP_urmmvyQ/edit"
               }
             }
@@ -26,22 +36,9 @@
                 "url": "file:///C:/Users/beast/AppData/Local/Microsoft/Windows/INetCache/IE/BDT69OPI/may_edition-1_230605_184900[1].pdf"
               }
             }
-          },
-          {
-            "id": "05b26fdc792adf32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/CS/Pseudocode.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Pseudocode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Pseudocode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School studies/CS/Pseudocode.md"
-              }
+              "state": {}
             }
           },
           {
@@ -197,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,7 +210,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "05b26fdc792adf32",
+  "active": "39bea65c00d41611",
   "lastOpenFiles": [
     "School studies/CS/Pseudocode.md",
     "School studies/CS/Programming.md",
