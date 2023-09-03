@@ -21,9 +21,12 @@
             "id": "39bea65c00d41611",
             "type": "leaf",
             "state": {
-              "type": "surfing-view",
+              "type": "markdown",
               "state": {
-                "url": "https://www.canva.com/design/DAFrnY2-nJc/weZY2xvt2hLXOP_urmmvyQ/edit"
+                "file": "School studies/CS/Programming.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -112,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School studies/CS/Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School studies/CS/Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School studies/CS/Programming.md"
+              }
             }
           },
           {
@@ -209,12 +216,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "322c528cb7f7b225",
+  "active": "39bea65c00d41611",
   "lastOpenFiles": [
+    "School studies/CS/Pseudocode.md",
     "conflict-files-obsidian-git.md",
     "Pasted Image 20230901081322_875.png",
     "Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md",
-    "School studies/CS/Pseudocode.md",
     "School studies/CS/Programming.md",
     "obsidian format/Obsidian-formatting.md",
     "Excalidraw/cs-hw-gdhjksl.excalidraw.md",
