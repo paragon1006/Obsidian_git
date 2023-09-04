@@ -84,7 +84,7 @@ OUTPUT DIV(13,2)
 	6
 '''
 ```
-# ***Procedures***-(default)
+# Procedures-(default)
 #### Procedures
 - It refers to a *self contained* block of code that performs a specific task or set of related tasks
 - It allows instructions to be re-usable and modular
