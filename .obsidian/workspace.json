@@ -19,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b73fa00fd0c623a5",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.speedtest.net/"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "'Elaborate coping mechanisms'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "'Elaborate coping mechanisms'.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "'Elaborate coping mechanisms'.md"
+              }
             }
           },
           {
@@ -202,7 +195,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b73fa00fd0c623a5",
+  "active": "077faeb262a11959",
   "lastOpenFiles": [
     "'Elaborate coping mechanisms'.md",
     "School studies/English Language El/Page 147 EL hw.md",
