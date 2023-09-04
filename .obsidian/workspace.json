@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "'Elaborate coping mechanisms'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "'Elaborate coping mechanisms'.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "'Elaborate coping mechanisms'.md"
-              }
+              "state": {}
             }
           },
           {
@@ -195,8 +191,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "077faeb262a11959",
+  "active": "322c528cb7f7b225",
   "lastOpenFiles": [
+    "'Elaborate coping mechanisms'.md",
     "School studies/English Language El/Page 147 EL hw.md",
     "Excalidraw/Pasted Image 20230831180415_600.png",
     "School studies/CS/Programming.md",
@@ -218,7 +215,6 @@
     "School studies/English Language El/English Language EL.md",
     "School studies/English Language El/Diary Pg 140 Q1.md",
     "conflict-files-obsidian-git.md",
-    "'Elaborate coping mechanisms'.md",
     "Excalidraw/Drawing 2023-09-04 07.13.55.excalidraw.md",
     "Excalidraw/Drawing 2023-08-31 01.51.39.excalidraw.md",
     "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf",
