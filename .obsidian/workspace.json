@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/CS/Programming.md",
+                "file": "readme.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Programming.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Programming.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/CS/Programming.md"
+                "file": "readme.md"
               }
             }
           },
@@ -197,8 +197,8 @@
   },
   "active": "077faeb262a11959",
   "lastOpenFiles": [
-    "Untitled.md",
     "School studies/CS/Programming.md",
+    "Untitled.md",
     "School studies/English Language El/Diary Pg 140 Q1.md",
     "Excalidraw/Pasted Image 20230831180415_600.png",
     "School studies/English Language El/Page 147 EL hw.md",
