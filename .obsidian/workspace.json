@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b73fa00fd0c623a5",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://duckduckgo.com/?q=test"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,7 +202,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "322c528cb7f7b225",
+  "active": "b73fa00fd0c623a5",
   "lastOpenFiles": [
     "'Elaborate coping mechanisms'.md",
     "School studies/English Language El/Page 147 EL hw.md",
