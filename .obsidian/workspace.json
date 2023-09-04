@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/CS/Programming.md",
-                "mode": "preview",
+                "file": "'Elaborate coping mechanisms'.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Programming.md",
+                "file": "'Elaborate coping mechanisms'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Programming.md",
+                "file": "'Elaborate coping mechanisms'.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/CS/Programming.md"
+                "file": "'Elaborate coping mechanisms'.md"
               }
             }
           },
@@ -197,12 +197,15 @@
   },
   "active": "077faeb262a11959",
   "lastOpenFiles": [
-    "Excalidraw/procedure.excalidraw.md",
+    "School studies/English Language El/Page 147 EL hw.md",
+    "Excalidraw/Pasted Image 20230831180415_600.png",
     "School studies/CS/Programming.md",
+    "Excalidraw/Pasted Image 20230901081322_875.png",
+    "programming copy.md",
+    "Excalidraw/procedure.excalidraw.md",
     "Excalidraw/cs-hw-gdhjksl.excalidraw.md",
     "procedures.excalidraw.md",
     "Procedures(Default).md",
-    "programming copy.md",
     "Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md",
     "Excalidraw/englishhomework1_9_23.excalidraw.md",
     "Excalidraw/Drawing 2023-08-27 20.08.26.excalidraw.md",
@@ -210,10 +213,8 @@
     "Excalidraw/resolving-vectors.excalidraw.md",
     "Excalidraw/prescisionoraccuracy.excalidraw.md",
     "Excalidraw/pizza-of-work.excalidraw.md",
-    "Excalidraw/Pasted Image 20230831180415_600.png",
     "Excalidraw/ExcalidrawDrawing 2023-09-01 13.19.23.excalidraw.md",
     "Excalidraw/New Text Document.txt",
-    "School studies/English Language El/Page 147 EL hw.md",
     "School studies/English Language El/English Language EL.md",
     "School studies/English Language El/Diary Pg 140 Q1.md",
     "conflict-files-obsidian-git.md",
@@ -223,10 +224,8 @@
     "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf",
     "Procedures (default).md",
     "School studies/CS/Pseudocode.md",
-    "Pasted Image 20230901081322_875.png",
     "obsidian format/Obsidian-formatting.md",
     "Excalidraw/Drawing 2023-09-02 08.45.50.excalidraw.md",
-    "Excalidraw/Pasted Image 20230901081322_875.png",
     "School studies/physics notes/Cambridge International AS & A Level Physics Coursebook with Digital Access (2 Years).pdf",
     "School studies/physics notes/physics-maths-tutor/2kinematics.pdf",
     "School studies/Chem notes/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
