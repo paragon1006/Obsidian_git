@@ -10,5 +10,10 @@
   "obsidian-plugin-toc",
   "meld-encrypt",
   "obsidian-mind-map",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "obsidian-dictionary-plugin",
+  "auto-hide-cursor",
+  "obsidian-charts",
+  "obsidian-functionplot",
+  "cycle-through-panes"
 ]
