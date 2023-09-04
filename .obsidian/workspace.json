@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bbb7846d1fadd07a",
+            "id": "077faeb262a11959",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "School studies/English Language El/Page 147 EL hw.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School studies/English Language El/Page 147 EL hw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School studies/English Language El/Page 147 EL hw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School studies/English Language El/Page 147 EL hw.md"
+              }
             }
           },
           {
@@ -166,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,8 +196,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bbb7846d1fadd07a",
+  "active": "077faeb262a11959",
   "lastOpenFiles": [
+    "School studies/English Language El/Page 147 EL hw.md",
     "'Elaborate coping mechanisms'.md",
     "Excalidraw/Drawing 2023-09-04 07.13.55.excalidraw.md",
     "Excalidraw/pizza-of-work.excalidraw.md",
@@ -206,7 +217,6 @@
     "Excalidraw/Drawing 2023-09-02 08.45.50.excalidraw.md",
     "readme.md",
     "School studies/CS/Flowcharts.md",
-    "School studies/English Language El/Page 147 EL hw.md",
     "Excalidraw/Pasted Image 20230901081322_875.png",
     "Excalidraw/procedures.excalidraw.md",
     "School studies/physics notes/Physical Quantities.md",
