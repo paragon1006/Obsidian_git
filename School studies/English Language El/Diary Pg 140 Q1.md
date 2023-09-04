@@ -14,3 +14,6 @@ It is a sad task recounting the many farewells from today. It began with a glum 
 The journey from the immigration to the new house was exciting our mood lightened in the wait to see the new house. The new house was... Incredible! It had beautiful surroundings with an amazing backyard. My room was huge with a really tall ceiling and an mind-blowing view of the Swiss alps.
 
 It is a truly beautiful house, But can I call it home?
+
+# Question 3 
+there's this guy with schizophrenia who lives in a castle is a prince of some country and basically he thinks a war is going on and goes and hides in different areas of the castle. As the servants and knights in the castle search for him, he thinks it's an invasion party out to kill him.
