@@ -8,8 +8,9 @@ tags: [excalidraw]
 
 
 # Text Elements
-OUTPUT "Hello"
- ^Cj094I23
+1: Cube a number
+2: Square a number
+3: Add a number ^QwtVr50x
 
 %%
 # Drawing
@@ -20,75 +21,75 @@ OUTPUT "Hello"
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.19",
 	"elements": [
 		{
+			"id": "HS9geWHzyYiMxzusl1mLH",
 			"type": "rectangle",
-			"version": 148,
-			"versionNonce": 1144839072,
-			"isDeleted": false,
-			"id": "TJy5azQci__h7Pdo749s6",
+			"x": -223.25,
+			"y": -132.57290649414062,
+			"width": 220,
+			"height": 93.33331298828125,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"angle": 0,
-			"x": -258,
-			"y": -224.90625,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 224.00006103515625,
-			"height": 92.66670227050781,
-			"seed": 1475857944,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
-			"boundElements": [],
-			"updated": 1693800793925,
+			"seed": 188988000,
+			"version": 315,
+			"versionNonce": 1787732576,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1693801558998,
 			"link": null,
 			"locked": false
 		},
 		{
+			"id": "QwtVr50x",
 			"type": "text",
-			"version": 26,
-			"versionNonce": 1354532200,
-			"isDeleted": false,
-			"id": "Cj094I23",
+			"x": -205.91665649414062,
+			"y": -125.23959350585938,
+			"width": 192.79986572265625,
+			"height": 75,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"angle": 0,
-			"x": -230.6666259765625,
-			"y": -188.2395782470703,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 155.139892578125,
-			"height": 50,
-			"seed": 1440256792,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1693554588599,
+			"seed": 1342800480,
+			"version": 68,
+			"versionNonce": 716863392,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1693801549266,
 			"link": null,
 			"locked": false,
+			"text": "1: Cube a number\n2: Square a number\n3: Add a number",
+			"rawText": "1: Cube a number\n2: Square a number\n3: Add a number",
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "OUTPUT \"Hello\"\n",
-			"rawText": "OUTPUT \"Hello\"\n",
 			"textAlign": "left",
 			"verticalAlign": "top",
+			"baseline": 67,
 			"containerId": null,
-			"originalText": "OUTPUT \"Hello\"\n",
-			"lineHeight": 1.25,
-			"baseline": 42
+			"originalText": "1: Cube a number\n2: Square a number\n3: Add a number",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
-		"theme": "light",
-		"viewBackgroundColor": "#ffffff",
+		"theme": "dark",
+		"viewBackgroundColor": "transparent",
 		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
@@ -101,10 +102,10 @@ OUTPUT "Hello"
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 295.1249694824219,
-		"scrollY": 325.2864532470703,
+		"scrollX": 416.25,
+		"scrollY": 320.76043701171875,
 		"zoom": {
-			"value": 2
+			"value": 1
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
