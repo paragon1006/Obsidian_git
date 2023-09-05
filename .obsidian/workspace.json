@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fc4201b2c4b81fb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teacher's day wishes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d967d98868519a35",
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "Teacher's day wishes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "Teacher's day wishes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "Teacher's day wishes.md"
               }
             }
           },
@@ -195,10 +210,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "077faeb262a11959",
+  "active": "fc4201b2c4b81fb7",
   "lastOpenFiles": [
+    "readme.md",
+    "Teacher's day wishes.md",
     "School studies/CS/Programming.md",
-    "Untitled.md",
     "School studies/English Language El/Diary Pg 140 Q1.md",
     "Excalidraw/Pasted Image 20230831180415_600.png",
     "School studies/English Language El/Page 147 EL hw.md",
@@ -226,7 +242,6 @@
     "Procedures (default).md",
     "School studies/CS/Pseudocode.md",
     "obsidian format/Obsidian-formatting.md",
-    "Excalidraw/Drawing 2023-09-02 08.45.50.excalidraw.md",
     "School studies/physics notes/Cambridge International AS & A Level Physics Coursebook with Digital Access (2 Years).pdf",
     "School studies/physics notes/physics-maths-tutor/2kinematics.pdf",
     "School studies/Chem notes/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
