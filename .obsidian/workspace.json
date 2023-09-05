@@ -11,25 +11,13 @@
             "id": "077faeb262a11959",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "19e96965bc39328e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "readme.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "A-Level/Chemistry (9701)/Books/Exam_success_in_Cambridge_Chemistry_As_Al_level_IGCSE_Files_Channel.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 451.5
   },
   "right": {
     "id": "d967d98868519a35",
@@ -103,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "A-Level/Chemistry (9701)/Books/Exam_success_in_Cambridge_Chemistry_As_Al_level_IGCSE_Files_Channel.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "A-Level/Chemistry (9701)/Books/Exam_success_in_Cambridge_Chemistry_As_Al_level_IGCSE_Files_Channel.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "A-Level/Chemistry (9701)/Books/Exam_success_in_Cambridge_Chemistry_As_Al_level_IGCSE_Files_Channel.pdf"
               }
             }
           },
@@ -204,9 +192,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "19e96965bc39328e",
+  "active": "077faeb262a11959",
   "lastOpenFiles": [
+    "A-Level/Chemistry (9701)/Notes/Save my exams/AS Level/1. Physical chemistry .pdf",
+    "A-Level/Chemistry (9701)/Books/Exam_success_in_Cambridge_Chemistry_As_Al_level_IGCSE_Files_Channel.pdf",
+    "A-Level/Chemistry (9701)/Books/Chemistry in context for cambridge As-Al(1).pdf",
+    "A-Level/Chemistry (9701)/Books/Cambridge International AS and A Level Chemistry Students Book Second Edition (Graham Brown, Brian Sargent) (z-lib.org).pdf",
+    "A-Level/Chemistry (9701)/Books/(2020) Cambridge International AS and A Level Chemistry Coursebook by Lawrie Ryan, Roger Norris.pdf",
+    "A-Level/Chemistry (9701)/Books/(2014) Cambridge International AS and A Level Chemistry Coursebook by Lawrie Ryan, Roger Norris.pdf",
+    "A-Level/Chemistry (9701)/554616-2022-2024-syllabus.pdf",
     "readme.md",
+    "A-Level/Economics (9708)/Books/Cambridge International AS and A Level Economics Second Edition (Peter Smith, Adam Wilby, Mila Zasheva) (z-lib.org).pdf",
+    "A-Level/Economics (9708)/595463-2023-2025-syllabus.pdf",
+    "A-Level/Economics (9708)/Books",
+    "A-Level/Economics (9708)",
     "Teacher's day wishes.md",
     "School studies/CS/Programming.md",
     "School studies/English Language El/Diary Pg 140 Q1.md",
@@ -227,19 +226,12 @@
     "Excalidraw/prescisionoraccuracy.excalidraw.md",
     "Excalidraw/pizza-of-work.excalidraw.md",
     "Excalidraw/ExcalidrawDrawing 2023-09-01 13.19.23.excalidraw.md",
-    "Excalidraw/New Text Document.txt",
     "School studies/English Language El/English Language EL.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2023-09-04 07.13.55.excalidraw.md",
     "Excalidraw/Drawing 2023-08-31 01.51.39.excalidraw.md",
-    "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf",
     "Procedures (default).md",
     "School studies/CS/Pseudocode.md",
-    "obsidian format/Obsidian-formatting.md",
-    "School studies/physics notes/Cambridge International AS & A Level Physics Coursebook with Digital Access (2 Years).pdf",
-    "School studies/physics notes/physics-maths-tutor/2kinematics.pdf",
-    "School studies/Chem notes/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
-    "Untitled 20230831 015130.encrypted",
     "School studies/CS/networking/switch.png",
     "School studies/CS/networking/star_network.png",
     "School studies/CS/networking/simple_network.png",
@@ -249,10 +241,6 @@
     "School studies/CS/networking/mesh_network.png",
     "School studies/Chem notes/Organic chem.canvas",
     "School studies/Chem notes/Untitled.canvas",
-    "School studies/CS/Cambridge International AS and A Levels Computer Science.pdf",
-    "School studies/Cambridge International AS and A Level Computer Science Coursebook.pdf",
-    "School studies/Cambridge International AS & A Level Physics Coursebook with Digital Access (2 Years).pdf",
-    "School studies/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
     "Chem notes/Organic chem.canvas"
   ]
 }
