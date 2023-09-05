@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "33ede6c258fc9390",
+        "id": "bc4bd676e8e5385f",
         "type": "tabs",
         "children": [
           {
-            "id": "077faeb262a11959",
+            "id": "7cb79ac8d84b7f3d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "A-Level/Chemistry (9701)/Books/Exam_success_in_Cambridge_Chemistry_As_Al_level_IGCSE_Files_Channel.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -75,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 451.5
+    "width": 200
   },
   "right": {
     "id": "d967d98868519a35",
@@ -91,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A-Level/Chemistry (9701)/Books/Exam_success_in_Cambridge_Chemistry_As_Al_level_IGCSE_Files_Channel.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A-Level/Chemistry (9701)/Books/Exam_success_in_Cambridge_Chemistry_As_Al_level_IGCSE_Files_Channel.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "A-Level/Chemistry (9701)/Books/Exam_success_in_Cambridge_Chemistry_As_Al_level_IGCSE_Files_Channel.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -192,10 +186,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "077faeb262a11959",
+  "active": "7cb79ac8d84b7f3d",
   "lastOpenFiles": [
-    "A-Level/Chemistry (9701)/Notes/Save my exams/AS Level/1. Physical chemistry .pdf",
     "A-Level/Chemistry (9701)/Books/Exam_success_in_Cambridge_Chemistry_As_Al_level_IGCSE_Files_Channel.pdf",
+    "A-Level/Chemistry (9701)/Notes/Save my exams/AS Level/1. Physical chemistry .pdf",
     "A-Level/Chemistry (9701)/Books/Chemistry in context for cambridge As-Al(1).pdf",
     "A-Level/Chemistry (9701)/Books/Cambridge International AS and A Level Chemistry Students Book Second Edition (Graham Brown, Brian Sargent) (z-lib.org).pdf",
     "A-Level/Chemistry (9701)/Books/(2020) Cambridge International AS and A Level Chemistry Coursebook by Lawrie Ryan, Roger Norris.pdf",
