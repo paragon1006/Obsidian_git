@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teacher's day wishes.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teacher's day wishes.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teacher's day wishes.md"
+                "file": "readme.md"
               }
             }
           },
@@ -186,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -210,10 +209,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9747f1b0dbdaae7d",
+  "active": "077faeb262a11959",
   "lastOpenFiles": [
-    "readme.md",
     "Teacher's day wishes.md",
+    "readme.md",
     "School studies/CS/Programming.md",
     "School studies/English Language El/Diary Pg 140 Q1.md",
     "Excalidraw/Pasted Image 20230831180415_600.png",
