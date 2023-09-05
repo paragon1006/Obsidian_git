@@ -175,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,7 +195,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7cb79ac8d84b7f3d",
+  "active": "322c528cb7f7b225",
   "lastOpenFiles": [
     "A-Level/Chemistry (9701)/Books/Exam_success_in_Cambridge_Chemistry_As_Al_level_IGCSE_Files_Channel.pdf",
     "A-Level/Chemistry (9701)/Notes/Save my exams/AS Level/1. Physical chemistry .pdf",
