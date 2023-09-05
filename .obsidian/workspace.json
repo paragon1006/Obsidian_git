@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teacher's day wishes.md",
+                "file": "readme.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teacher's day wishes.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teacher's day wishes.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teacher's day wishes.md"
+                "file": "readme.md"
               }
             }
           },
@@ -195,8 +195,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "322c528cb7f7b225",
+  "active": "7cb79ac8d84b7f3d",
   "lastOpenFiles": [
+    "'Elaborate coping mechanisms'.md",
+    "Teacher's day wishes.md",
     "A-Level/Chemistry (9701)/Books/Exam_success_in_Cambridge_Chemistry_As_Al_level_IGCSE_Files_Channel.pdf",
     "A-Level/Chemistry (9701)/Notes/Save my exams/AS Level/1. Physical chemistry .pdf",
     "A-Level/Chemistry (9701)/Books/Chemistry in context for cambridge As-Al(1).pdf",
@@ -208,13 +210,10 @@
     "A-Level/Economics (9708)/Books/Cambridge International AS and A Level Economics Second Edition (Peter Smith, Adam Wilby, Mila Zasheva) (z-lib.org).pdf",
     "A-Level/Economics (9708)/595463-2023-2025-syllabus.pdf",
     "A-Level/Economics (9708)/Books",
-    "A-Level/Economics (9708)",
-    "Teacher's day wishes.md",
     "School studies/CS/Programming.md",
     "School studies/English Language El/Diary Pg 140 Q1.md",
     "Excalidraw/Pasted Image 20230831180415_600.png",
     "School studies/English Language El/Page 147 EL hw.md",
-    "'Elaborate coping mechanisms'.md",
     "Excalidraw/Pasted Image 20230901081322_875.png",
     "programming copy.md",
     "Excalidraw/procedure.excalidraw.md",
