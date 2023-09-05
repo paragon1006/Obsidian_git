@@ -1,40 +1,36 @@
-- [ ] ==Sheetal ma'am==
-- [ ] ==Shima ma'am==
-- [ ] Sharon ma'am
-- [ ] ==chanchal ma'am==
-- [ ] mittal ma'am
-- [ ] dolly ma'am
-- [ ] priyanka ma'am
-- [ ] ==granstel ma'am==
-- [ ] impal ma'am
-- [ ] janki ma'am
-- [ ] nandani ma'am
-- [ ] ==neerja ma'am==
-- [ ] priya ma'am
-- [ ] ==sailee ma'am==
-- [ ] ==sanjana ma'am==
-- [ ] ==smita ma'am==
+- [x] ==Shima ma'am== ✅ 2023-09-05
+- [x] ==chanchal ma'am== ✅ 2023-09-05
+- [x] mittal ma'am ✅ 2023-09-05
+- [x] dolly ma'am ✅ 2023-09-05
+- [x] priyanka ma'am ✅ 2023-09-05
+- [x] ==granstel ma'am== ✅ 2023-09-05
+- [x] impal ma'am ✅ 2023-09-05
+- [x] janki ma'am ✅ 2023-09-05
+- [x] nandani ma'am ✅ 2023-09-05
+- [x] ==neerja ma'am== ✅ 2023-09-05
+- [x] ==sailee ma'am== ✅ 2023-09-05
+- [x] ==sanjana ma'am== ✅ 2023-09-05
+- [x] ==smita ma'am== ✅ 2023-09-05
 - [ ] ==ghazala ma'am==
-- [ ] zainab ma'am
-- [ ] jenes ma'am
-- [ ] prerna ma'am
-- [ ] ==gopika ma'am==
-- [ ] ==iram ma'am==
+- [x] zainab ma'am ✅ 2023-09-05
+- [x] jenes ma'am ✅ 2023-09-05
+- [x] prerna ma'am ✅ 2023-09-05
+- [x] ==gopika ma'am== ✅ 2023-09-05
+- [x] ==iram ma'am== ✅ 2023-09-05
 - [ ] ==madhu ma'am==
-- [ ] ruchi ma'am
-- [ ] ==sejal ma'am==
-- [ ] ==hasmukh sir==
-- [ ] ==narang sir==
-- [ ] ==ayaz sir==
-- [ ] ==ajit sir==
-- [ ] ==arif sir==
-- [ ] kamal sir
-- [ ] kamat sir
-- [ ] prakash sir
-- [ ] ==sandeep sir==
-- [ ] surag sir
-- [ ] vijay sir
-- [ ] ==zeeshan sir==
-- [ ] ==sushil sir==
-- [ ] ==kaushal sir==
-- [ ] ==sovind sir== 
+- [x] ruchi ma'am ✅ 2023-09-05
+- [x] ==sejal ma'am== ✅ 2023-09-05
+- [x] ==hasmukh sir== ✅ 2023-09-05
+- [x] ==narang sir== ✅ 2023-09-05
+- [x] ==ayaz sir== ✅ 2023-09-05
+- [x] ==ajit sir== ✅ 2023-09-05
+- [x] ==arif sir== ✅ 2023-09-05
+- [x] kamat sir ✅ 2023-09-05
+- [x] prakash sir ✅ 2023-09-05
+- [x] ==sandeep sir== ✅ 2023-09-05
+- [x] surag sir ✅ 2023-09-05
+- [x] vijay sir ✅ 2023-09-05
+- [x] ==zeeshan sir== ✅ 2023-09-05
+- [x] ==sushil sir== ✅ 2023-09-05
+- [x] ==kaushal sir== ✅ 2023-09-05
+- [x] ==sovind sir== ✅ 2023-09-05
