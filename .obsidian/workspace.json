@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bc4bd676e8e5385f",
+        "id": "f68dfddaa1fe8c63",
         "type": "tabs",
         "children": [
           {
-            "id": "7cb79ac8d84b7f3d",
+            "id": "3bf46ab3eaa498cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "School studies/English Language El/Page 147 EL hw.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "School studies/English Language El/Page 147 EL hw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "School studies/English Language El/Page 147 EL hw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "School studies/English Language El/Page 147 EL hw.md"
               }
             }
           },
@@ -195,8 +195,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7cb79ac8d84b7f3d",
+  "active": "3bf46ab3eaa498cc",
   "lastOpenFiles": [
+    "Excalidraw/englishhomework1_9_23.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md",
+    "readme.md",
+    "Excalidraw/Pasted Image 20230901081322_875.png",
     "'Elaborate coping mechanisms'.md",
     "Teacher's day wishes.md",
     "A-Level/Chemistry (9701)/Books/Exam_success_in_Cambridge_Chemistry_As_Al_level_IGCSE_Files_Channel.pdf",
@@ -206,7 +210,6 @@
     "A-Level/Chemistry (9701)/Books/(2020) Cambridge International AS and A Level Chemistry Coursebook by Lawrie Ryan, Roger Norris.pdf",
     "A-Level/Chemistry (9701)/Books/(2014) Cambridge International AS and A Level Chemistry Coursebook by Lawrie Ryan, Roger Norris.pdf",
     "A-Level/Chemistry (9701)/554616-2022-2024-syllabus.pdf",
-    "readme.md",
     "A-Level/Economics (9708)/Books/Cambridge International AS and A Level Economics Second Edition (Peter Smith, Adam Wilby, Mila Zasheva) (z-lib.org).pdf",
     "A-Level/Economics (9708)/595463-2023-2025-syllabus.pdf",
     "A-Level/Economics (9708)/Books",
@@ -214,14 +217,11 @@
     "School studies/English Language El/Diary Pg 140 Q1.md",
     "Excalidraw/Pasted Image 20230831180415_600.png",
     "School studies/English Language El/Page 147 EL hw.md",
-    "Excalidraw/Pasted Image 20230901081322_875.png",
     "programming copy.md",
     "Excalidraw/procedure.excalidraw.md",
     "Excalidraw/cs-hw-gdhjksl.excalidraw.md",
     "procedures.excalidraw.md",
     "Procedures(Default).md",
-    "Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md",
-    "Excalidraw/englishhomework1_9_23.excalidraw.md",
     "Excalidraw/Drawing 2023-08-27 20.08.26.excalidraw.md",
     "Excalidraw/client-server-architecture.md",
     "Excalidraw/resolving-vectors.excalidraw.md",
