@@ -169,6 +169,14 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "ea70c15627d86483",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
@@ -195,7 +203,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3bf46ab3eaa498cc",
+  "active": "54c5a6e575f4cd1d",
   "lastOpenFiles": [
     "Excalidraw/englishhomework1_9_23.excalidraw.md",
     "Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md",
