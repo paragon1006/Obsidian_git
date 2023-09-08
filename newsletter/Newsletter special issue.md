@@ -1,4 +1,4 @@
-#newsletter [Casecadefight](#Cascade%20fight)
+#newsletter [Casecadefight](#%20Cascade%20fight)
 ## Cascade
 Cascade is always structured in a way that fosters healthy rivalries, especially when schools jump into a neck-to-neck. Jamnabai International School, organised its 28th Cascade, providing a stellar opportunity for the students of over forty schools to showcase their incredible skill. 
 As always, a wide array of activities were available from performing arts and sports to literary events and a plethora of quizzes.
