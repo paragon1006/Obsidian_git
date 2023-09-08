@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "newsletter/Newsletter special issue.md",
+                "file": "readme.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "newsletter/Newsletter special issue.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "newsletter/Newsletter special issue.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "newsletter/Newsletter special issue.md"
+                "file": "readme.md"
               }
             }
           },
@@ -197,9 +197,9 @@
   },
   "active": "d361d8a7b102fbc8",
   "lastOpenFiles": [
+    "newsletter/Newsletter special issue.md",
     "readme.md",
     "Ascii symbols.md",
-    "newsletter/Newsletter special issue.md",
     "School studies/CS/networking/2,Networking Worksheet.md",
     "School studies/CS/networking/1,Networking.md",
     "School studies/CS/networking/bridge_gateway.png",
