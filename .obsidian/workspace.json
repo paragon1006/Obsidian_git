@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f68dfddaa1fe8c63",
+        "id": "264cc078e36af49f",
         "type": "tabs",
         "children": [
           {
-            "id": "93ab4986712a181d",
+            "id": "d361d8a7b102fbc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ascii symbols.md",
+                "file": "newsletter/Newsletter special issue.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ascii symbols.md",
+                "file": "newsletter/Newsletter special issue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ascii symbols.md",
+                "file": "newsletter/Newsletter special issue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ascii symbols.md"
+                "file": "newsletter/Newsletter special issue.md"
               }
             }
           },
@@ -163,27 +163,19 @@
             }
           },
           {
-            "id": "01bf04ca3732625e",
+            "id": "10654fb406c46b7c",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {}
             }
-          },
-          {
-            "id": "ea70c15627d86483",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 228.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,8 +195,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "93ab4986712a181d",
+  "active": "322c528cb7f7b225",
   "lastOpenFiles": [
+    "readme.md",
     "Ascii symbols.md",
     "School studies/CS/networking/2,Networking Worksheet.md",
     "School studies/CS/networking/1,Networking.md",
@@ -212,7 +205,6 @@
     "School studies/English Language El/Page 147 EL hw.md",
     "Excalidraw/englishhomework1_9_23.excalidraw.md",
     "Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md",
-    "readme.md",
     "Excalidraw/Pasted Image 20230901081322_875.png",
     "'Elaborate coping mechanisms'.md",
     "Teacher's day wishes.md",
