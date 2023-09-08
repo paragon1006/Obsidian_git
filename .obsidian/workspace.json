@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "newsletter/Newsletter special issue.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "newsletter/Newsletter special issue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "newsletter/Newsletter special issue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "newsletter/Newsletter special issue.md"
               }
             }
           },
@@ -197,8 +197,9 @@
   },
   "active": "d361d8a7b102fbc8",
   "lastOpenFiles": [
-    "newsletter/Newsletter special issue.md",
     "readme.md",
+    "Teacher's day wishes.md",
+    "newsletter/Newsletter special issue.md",
     "Ascii symbols.md",
     "School studies/CS/networking/2,Networking Worksheet.md",
     "School studies/CS/networking/1,Networking.md",
@@ -208,7 +209,6 @@
     "Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md",
     "Excalidraw/Pasted Image 20230901081322_875.png",
     "'Elaborate coping mechanisms'.md",
-    "Teacher's day wishes.md",
     "A-Level/Chemistry (9701)/Books/Exam_success_in_Cambridge_Chemistry_As_Al_level_IGCSE_Files_Channel.pdf",
     "A-Level/Chemistry (9701)/Notes/Save my exams/AS Level/1. Physical chemistry .pdf",
     "A-Level/Chemistry (9701)/Books/Chemistry in context for cambridge As-Al(1).pdf",
