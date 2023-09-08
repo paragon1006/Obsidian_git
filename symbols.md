@@ -1,3 +1,8 @@
 Tick-mark ✓
 Summation ∑
-Rupee ₹±⁁µ℃°
+Rupee ₹
+plusminus ±
+lamda ⁁ 
+mu µ
+Celcius ℃
+degree °
