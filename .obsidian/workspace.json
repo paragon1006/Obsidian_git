@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "symbols.md",
+                "file": "Ascii symbols.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "symbols.md",
+                "file": "Ascii symbols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "symbols.md",
+                "file": "Ascii symbols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "symbols.md"
+                "file": "Ascii symbols.md"
               }
             }
           },
@@ -205,8 +205,8 @@
   },
   "active": "93ab4986712a181d",
   "lastOpenFiles": [
+    "Ascii symbols.md",
     "School studies/CS/networking/2,Networking Worksheet.md",
-    "symbols.md",
     "School studies/CS/networking/1,Networking.md",
     "School studies/CS/networking/bridge_gateway.png",
     "School studies/English Language El/Page 147 EL hw.md",
