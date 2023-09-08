@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f49904dd54068d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/CS/networking/2,Networking Worksheet.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "93ab4986712a181d",
             "type": "leaf",
             "state": {
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/networking/2,Networking Worksheet.md",
+                "file": "symbols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/networking/2,Networking Worksheet.md",
+                "file": "symbols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/CS/networking/2,Networking Worksheet.md"
+                "file": "symbols.md"
               }
             }
           },
@@ -216,10 +203,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6f49904dd54068d7",
+  "active": "93ab4986712a181d",
   "lastOpenFiles": [
-    "symbols.md",
     "School studies/CS/networking/2,Networking Worksheet.md",
+    "symbols.md",
     "School studies/CS/networking/1,Networking.md",
     "School studies/CS/networking/bridge_gateway.png",
     "School studies/English Language El/Page 147 EL hw.md",

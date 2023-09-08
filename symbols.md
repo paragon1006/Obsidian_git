@@ -1,2 +1,3 @@
 Tick-mark ✓
-∑x-f
+Summation ∑
+Rupee ₹±⁁µ℃°
