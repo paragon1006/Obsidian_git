@@ -1,0 +1,2 @@
+Tick-mark ✓
+∑x-f

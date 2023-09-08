@@ -43,5 +43,17 @@
     ],
     "defaultFilterType": "menu"
   },
-  "treeData": []
+  "treeData": [
+    {
+      "id": "9fee1d18e843e863",
+      "parent": 0,
+      "droppable": true,
+      "text": "tick symbol ascii at DuckDuckGo",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ]
 }
