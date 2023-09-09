@@ -169,6 +169,14 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "19899779a197bf81",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
