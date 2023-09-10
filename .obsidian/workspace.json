@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "264cc078e36af49f",
+        "id": "21b0fd3aa4483793",
         "type": "tabs",
         "children": [
           {
-            "id": "d361d8a7b102fbc8",
+            "id": "6cc3ac17b194846f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "readme.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "readme.md"
-              }
+              "state": {}
             }
           },
           {
@@ -203,13 +194,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d361d8a7b102fbc8",
+  "active": "6cc3ac17b194846f",
   "lastOpenFiles": [
+    "readme.md",
     "School studies/physics notes/Physical Quantities.md",
     "School studies/physics notes/physics-maths-tutor/1physical_quantities.pdf",
     "School studies/physics notes/1.Physics.readme.md",
     "newsletter/Newsletter special issue.md",
-    "readme.md",
     "Teacher's day wishes.md",
     "Ascii symbols.md",
     "School studies/CS/networking/2,Networking Worksheet.md",
