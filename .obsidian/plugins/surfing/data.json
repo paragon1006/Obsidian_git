@@ -48,7 +48,18 @@
       "id": "d4883e9d19f81a7a",
       "parent": 0,
       "droppable": true,
-      "text": "New Tab",
+      "text": "Black and White Monochrome Train Newsletter",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "6553198ab16ec00f",
+      "parent": 0,
+      "droppable": true,
+      "text": "colombo weather forecast at DuckDuckGo",
       "data": {
         "fileType": "site",
         "fileSize": "",
