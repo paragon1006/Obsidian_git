@@ -8,25 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d12f3d24f49a42c3",
+            "id": "743e843045d9f2de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/physics notes/1.Physics.readme.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "7a3a747b2650cab0",
+            "id": "6a94b4d1b59c152b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Semester Portion.md",
+                "file": "Networking flashcards.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Semester Portion.md",
+                "file": "Networking flashcards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Semester Portion.md",
+                "file": "Networking flashcards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Semester Portion.md"
+                "file": "Networking flashcards.md"
               }
             }
           },
@@ -228,10 +223,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7a3a747b2650cab0",
+  "active": "6a94b4d1b59c152b",
   "lastOpenFiles": [
-    "School studies/Chem notes/1.Chemistry.readme.md",
+    "Networking flashcards.md",
     "School studies/physics notes/1.Physics.readme.md",
+    "School studies/Semester Portion.md",
+    "School studies/Chem notes/1.Chemistry.readme.md",
     "readme.md",
     "School studies/physics notes/Physical Quantities.md",
     "School studies/physics notes/physics-maths-tutor/1physical_quantities.pdf",
@@ -267,8 +264,6 @@
     "Excalidraw/client-server-architecture.md",
     "Excalidraw/resolving-vectors.excalidraw.md",
     "Excalidraw/prescisionoraccuracy.excalidraw.md",
-    "Excalidraw/pizza-of-work.excalidraw.md",
-    "Excalidraw/ExcalidrawDrawing 2023-09-01 13.19.23.excalidraw.md",
     "School studies/CS/networking/switch.png",
     "School studies/CS/networking/star_network.png",
     "School studies/CS/networking/simple_network.png",
