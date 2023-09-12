@@ -168,6 +168,16 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "1902457e6bf22f46",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 4
