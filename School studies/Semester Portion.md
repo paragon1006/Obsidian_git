@@ -1,8 +1,8 @@
 #physics #chemistry #cs 
 # Chemistry
 
-| Num | Chapter                   | fin | tut |
-| --- | ------------------------- | --- | --- |
+| Num | Chapter                       | fin | tut |
+| --- | ----------------------------- | --- | --- |
 | 1   | [Atomic Structure]()          | Y   | Y   |
 | 2   | [Electrons in Atoms]()        | Y   | Y   |
 | 3   | [Moles & Stoichiometry]()     | Y   | Y   |
@@ -11,10 +11,8 @@
 | 6   | [Enthalpy]()                  | N   | N   |
 | 14  | [Intro to Organic]()          | Y   | Y   |
 | 15  | [Hydrocarbons]()              | Y   | Y   |
-| 16  | [Halogenoalkanes]()           | N   | N   |
+| 16  | [Halogenoalkanes]()           | N   | Y   |
 | 17  | [Alcohols Acids and Esters]() | N   | N   |
-
-
 # Physics
 
 | Num  | Chapter                                                                                                                                                       | Fin | Tut |

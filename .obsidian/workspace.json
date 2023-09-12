@@ -11,11 +11,30 @@
             "id": "d12f3d24f49a42c3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "School studies/physics notes/1.Physics.readme.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a3a747b2650cab0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School studies/Semester Portion.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School studies/Semester Portion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School studies/Semester Portion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School studies/Semester Portion.md"
+              }
             }
           },
           {
@@ -205,12 +228,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d12f3d24f49a42c3",
+  "active": "7a3a747b2650cab0",
   "lastOpenFiles": [
+    "School studies/Chem notes/1.Chemistry.readme.md",
+    "School studies/physics notes/1.Physics.readme.md",
     "readme.md",
     "School studies/physics notes/Physical Quantities.md",
     "School studies/physics notes/physics-maths-tutor/1physical_quantities.pdf",
-    "School studies/physics notes/1.Physics.readme.md",
     "newsletter/Newsletter special issue.md",
     "Teacher's day wishes.md",
     "Ascii symbols.md",
@@ -245,7 +269,6 @@
     "Excalidraw/prescisionoraccuracy.excalidraw.md",
     "Excalidraw/pizza-of-work.excalidraw.md",
     "Excalidraw/ExcalidrawDrawing 2023-09-01 13.19.23.excalidraw.md",
-    "School studies/English Language El/English Language EL.md",
     "School studies/CS/networking/switch.png",
     "School studies/CS/networking/star_network.png",
     "School studies/CS/networking/simple_network.png",
