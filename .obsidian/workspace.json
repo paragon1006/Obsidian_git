@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "21b0fd3aa4483793",
+        "id": "7742b53aa9ac0798",
         "type": "tabs",
         "children": [
           {
-            "id": "d4883e9d19f81a7a",
+            "id": "d12f3d24f49a42c3",
             "type": "leaf",
             "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.canva.com/design/DAFrnY2-nJc/weZY2xvt2hLXOP_urmmvyQ/edit"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -75,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d967d98868519a35",
@@ -198,7 +195,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d4883e9d19f81a7a",
+  "active": "d12f3d24f49a42c3",
   "lastOpenFiles": [
     "readme.md",
     "School studies/physics notes/Physical Quantities.md",
