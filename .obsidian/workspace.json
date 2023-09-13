@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d2eca4805ac19109",
+            "id": "cdd3348b4b64b6eb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "School studies/PG 169 Q1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d967d98868519a35",
@@ -89,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School studies/PG 169 Q1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School studies/PG 169 Q1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School studies/PG 169 Q1.md"
+              }
             }
           },
           {
@@ -205,8 +215,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d2eca4805ac19109",
+  "active": "cdd3348b4b64b6eb",
   "lastOpenFiles": [
+    "School studies/PG 169 Q1.md",
     "Networking flashcards.md",
     "School studies/physics notes/1.Physics.readme.md",
     "School studies/Semester Portion.md",
@@ -245,7 +256,6 @@
     "Excalidraw/Drawing 2023-08-27 20.08.26.excalidraw.md",
     "Excalidraw/client-server-architecture.md",
     "Excalidraw/resolving-vectors.excalidraw.md",
-    "Excalidraw/prescisionoraccuracy.excalidraw.md",
     "School studies/CS/networking/switch.png",
     "School studies/CS/networking/star_network.png",
     "School studies/CS/networking/simple_network.png",
