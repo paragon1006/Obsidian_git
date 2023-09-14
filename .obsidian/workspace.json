@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "'Elaborate coping mechanisms'.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f0b7907b4019a94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "newsletter/Newsletter Issue 3 roadmap.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "newsletter/Newsletter Issue 3 roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "newsletter/Newsletter Issue 3 roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "newsletter/Newsletter Issue 3 roadmap.md"
               }
             }
           },
@@ -210,22 +224,27 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "cdd3348b4b64b6eb",
+  "active": "7f0b7907b4019a94",
   "lastOpenFiles": [
-    "Teacher's day wishes.md",
-    "readme.md",
-    "School studies/PG 169 Q1.md",
+    "Excalidraw/Recording 20230914090737.webm",
+    "Excalidraw/Recording 20230914090727.webm",
+    "'Elaborate coping mechanisms'.md",
+    "newsletter/Newsletter Issue 3 roadmap.md",
+    "Ascii symbols.md",
     "Networking flashcards.md",
+    "readme.md",
+    "Teacher's day wishes.md",
+    "School studies/PG 169 Q1.md",
     "School studies/physics notes/1.Physics.readme.md",
     "School studies/Semester Portion.md",
     "School studies/Chem notes/1.Chemistry.readme.md",
     "School studies/physics notes/Physical Quantities.md",
     "School studies/physics notes/physics-maths-tutor/1physical_quantities.pdf",
     "newsletter/Newsletter special issue.md",
-    "Ascii symbols.md",
     "School studies/CS/networking/2,Networking Worksheet.md",
     "School studies/CS/networking/1,Networking.md",
     "School studies/CS/networking/bridge_gateway.png",
@@ -233,7 +252,6 @@
     "Excalidraw/englishhomework1_9_23.excalidraw.md",
     "Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md",
     "Excalidraw/Pasted Image 20230901081322_875.png",
-    "'Elaborate coping mechanisms'.md",
     "A-Level/Chemistry (9701)/Books/Exam_success_in_Cambridge_Chemistry_As_Al_level_IGCSE_Files_Channel.pdf",
     "A-Level/Chemistry (9701)/Notes/Save my exams/AS Level/1. Physical chemistry .pdf",
     "A-Level/Chemistry (9701)/Books/Chemistry in context for cambridge As-Al(1).pdf",
@@ -242,7 +260,6 @@
     "A-Level/Chemistry (9701)/Books/(2014) Cambridge International AS and A Level Chemistry Coursebook by Lawrie Ryan, Roger Norris.pdf",
     "A-Level/Chemistry (9701)/554616-2022-2024-syllabus.pdf",
     "A-Level/Economics (9708)/Books/Cambridge International AS and A Level Economics Second Edition (Peter Smith, Adam Wilby, Mila Zasheva) (z-lib.org).pdf",
-    "A-Level/Economics (9708)/595463-2023-2025-syllabus.pdf",
     "School studies/CS/Programming.md",
     "School studies/English Language El/Diary Pg 140 Q1.md",
     "Excalidraw/Pasted Image 20230831180415_600.png",
@@ -252,8 +269,6 @@
     "procedures.excalidraw.md",
     "Procedures(Default).md",
     "Excalidraw/Drawing 2023-08-27 20.08.26.excalidraw.md",
-    "Excalidraw/client-server-architecture.md",
-    "Excalidraw/resolving-vectors.excalidraw.md",
     "School studies/CS/networking/switch.png",
     "School studies/CS/networking/star_network.png",
     "School studies/CS/networking/simple_network.png",
