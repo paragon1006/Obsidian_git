@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teacher's day wishes.md",
+                "file": "readme.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teacher's day wishes.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teacher's day wishes.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teacher's day wishes.md"
+                "file": "readme.md"
               }
             }
           },
@@ -193,8 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5,
-    "collapsed": true
+    "width": 228.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,10 +213,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "54c5a6e575f4cd1d",
+  "active": "cdd3348b4b64b6eb",
   "lastOpenFiles": [
-    "readme.md",
     "Teacher's day wishes.md",
+    "readme.md",
     "School studies/PG 169 Q1.md",
     "Networking flashcards.md",
     "School studies/physics notes/1.Physics.readme.md",
