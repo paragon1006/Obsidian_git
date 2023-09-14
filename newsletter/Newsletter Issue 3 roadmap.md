@@ -1,9 +1,8 @@
-- [ ] Janmashtami -
+- [ ] Janmashtami - Khadeeja
 - [x] Rakshabandhan - Karan 
-- [ ] Anti Bullying - Khadeeja
+- [ ] Anti Bullying - Vihaan
 - [ ] Global issues - Mehek/Suhani
 	- [ ] Aditya L1 & Chandrayaan 3 & ISRO
 - [x] Teacher's day event  | reviews - Unnati
-- [x] Drug abuse seminar - Unnaiti
-- [ ] Hindi Divas - 
-- [ ] Vihaan Article - 
+- [x] Drug abuse seminar - Unnati
+- [ ] Hindi Divas - Khadeeja

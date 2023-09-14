@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8334358a4c9e6095",
+            "id": "7c1ff6a90a823bf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,17 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7c1ff6a90a823bf5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "newsletter/Newsletter Issue 3 roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "newsletter/Newsletter Issue 3 roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "newsletter/Newsletter Issue 3 roadmap.md"
+              }
             }
           },
           {
@@ -221,12 +216,14 @@
   },
   "active": "7c1ff6a90a823bf5",
   "lastOpenFiles": [
+    "Excalidraw/Recording 20230914110755.webm",
+    "Excalidraw/Recording 20230914090727.webm",
+    "Excalidraw/Recording 20230914110925.webm",
     "newsletter/Newsletter Issue 3 roadmap.md",
     "'Elaborate coping mechanisms'.md",
     "readme.md",
     "Ascii symbols.md",
     "Excalidraw/Recording 20230914090737.webm",
-    "Excalidraw/Recording 20230914090727.webm",
     "Networking flashcards.md",
     "Teacher's day wishes.md",
     "School studies/PG 169 Q1.md",
@@ -248,8 +245,6 @@
     "A-Level/Chemistry (9701)/Books/Chemistry in context for cambridge As-Al(1).pdf",
     "A-Level/Chemistry (9701)/Books/Cambridge International AS and A Level Chemistry Students Book Second Edition (Graham Brown, Brian Sargent) (z-lib.org).pdf",
     "A-Level/Chemistry (9701)/Books/(2020) Cambridge International AS and A Level Chemistry Coursebook by Lawrie Ryan, Roger Norris.pdf",
-    "A-Level/Chemistry (9701)/Books/(2014) Cambridge International AS and A Level Chemistry Coursebook by Lawrie Ryan, Roger Norris.pdf",
-    "A-Level/Chemistry (9701)/554616-2022-2024-syllabus.pdf",
     "School studies/CS/Programming.md",
     "School studies/English Language El/Diary Pg 140 Q1.md",
     "Excalidraw/Pasted Image 20230831180415_600.png",
