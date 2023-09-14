@@ -8,20 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cdd3348b4b64b6eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "'Elaborate coping mechanisms'.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f0b7907b4019a94",
+            "id": "8334358a4c9e6095",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,6 +18,14 @@
                 "backlinks": true,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "7c1ff6a90a823bf5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -108,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "newsletter/Newsletter Issue 3 roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "newsletter/Newsletter Issue 3 roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "newsletter/Newsletter Issue 3 roadmap.md"
-              }
+              "state": {}
             }
           },
           {
@@ -228,15 +219,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7f0b7907b4019a94",
+  "active": "7c1ff6a90a823bf5",
   "lastOpenFiles": [
+    "newsletter/Newsletter Issue 3 roadmap.md",
+    "'Elaborate coping mechanisms'.md",
+    "readme.md",
+    "Ascii symbols.md",
     "Excalidraw/Recording 20230914090737.webm",
     "Excalidraw/Recording 20230914090727.webm",
-    "'Elaborate coping mechanisms'.md",
-    "newsletter/Newsletter Issue 3 roadmap.md",
-    "Ascii symbols.md",
     "Networking flashcards.md",
-    "readme.md",
     "Teacher's day wishes.md",
     "School studies/PG 169 Q1.md",
     "School studies/physics notes/1.Physics.readme.md",
@@ -259,7 +250,6 @@
     "A-Level/Chemistry (9701)/Books/(2020) Cambridge International AS and A Level Chemistry Coursebook by Lawrie Ryan, Roger Norris.pdf",
     "A-Level/Chemistry (9701)/Books/(2014) Cambridge International AS and A Level Chemistry Coursebook by Lawrie Ryan, Roger Norris.pdf",
     "A-Level/Chemistry (9701)/554616-2022-2024-syllabus.pdf",
-    "A-Level/Economics (9708)/Books/Cambridge International AS and A Level Economics Second Edition (Peter Smith, Adam Wilby, Mila Zasheva) (z-lib.org).pdf",
     "School studies/CS/Programming.md",
     "School studies/English Language El/Diary Pg 140 Q1.md",
     "Excalidraw/Pasted Image 20230831180415_600.png",
