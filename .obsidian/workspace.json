@@ -193,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 228.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,10 +217,10 @@
   },
   "active": "7c1ff6a90a823bf5",
   "lastOpenFiles": [
+    "newsletter/Newsletter Issue 3 roadmap.md",
     "Excalidraw/Recording 20230914110755.webm",
     "Excalidraw/Recording 20230914090727.webm",
     "Excalidraw/Recording 20230914110925.webm",
-    "newsletter/Newsletter Issue 3 roadmap.md",
     "'Elaborate coping mechanisms'.md",
     "readme.md",
     "Ascii symbols.md",
