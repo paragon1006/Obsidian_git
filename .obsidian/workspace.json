@@ -8,42 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c1ff6a90a823bf5",
+            "id": "e81c97018c4cda22",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/CS/Programming.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "adeefec90ee1c372",
+            "id": "a3f52163aa335a12",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "surfing-view",
               "state": {
-                "file": "School studies/CS/Cambridge International AS and A Levels Computer Science.pdf"
-              }
-            }
-          },
-          {
-            "id": "8625b8d939562eb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/CS/Pseudocode.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "url": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.13/Obsidian.1.4.13.exe"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -157,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School studies/CS/Programming.md"
-              }
+              "state": {}
             }
           },
           {
@@ -239,11 +218,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7c1ff6a90a823bf5",
+  "active": "a3f52163aa335a12",
   "lastOpenFiles": [
     "School studies/CS/Pseudocode.md",
-    "School studies/CS/Programming.md",
     "School studies/CS/Cambridge International AS and A Levels Computer Science.pdf",
+    "School studies/CS/Programming.md",
     "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf",
     "School studies/CS/networking/2,Networking Worksheet.md",
     "newsletter/Newsletter Issue 3 roadmap.md",
