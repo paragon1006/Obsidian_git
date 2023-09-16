@@ -5,12 +5,12 @@
 | 1   | [Constants vs Variables](#Constants-vs-Variables)         | Y   |
 | 2   | [Library Routines (Strings)](#Library-Routines(Strings))  | Y   |
 | 3   | [Library Routines (Integer)](#Library-Routines(Integers)) | N   |
-| 4   | [IF ELSE]()                                               | Y   |
+| 4   | [IF ELSE]                                                 | Y   |
 | 5   | [Loops (For)]()                                           | Y   |
 | 6   | [Loops (repeat)]                                          | Y   |
 | 7   | Loops (while)                                             | Y   |
-| 8   | [Procedures (default)](#***Procedures***-(default))       | N   |
-| 9   | Procedures (parameterized)                                | N   |
+| 8   | [Procedures (default)](#Procedures-(default))             | N   |
+| 9   | [Procedures (parameterized)](#Procedures-(Parameterized)) | N   |
 | 10  | Functions (default)                                       | N   |
 | 11  | Functions (parameterized)                                 | N   |
 | 12  | Functions (written)                                       | N   |
@@ -158,4 +158,32 @@ See ya
 >ENDPROCEDURE
 
 >[!question]- ***WAP*** to ask a user a choice to perform various tasks ![[cs-hw-gdhjksl.excalidraw | 300]]
-#  
+# Procedures-(Parameterized)
+### Parameterized-procedure
+It is often useful to pass a value to a procedure that can be used to modify the action(s) taken. For example, to decide how many stars would be output. This is done by passing a parameter when the procedure is called.
+### Example
+``` PSEUDOCODE
+PROCEDURE stars (Number : INTEGER) 
+	FOR Counter 1 TO Number 
+		OUTPUT"*" 
+		NEXT Counter 
+ENDPROCEDURE
+```
+
+>[!question]- WAP using a parameterized procedure to perform square and one to cube a number
+>
+>``` PSEDUOCODE
+>DECLARE a:INTEGER
+>INPUT a
+>PROCEDURE Cube(Num)
+>	DECLARE b:INTEGER
+>	b <-- a * a * a
+>	OUTPUT "The cube is", b
+>ENDPROCEDURE
+>PROCEDURE Sqr(Num)
+>	DECLARE b:INTEGER
+>	b <-- a * a 
+>	OUTPUT "The square is", b
+>ENDPROCEDURE
+>```
+
