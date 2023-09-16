@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "newsletter issue articles.md",
+                "file": "newsletter/Newsletter Issue 3 roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "newsletter issue articles.md",
+                "file": "newsletter/Newsletter Issue 3 roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "newsletter issue articles.md"
+                "file": "newsletter/Newsletter Issue 3 roadmap.md"
               }
             }
           },
@@ -229,10 +228,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "322c528cb7f7b225",
+  "active": "4002cde1f665869b",
   "lastOpenFiles": [
-    "newsletter/Newsletter Issue 3 roadmap.md",
     "newsletter issue articles.md",
+    "newsletter/Newsletter Issue 3 roadmap.md",
     "newsletter/Newsletter special issue.md",
     "School studies/CS/Pseudocode.md",
     "School studies/CS/Cambridge International AS and A Levels Computer Science.pdf",
