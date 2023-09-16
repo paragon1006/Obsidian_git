@@ -4,29 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "e619f05c1cd1b43f",
+        "id": "d091c9e1e8cc0f15",
         "type": "tabs",
         "children": [
           {
-            "id": "e81c97018c4cda22",
+            "id": "4002cde1f665869b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "newsletter/Newsletter Issue 3 roadmap.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
-            "id": "a3f52163aa335a12",
+            "id": "0343d181fa985af8",
             "type": "leaf",
             "state": {
-              "type": "surfing-view",
+              "type": "markdown",
               "state": {
-                "url": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.13/Obsidian.1.4.13.exe"
+                "file": "newsletter issue articles.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "newsletter/Newsletter Issue 3 roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "newsletter/Newsletter Issue 3 roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "newsletter/Newsletter Issue 3 roadmap.md"
+              }
             }
           },
           {
@@ -218,14 +229,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a3f52163aa335a12",
+  "active": "4002cde1f665869b",
   "lastOpenFiles": [
+    "newsletter issue articles.md",
+    "newsletter/Newsletter Issue 3 roadmap.md",
+    "newsletter/Newsletter special issue.md",
     "School studies/CS/Pseudocode.md",
     "School studies/CS/Cambridge International AS and A Levels Computer Science.pdf",
     "School studies/CS/Programming.md",
     "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf",
     "School studies/CS/networking/2,Networking Worksheet.md",
-    "newsletter/Newsletter Issue 3 roadmap.md",
     "Excalidraw/Recording 20230914110755.webm",
     "Excalidraw/Recording 20230914090727.webm",
     "Excalidraw/Recording 20230914110925.webm",
@@ -241,7 +254,6 @@
     "School studies/Chem notes/1.Chemistry.readme.md",
     "School studies/physics notes/Physical Quantities.md",
     "School studies/physics notes/physics-maths-tutor/1physical_quantities.pdf",
-    "newsletter/Newsletter special issue.md",
     "School studies/CS/networking/1,Networking.md",
     "School studies/CS/networking/bridge_gateway.png",
     "School studies/English Language El/Page 147 EL hw.md",
