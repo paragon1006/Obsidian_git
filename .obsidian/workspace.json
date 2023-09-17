@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "newsletter issue   articles.md",
+                "file": "newsletter issue 3 articles.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "newsletter issue   articles.md",
+                "file": "newsletter/Newsletter Issue 3 roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "newsletter issue   articles.md",
+                "file": "newsletter/Newsletter Issue 3 roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "newsletter issue   articles.md"
+                "file": "newsletter/Newsletter Issue 3 roadmap.md"
               }
             }
           },
@@ -238,9 +238,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0343d181fa985af8",
+  "active": "88fec550630988c1",
   "lastOpenFiles": [
-    "newsletter issue   articles.md",
+    "newsletter issue 3 articles.md",
     "readme.md",
     "newsletter/Newsletter Issue 3 roadmap.md",
     "newsletter/Newsletter special issue.md",
