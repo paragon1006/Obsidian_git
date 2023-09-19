@@ -43,5 +43,39 @@
     ],
     "defaultFilterType": "menu"
   },
-  "treeData": []
+  "treeData": [
+    {
+      "id": "30646225193f4e4f",
+      "parent": 0,
+      "droppable": true,
+      "text": "for Using Obsidian on Mobile - Obsidian Hub - Obsidian Publish",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "54ea99fb334b14c1",
+      "parent": 0,
+      "droppable": true,
+      "text": "for Vim users - Obsidian Hub - Obsidian Publish",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "61749365fcc35492",
+      "parent": 0,
+      "droppable": true,
+      "text": "New Tab",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ]
 }

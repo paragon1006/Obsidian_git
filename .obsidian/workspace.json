@@ -26,15 +26,45 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "newsletter issue 3 articles.md",
+                "file": "newsletter/newsletter issue 3 articles.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "30646225193f4e4f",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/for+Using+Obsidian+on+Mobile"
+              }
+            }
+          },
+          {
+            "id": "61749365fcc35492",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://github.com/obsidian-community/obsidian-hub/archive/refs/heads/main.zip"
+              }
+            }
+          },
+          {
+            "id": "54ea99fb334b14c1",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/for+Vim+users"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -92,7 +122,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d967d98868519a35",
@@ -108,7 +139,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "newsletter issue 3 articles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +155,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "newsletter issue 3 articles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,9 +176,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "newsletter issue 3 articles.md"
-              }
+              "state": {}
             }
           },
           {
@@ -207,7 +234,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,9 +256,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0343d181fa985af8",
+  "active": "61749365fcc35492",
   "lastOpenFiles": [
-    "newsletter issue 3 articles.md",
+    "newsletter/newsletter issue 3 articles.md",
     "readme.md",
     "newsletter/Newsletter Issue 3 roadmap.md",
     "newsletter/Newsletter special issue.md",
