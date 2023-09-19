@@ -57,14 +57,30 @@
             "id": "54ea99fb334b14c1",
             "type": "leaf",
             "state": {
-              "type": "surfing-view",
+              "type": "markdown",
               "state": {
-                "url": "https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/for+Vim+users"
+                "file": "School studies/English Language El/Diary Pg 140 Q1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b568157e40593f0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EL task list.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d967d98868519a35",
@@ -139,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "EL task list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,6 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "EL task list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "EL task list.md"
+              }
             }
           },
           {
@@ -256,8 +275,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "61749365fcc35492",
+  "active": "b568157e40593f0a",
   "lastOpenFiles": [
+    "School studies/English Language El/Page 147 EL hw.md",
+    "EL task list.md",
+    "School studies/English Language El/Diary Pg 140 Q1.md",
     "newsletter/newsletter issue 3 articles.md",
     "readme.md",
     "newsletter/Newsletter Issue 3 roadmap.md",
@@ -283,20 +305,17 @@
     "School studies/physics notes/physics-maths-tutor/1physical_quantities.pdf",
     "School studies/CS/networking/1,Networking.md",
     "School studies/CS/networking/bridge_gateway.png",
-    "School studies/English Language El/Page 147 EL hw.md",
     "Excalidraw/englishhomework1_9_23.excalidraw.md",
     "Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md",
     "Excalidraw/Pasted Image 20230901081322_875.png",
     "A-Level/Chemistry (9701)/Books/Exam_success_in_Cambridge_Chemistry_As_Al_level_IGCSE_Files_Channel.pdf",
     "A-Level/Chemistry (9701)/Notes/Save my exams/AS Level/1. Physical chemistry .pdf",
     "A-Level/Chemistry (9701)/Books/Chemistry in context for cambridge As-Al(1).pdf",
-    "School studies/English Language El/Diary Pg 140 Q1.md",
     "Excalidraw/Pasted Image 20230831180415_600.png",
     "programming copy.md",
     "Excalidraw/procedure.excalidraw.md",
     "Excalidraw/cs-hw-gdhjksl.excalidraw.md",
     "procedures.excalidraw.md",
-    "Procedures(Default).md",
     "School studies/CS/networking/switch.png",
     "School studies/CS/networking/star_network.png",
     "School studies/CS/networking/simple_network.png",
