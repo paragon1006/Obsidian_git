@@ -2,5 +2,5 @@
   "accentColor": "#00c21a",
   "baseFontSize": 24,
   "cssTheme": "Vanilla AMOLED",
-  "translucency": true
+  "translucency": false
 }
