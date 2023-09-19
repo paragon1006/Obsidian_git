@@ -40,7 +40,7 @@
               "type": "markdown",
               "state": {
                 "file": "EL task list.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -58,9 +58,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "56967f9d08ba0882",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://github.com/paragon1006/Obsidian_git"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +124,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "newsletter/newsletter issue 3 articles.md",
+                "file": "EL task list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "newsletter/newsletter issue 3 articles.md",
+                "file": "EL task list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "newsletter/newsletter issue 3 articles.md"
+                "file": "EL task list.md"
               }
             }
           },
@@ -229,7 +240,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -254,10 +265,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0343d181fa985af8",
+  "active": "b568157e40593f0a",
   "lastOpenFiles": [
-    "readme.md",
     "EL task list.md",
+    "readme.md",
     "newsletter/newsletter issue 3 articles.md",
     "newsletter/Newsletter Issue 3 roadmap.md",
     "obsidian format/Obsidian Shortcuts.md",
