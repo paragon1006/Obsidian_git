@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "newsletter/newsletter issue 3 articles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "newsletter/newsletter issue 3 articles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "newsletter/newsletter issue 3 articles.md"
               }
             }
           },
@@ -254,11 +254,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "5860de7a1cc4f528",
+  "active": "0343d181fa985af8",
   "lastOpenFiles": [
+    "readme.md",
     "EL task list.md",
     "newsletter/newsletter issue 3 articles.md",
-    "readme.md",
     "newsletter/Newsletter Issue 3 roadmap.md",
     "obsidian format/Obsidian Shortcuts.md",
     "obsidian format/MathJax.md",
