@@ -25,4 +25,4 @@ An anti-bullying campaign was implemented by the student council to facilitate c
 
 Witty International School has always been a pillar of excellence. Students are consistently made aware of the fact that it is a place where holistic development takes place. Each student can excel without any fear no matter the magnitude of which is experienced. 
 
-The council hopes that many more initiatives akin to this are  put into effect at the earliest. Over the course of several years, the level of brilliance that is to be attained by the council has been set rather high. However, the student body aspires to set a standard - that the many councils to come can strive to achieve.
+The council hopes that many more initiatives akin to this are  put into effect at the earliest. ==Over the course of several years, the level of brilliance that is to be attained by the council has been set rather high. However, the student body aspires to set a standard - that the many councils to come can strive to achieve.==
