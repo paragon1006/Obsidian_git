@@ -65,12 +65,12 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://github.com/paragon1006/Obsidian_git"
+                "url": "https://github.com/paragon1006/Obsidian_git/blob/main/EL%20task%20list.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EL task list.md",
+                "file": "newsletter/Newsletter Issue 3 roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EL task list.md",
+                "file": "newsletter/Newsletter Issue 3 roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EL task list.md"
+                "file": "newsletter/Newsletter Issue 3 roadmap.md"
               }
             }
           },
@@ -240,7 +240,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -265,7 +265,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b568157e40593f0a",
+  "active": "56967f9d08ba0882",
   "lastOpenFiles": [
     "EL task list.md",
     "readme.md",
