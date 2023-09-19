@@ -34,16 +34,6 @@
             }
           },
           {
-            "id": "30646225193f4e4f",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/for+Using+Obsidian+on+Mobile"
-              }
-            }
-          },
-          {
             "id": "61749365fcc35492",
             "type": "leaf",
             "state": {
@@ -80,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
