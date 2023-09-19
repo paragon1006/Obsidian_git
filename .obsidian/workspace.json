@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "newsletter/newsletter issue 3 articles.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "newsletter/newsletter issue 3 articles.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "newsletter/newsletter issue 3 articles.md"
+                "file": "readme.md"
               }
             }
           },
@@ -254,16 +254,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0343d181fa985af8",
+  "active": "5860de7a1cc4f528",
   "lastOpenFiles": [
-    "readme.md",
-    "newsletter/newsletter issue 3 articles.md",
     "EL task list.md",
+    "newsletter/newsletter issue 3 articles.md",
+    "readme.md",
+    "newsletter/Newsletter Issue 3 roadmap.md",
     "obsidian format/Obsidian Shortcuts.md",
     "obsidian format/MathJax.md",
     "Untitled.md",
     "School studies/English Language El/Diary Pg 140 Q1.md",
-    "newsletter/Newsletter Issue 3 roadmap.md",
     "School studies/English Language El/Page 147 EL hw.md",
     "newsletter/Newsletter special issue.md",
     "School studies/CS/Pseudocode.md",

@@ -5,4 +5,4 @@
 	- [ ] Aditya L1 & Chandrayaan 3 & ISRO
 - [x] Teacher's day event  | reviews - Unnati
 - [x] Drug abuse seminar - Unnati
-- [ ] Hindi Divas - Khadeeja
+- [x] Hindi Divas - Khadeeja
