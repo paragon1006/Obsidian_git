@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4002cde1f665869b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "newsletter/Newsletter Issue 3 roadmap.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0343d181fa985af8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "newsletter/newsletter issue 3 articles.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b568157e40593f0a",
             "type": "leaf",
             "state": {
@@ -47,30 +21,20 @@
             }
           },
           {
-            "id": "5860de7a1cc4f528",
+            "id": "56967f9d08ba0882",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "'Elaborate coping mechanisms'.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "56967f9d08ba0882",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://github.com/paragon1006/Obsidian_git/blob/main/EL%20task%20list.md"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -145,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "newsletter/Newsletter Issue 3 roadmap.md",
+                "file": "'Elaborate coping mechanisms'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "newsletter/Newsletter Issue 3 roadmap.md",
+                "file": "'Elaborate coping mechanisms'.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -185,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "newsletter/Newsletter Issue 3 roadmap.md"
+                "file": "'Elaborate coping mechanisms'.md"
               }
             }
           },
@@ -267,9 +230,11 @@
   },
   "active": "56967f9d08ba0882",
   "lastOpenFiles": [
+    "'Elaborate coping mechanisms'.md",
+    "Ascii symbols.md",
     "EL task list.md",
-    "readme.md",
     "newsletter/newsletter issue 3 articles.md",
+    "readme.md",
     "newsletter/Newsletter Issue 3 roadmap.md",
     "obsidian format/Obsidian Shortcuts.md",
     "obsidian format/MathJax.md",
@@ -285,8 +250,6 @@
     "Excalidraw/Recording 20230914110755.webm",
     "Excalidraw/Recording 20230914090727.webm",
     "Excalidraw/Recording 20230914110925.webm",
-    "'Elaborate coping mechanisms'.md",
-    "Ascii symbols.md",
     "Excalidraw/Recording 20230914090737.webm",
     "Networking flashcards.md",
     "Teacher's day wishes.md",
