@@ -10,5 +10,6 @@
   },
   "attachmentFolderPath": "Excalidraw",
   "trashOption": "local",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "propertiesInDocument": "source"
 }
