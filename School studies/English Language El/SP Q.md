@@ -1,4 +1,9 @@
-#el
+---
+tags:
+  - el
+aliases:
+  - homework
+---
 - [x] [Question 2](#question-2)
 	- [~~A2~~](#a2)
 - [ ] [Question 3](#question-3)

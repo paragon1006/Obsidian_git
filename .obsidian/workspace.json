@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EL task list.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56967f9d08ba0882",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "'Elaborate coping mechanisms'.md",
+                "file": "School studies/English Language El/EL task list for ganpati vacay.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "'Elaborate coping mechanisms'.md",
+                "file": "School studies/English Language El/EL task list for ganpati vacay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "'Elaborate coping mechanisms'.md",
+                "file": "School studies/English Language El/EL task list for ganpati vacay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "'Elaborate coping mechanisms'.md"
+                "file": "School studies/English Language El/EL task list for ganpati vacay.md"
               }
             }
           },
@@ -228,19 +214,23 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "56967f9d08ba0882",
+  "active": "b568157e40593f0a",
   "lastOpenFiles": [
+    "School studies/English Language El/Pg 140.md",
+    "School studies/English Language El/EL task list for ganpati vacay.md",
+    "School studies/English Language El/SP Q.md",
+    "School studies/English Language El/Pg 158 traffic article.md",
+    "School studies/English Language El/Page 147 EL hw.md",
+    "School studies/English Language El/English Language EL.md",
+    "School studies/English Language El/Pg 158 traffic.md",
     "'Elaborate coping mechanisms'.md",
     "Ascii symbols.md",
-    "EL task list.md",
     "newsletter/newsletter issue 3 articles.md",
     "readme.md",
     "newsletter/Newsletter Issue 3 roadmap.md",
     "obsidian format/Obsidian Shortcuts.md",
     "obsidian format/MathJax.md",
     "Untitled.md",
-    "School studies/English Language El/Diary Pg 140 Q1.md",
-    "School studies/English Language El/Page 147 EL hw.md",
     "newsletter/Newsletter special issue.md",
     "School studies/CS/Pseudocode.md",
     "School studies/CS/Cambridge International AS and A Levels Computer Science.pdf",
@@ -259,16 +249,12 @@
     "School studies/Chem notes/1.Chemistry.readme.md",
     "School studies/physics notes/Physical Quantities.md",
     "School studies/physics notes/physics-maths-tutor/1physical_quantities.pdf",
-    "School studies/CS/networking/1,Networking.md",
     "School studies/CS/networking/bridge_gateway.png",
-    "Excalidraw/englishhomework1_9_23.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md",
     "Excalidraw/Pasted Image 20230901081322_875.png",
     "A-Level/Chemistry (9701)/Books/Exam_success_in_Cambridge_Chemistry_As_Al_level_IGCSE_Files_Channel.pdf",
     "A-Level/Chemistry (9701)/Notes/Save my exams/AS Level/1. Physical chemistry .pdf",
     "A-Level/Chemistry (9701)/Books/Chemistry in context for cambridge As-Al(1).pdf",
     "Excalidraw/Pasted Image 20230831180415_600.png",
-    "programming copy.md",
     "School studies/CS/networking/switch.png",
     "School studies/CS/networking/star_network.png",
     "School studies/CS/networking/simple_network.png",

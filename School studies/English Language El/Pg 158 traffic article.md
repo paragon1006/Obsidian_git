@@ -1,0 +1,6 @@
+---
+tags:
+  - el
+aliases:
+  - homework
+---
