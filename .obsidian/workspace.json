@@ -26,11 +26,12 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://discord.com/channels/898079566189449277/898083748086681661"
+                "url": "https://discord.com/channels/898079566189449277/898083748086681661/threads/1154660583195549740"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/English Language El/Pg 140.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/English Language El/Pg 140.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School studies/English Language El/Pg 140.md"
-              }
+              "state": {}
             }
           },
           {
@@ -226,7 +223,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b568157e40593f0a",
+  "active": "7a357fe762113119",
   "lastOpenFiles": [
     "School studies/English Language El/Pg 140.md",
     "School studies/English Language El/EL task list for ganpati vacay.md",
