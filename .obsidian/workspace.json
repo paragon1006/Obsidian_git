@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4d9876e565764f96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/English Language El/EL task list for ganpati vacay.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/English Language El/EL task list for ganpati vacay.md",
+                "file": "School studies/English Language El/Pg 140.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/English Language El/EL task list for ganpati vacay.md",
+                "file": "School studies/English Language El/Pg 140.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/English Language El/EL task list for ganpati vacay.md"
+                "file": "School studies/English Language El/Pg 140.md"
               }
             }
           },
@@ -202,9 +188,17 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "014caf12753e35de",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -229,10 +223,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4d9876e565764f96",
+  "active": "014caf12753e35de",
   "lastOpenFiles": [
-    "School studies/English Language El/Pg 140.md",
     "School studies/English Language El/EL task list for ganpati vacay.md",
+    "School studies/English Language El/Pg 140.md",
     "School studies/English Language El/SP Q.md",
     "School studies/English Language El/Pg 158 traffic article.md",
     "School studies/English Language El/Page 147 EL hw.md",
