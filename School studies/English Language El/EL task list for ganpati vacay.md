@@ -5,7 +5,7 @@ aliases:
   - homework
 ---
 
-- [ ] [[Pg 140]]
+- [x] [[Pg 140]]
 - [ ] [[Page 147 EL hw]]
 - [ ] [[Pg 158 traffic article]]
 - [ ] [[Pg 165 review writing]]
