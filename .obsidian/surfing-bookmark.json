@@ -1,6 +1,18 @@
 {
   "bookmarks": [
     {
+      "id": "1572598834",
+      "name": "Interactive Vim tutorial",
+      "url": "https://www.openvim.com/",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1695490477916,
+      "modified": 1695490477916
+    },
+    {
       "id": "1836938752",
       "name": "Reddit",
       "url": "https://reddit.com",

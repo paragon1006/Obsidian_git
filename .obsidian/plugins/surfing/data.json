@@ -43,5 +43,39 @@
     ],
     "defaultFilterType": "menu"
   },
-  "treeData": []
+  "treeData": [
+    {
+      "id": "74548128a972495e",
+      "parent": 0,
+      "droppable": true,
+      "text": "Vim in Obsidian for beginners - Help - Obsidian Forum",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "b353632e325ea4c7",
+      "parent": 0,
+      "droppable": true,
+      "text": "Obsidian and Vim Mode – Jamie Todd Rubin",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "d99e1326991cb5e0",
+      "parent": 0,
+      "droppable": true,
+      "text": "Interactive Vim tutorial",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ]
 }
