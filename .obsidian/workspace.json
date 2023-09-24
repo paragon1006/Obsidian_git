@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f47b2c5632dc0cda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/CS/Pseudocode.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Pseudocode.md",
+                "file": "School studies/English Language El/PG 180 task a or b.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Pseudocode.md",
+                "file": "School studies/English Language El/PG 180 task a or b.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/CS/Pseudocode.md"
+                "file": "School studies/English Language El/PG 180 task a or b.md"
               }
             }
           },
@@ -211,7 +197,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -236,8 +222,18 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f47b2c5632dc0cda",
+  "active": "10a6a5c7f30c6d53",
   "lastOpenFiles": [
+    "School studies/English Language El/SP Q.md",
+    "Excalidraw/Pasted Image 20230924190733_566.png",
+    "Excalidraw/pizza-of-work.excalidraw.md",
+    "Excalidraw/prescisionoraccuracy.excalidraw.md",
+    "Excalidraw/procedure.excalidraw.md",
+    "Excalidraw/resolving-vectors.excalidraw.md",
+    "Excalidraw/client-server-architecture.md",
+    "Excalidraw/cs-hw-gdhjksl.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-27 20.08.26.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md",
     "School studies/English Language El/PG 180 task a or b.md",
     "School studies/CS/Pseudocode.md",
     "School studies/CS/Programming.md",
@@ -251,23 +247,12 @@
     "PG 180 task a/b.md",
     "PG 180 task a",
     "Excalidraw/elpg180points.excalidraw.md",
-    "Excalidraw/Pasted Image 20230924190733_566.png",
     "Excalidraw/elpg180ab.excalidraw.md",
     "Excalidraw/Pasted Image 20230924190635_582.png",
     "Excalidraw/elpg158traffic.excalidraw.md",
     "Excalidraw/Pasted Image 20230924013318_717.png",
-    "School studies/English Language El/SP Q.md",
     "School studies/English Language El/English Language EL.md",
     "School studies/English Language El/Pg 158 traffic.md",
-    "'Elaborate coping mechanisms'.md",
-    "Ascii symbols.md",
-    "newsletter/newsletter issue 3 articles.md",
-    "readme.md",
-    "newsletter/Newsletter Issue 3 roadmap.md",
-    "obsidian format/Obsidian Shortcuts.md",
-    "obsidian format/MathJax.md",
-    "Untitled.md",
-    "newsletter/Newsletter special issue.md",
     "School studies/CS/Cambridge International AS and A Levels Computer Science.pdf",
     "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf",
     "Excalidraw/Recording 20230914110755.webm",
