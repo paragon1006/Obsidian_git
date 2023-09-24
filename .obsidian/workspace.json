@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d091c9e1e8cc0f15",
+        "id": "c5624cc2e1b19c0b",
         "type": "tabs",
         "children": [
           {
-            "id": "7fcdece4bcf8903e",
+            "id": "10a6a5c7f30c6d53",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "School studies/English Language El/Page 147 EL hw.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School studies/English Language El/Page 147 EL hw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School studies/English Language El/Page 147 EL hw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School studies/English Language El/Page 147 EL hw.md"
+              }
             }
           },
           {
@@ -188,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -213,9 +223,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7fcdece4bcf8903e",
+  "active": "4b0ad9f429b2d16e",
   "lastOpenFiles": [
+    "School studies/English Language El/PG 180 task a.md",
     "School studies/English Language El/EL task list for ganpati vacay.md",
+    "PG 180 task a/b.md",
+    "PG 180 task a",
+    "Excalidraw/elpg180points.excalidraw.md",
+    "Excalidraw/Pasted Image 20230924190733_566.png",
+    "Excalidraw/elpg180ab.excalidraw.md",
+    "Excalidraw/Pasted Image 20230924190635_582.png",
     "School studies/English Language El/Pg 158 traffic article.md",
     "Excalidraw/elpg158traffic.excalidraw.md",
     "Excalidraw/Pasted Image 20230924013318_717.png",
@@ -244,22 +261,16 @@
     "Excalidraw/Recording 20230914090737.webm",
     "Networking flashcards.md",
     "Teacher's day wishes.md",
-    "School studies/PG 169 Q1.md",
-    "School studies/physics notes/1.Physics.readme.md",
-    "School studies/Semester Portion.md",
     "School studies/physics notes/physics-maths-tutor/1physical_quantities.pdf",
     "School studies/CS/networking/bridge_gateway.png",
     "Excalidraw/Pasted Image 20230901081322_875.png",
     "A-Level/Chemistry (9701)/Books/Exam_success_in_Cambridge_Chemistry_As_Al_level_IGCSE_Files_Channel.pdf",
     "A-Level/Chemistry (9701)/Notes/Save my exams/AS Level/1. Physical chemistry .pdf",
-    "A-Level/Chemistry (9701)/Books/Chemistry in context for cambridge As-Al(1).pdf",
     "Excalidraw/Pasted Image 20230831180415_600.png",
     "School studies/CS/networking/switch.png",
     "School studies/CS/networking/star_network.png",
     "School studies/CS/networking/simple_network.png",
     "School studies/CS/networking/packet_switching.png",
-    "School studies/CS/networking/Network_architectures.png",
-    "School studies/CS/networking/modem.png",
     "School studies/Chem notes/Organic chem.canvas",
     "School studies/Chem notes/Untitled.canvas",
     "Chem notes/Organic chem.canvas"
