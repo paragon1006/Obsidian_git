@@ -21,13 +21,13 @@
             }
           },
           {
-            "id": "afb30d1cc3244d08",
+            "id": "f47b2c5632dc0cda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "School studies/CS/Pseudocode.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -236,7 +236,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "afb30d1cc3244d08",
+  "active": "f47b2c5632dc0cda",
   "lastOpenFiles": [
     "School studies/English Language El/PG 180 task a or b.md",
     "School studies/CS/Pseudocode.md",
