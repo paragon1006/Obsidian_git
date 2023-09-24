@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "13588c59a493ea94",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.medicalnewstoday.com/articles/end-stage-renal-disease"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,10 +235,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7fcdece4bcf8903e",
+  "active": "13588c59a493ea94",
   "lastOpenFiles": [
-    "School studies/English Language El/EL task list for ganpati vacay.md",
     "School studies/English Language El/Pg 158 traffic article.md",
+    "School studies/English Language El/EL task list for ganpati vacay.md",
     "Excalidraw/elpg158traffic.excalidraw.md",
     "Excalidraw/Pasted Image 20230924013318_717.png",
     "School studies/English Language El/Page 147 EL hw.md",
