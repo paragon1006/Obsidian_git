@@ -11,3 +11,5 @@ aliases:
 - [ ] [[Pg 165 review writing]]
 - [ ] [[Page 169 Q1]]
 - [ ] [[Ct topic redo]]
+- [ ] [[]]
+EL hw pg 180, Activity 11. Task A or B
