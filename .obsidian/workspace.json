@@ -26,12 +26,11 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://www.medicalnewstoday.com/articles/end-stage-renal-disease"
+                "url": "https://www.medicalnewstoday.com/articles/end-stage-renal-disease#signs-and-symptoms"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,8 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5,
-    "collapsed": true
+    "width": 236.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,7 +233,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "13588c59a493ea94",
+  "active": "7fcdece4bcf8903e",
   "lastOpenFiles": [
     "School studies/English Language El/Pg 158 traffic article.md",
     "School studies/English Language El/EL task list for ganpati vacay.md",
