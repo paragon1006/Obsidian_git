@@ -4,52 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "c5624cc2e1b19c0b",
+        "id": "6255e649f83e0a88",
         "type": "tabs",
         "children": [
           {
-            "id": "10a6a5c7f30c6d53",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "School studies/Chem notes/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf"
-              }
-            }
-          },
-          {
-            "id": "2aac9a47ccf39f1a",
+            "id": "1814567b27ea8ddb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Chem notes/Alcohols.md",
+                "file": "Ascii symbols.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "1282728b82dd4b9e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "0d1fe2c0463cb40d",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://192.168.1.1"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 226.50418853759766
   },
   "right": {
     "id": "d967d98868519a35",
@@ -123,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ascii symbols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ascii symbols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ascii symbols.md"
+              }
             }
           },
           {
@@ -226,7 +201,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Ascii symbols.md"
+              }
             }
           }
         ],
@@ -255,11 +232,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0d1fe2c0463cb40d",
+  "active": "1814567b27ea8ddb",
   "lastOpenFiles": [
     "School studies/Chem notes/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
-    "School studies/Chem notes/1.Chemistry.readme.md",
     "School studies/Chem notes/Alcohols.md",
+    "School studies/Chem notes/1.Chemistry.readme.md",
     "School studies/Chem notes/States of matter.md",
     "School studies/Chem notes/Screenshot 2023-07-24 044228.png",
     "School studies/Chem notes/Pasted image 20230724044538.png",

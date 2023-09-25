@@ -23,7 +23,7 @@
   "useCustomIcons": false,
   "useWebview": false,
   "useIconList": true,
-  "darkMode": false,
+  "darkMode": true,
   "bookmarkManager": {
     "openBookMark": true,
     "saveBookMark": true,
@@ -45,10 +45,32 @@
   },
   "treeData": [
     {
-      "id": "0d1fe2c0463cb40d",
+      "id": "60f7ed4fd25dc5c6",
+      "parent": 0,
+      "droppable": true,
+      "text": "Airtel 4G HotSpot",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "7165e5938836a923",
       "parent": 0,
       "droppable": true,
       "text": "New Tab",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "00f804ccab92887d",
+      "parent": 0,
+      "droppable": true,
+      "text": "Interactive Vim tutorial",
       "data": {
         "fileType": "site",
         "fileSize": "",

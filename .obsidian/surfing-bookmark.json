@@ -1,6 +1,18 @@
 {
   "bookmarks": [
     {
+      "id": "496559554",
+      "name": "Airtel 4G HotSpot",
+      "url": "http://192.168.1.1/html/home.html",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1695616924090,
+      "modified": 1695616924091
+    },
+    {
       "id": "1572598834",
       "name": "Interactive Vim tutorial",
       "url": "https://www.openvim.com/",
