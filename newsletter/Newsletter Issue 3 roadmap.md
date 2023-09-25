@@ -1,5 +1,5 @@
 - [x] Janmashtami - Khadeeja
-- [x] Rakshabandhan - Karan 
+- [x] Rakshabandhan - Karan & Khdeeja
 - [ ] Anti Bullying - Vihaan
 - [x] Global issues - Mehek/Suhani
 	- [x] Aditya L1 & Chandrayaan 3 & ISRO
