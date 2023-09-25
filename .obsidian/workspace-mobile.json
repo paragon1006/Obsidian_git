@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/English Language El/Pg 158 traffic article.md",
-                "mode": "source",
+                "file": "newsletter/Newsletter Issue 3 roadmap.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -32,6 +32,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "newsletter/Newsletter Issue 3 roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,6 +104,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "newsletter/Newsletter Issue 3 roadmap.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,6 +121,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "newsletter/Newsletter Issue 3 roadmap.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -129,7 +132,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "newsletter/Newsletter Issue 3 roadmap.md"
+          }
         }
       },
       {
@@ -177,11 +182,11 @@
       "meld-encrypt:Convert to or from an Encrypted note": false
     }
   },
-  "active": "bf12a612b4f5641e",
+  "active": "d4e6a019bc3e7e05",
   "lastOpenFiles": [
+    "School studies/English Language El/EL task list for ganpati vacay.md",
     "School studies/English Language El/Pg 158 traffic article.md",
     "conflict-files-obsidian-git.md",
-    "School studies/English Language El/EL task list for ganpati vacay.md",
     "School studies/English Language El/Page 147 EL hw.md",
     "Excalidraw/elpg158traffic.excalidraw.md",
     "Excalidraw/Pasted Image 20230924013318_717.png",
