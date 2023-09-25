@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/English Language El/Pg 158 traffic article.md",
+                "file": "obsidian format/Obsidian-formatting.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -32,7 +32,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/English Language El/Pg 158 traffic article.md",
+                "file": "obsidian format/Obsidian-formatting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -104,7 +104,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "School studies/English Language El/Pg 158 traffic article.md",
+            "file": "obsidian format/Obsidian-formatting.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "School studies/English Language El/Pg 158 traffic article.md",
+            "file": "obsidian format/Obsidian-formatting.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -133,7 +133,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "School studies/English Language El/Pg 158 traffic article.md"
+            "file": "obsidian format/Obsidian-formatting.md"
           }
         }
       },
@@ -152,9 +152,17 @@
           "type": "calendar",
           "state": {}
         }
+      },
+      {
+        "id": "bf12a612b4f5641e",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,10 +182,14 @@
       "meld-encrypt:Convert to or from an Encrypted note": false
     }
   },
-  "active": "ee8dc2d84a2c2258",
+  "active": "d4e6a019bc3e7e05",
   "lastOpenFiles": [
-    "School studies/English Language El/EL task list for ganpati vacay.md",
     "School studies/English Language El/Page 147 EL hw.md",
+    "Excalidraw/englishhomework1_9_23.excalidraw.md",
+    "newsletter/Newsletter Issue 3 roadmap.md",
+    "School studies/English Language El/EL task list for ganpati vacay.md",
+    "School studies/English Language El/Pg 158 traffic article.md",
+    "conflict-files-obsidian-git.md",
     "Excalidraw/elpg158traffic.excalidraw.md",
     "Excalidraw/Pasted Image 20230924013318_717.png",
     "/School studies/English Language El/Pg 158 traffic article.md",
@@ -186,7 +198,6 @@
     "/School studies/English Language El/EL task list for ganpati vacay.md",
     "/Excalidraw/elpg158traffic.excalidraw.md",
     "/Excalidraw/Pasted Image 20230924013318_717.png",
-    "Excalidraw/englishhomework1_9_23.excalidraw.md",
     "School studies/English Language El/Pg 140.md",
     "School studies/English Language El/English Language EL.md",
     "EL task list.md",
@@ -203,10 +214,7 @@
     "Excalidraw/Drawing 2023-08-27 20.08.26.excalidraw.md",
     "School studies/Semester Portion.md",
     "School studies/physics notes/physics-maths-tutor/12.5superposition.pdf",
-    "School studies/physics notes/1.Physics.readme.md",
-    "School studies/physics notes/Physical Quantities.md",
     "School studies/physics notes/physics-maths-tutor/3dynamics.pdf",
-    "School studies/physics notes/Physics flashcards.md",
     "School studies/physics notes/physics-maths-tutor/7springs_stuff.pdf",
     "School studies/physics notes/physics-maths-tutor/5work_energy_power.pdf",
     "School studies/physics notes/physics-maths-tutor/2kinematics.pdf",

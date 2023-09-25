@@ -2,6 +2,7 @@
   "obsidian-git",
   "table-editor-obsidian",
   "better-word-count",
+  "obsidian-better-codeblock",
   "editing-toolbar",
   "surfing",
   "obsidian-spaced-repetition",
@@ -14,6 +15,5 @@
   "obsidian-charts",
   "obsidian-functionplot",
   "cycle-through-panes",
-  "calendar",
-  "obsidian-code-block-enhancer"
+  "calendar"
 ]

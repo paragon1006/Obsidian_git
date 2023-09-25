@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5904a9233491e2ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ascii symbols.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ascii symbols.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ascii symbols.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -202,7 +216,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Ascii symbols.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -232,8 +246,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1814567b27ea8ddb",
+  "active": "5904a9233491e2ba",
   "lastOpenFiles": [
+    "Ascii symbols.md",
+    "conflict-files-obsidian-git.md",
     "School studies/Chem notes/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
     "School studies/Chem notes/Alcohols.md",
     "School studies/Chem notes/1.Chemistry.readme.md",
@@ -263,7 +279,6 @@
     "School studies/English Language El/Pg 158 traffic article.md",
     "School studies/English Language El/Pg 140.md",
     "School studies/English Language El/Page 147 EL hw.md",
-    "PG 180 task a/b.md",
     "PG 180 task a",
     "Excalidraw/Pasted Image 20230924190635_582.png",
     "Excalidraw/Pasted Image 20230924013318_717.png",

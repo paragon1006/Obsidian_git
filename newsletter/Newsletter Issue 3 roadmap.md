@@ -1,8 +1,8 @@
-- [ ] Janmashtami - Khadeeja
-- [x] Rakshabandhan - Karan 
+- [?] Janmashtami - Khadeeja
+- [?] Rakshabandhan - Karan & Khdeeja
 - [ ] Anti Bullying - Vihaan
-- [ ] Global issues - Mehek/Suhani
-	- [ ] Aditya L1 & Chandrayaan 3 & ISRO
-- [x] Teacher's day event  | reviews - Unnati
-- [x] Drug abuse seminar - Unnati
-- [x] Hindi Divas - Khadeeja
+- [?] Global issues - Mehek/Suhani
+	- [?] Aditya L1 & Chandrayaan 3 & ISRO
+- [?] Teacher's day event  | reviews - Unnati
+- [?] Drug abuse seminar - Unnati
+- [?] Hindi Divas - Khadeeja
