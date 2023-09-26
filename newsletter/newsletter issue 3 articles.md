@@ -66,3 +66,5 @@ Mrs. Mamta Singh, a novelist and an RJ in Vividh Bhart was invited to the event 
 Moreover, the Principal and the Chief Guest were called on the stage to give a few words of wisdom. 
 Lastly, a finale dance was performed by the very talented As and A levels students. All in all, the day will be cherished by all.
 ## Rakshabandhan 
+# Also add
+*If you want your articles, book or movie reviews, hot takes on global issues or anything you would like published on the newsletter, mail us at **newsletter@wittykidsinida.com.***

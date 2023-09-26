@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "newsletter/Newsletter Issue 3 roadmap.md",
+                "file": "readme.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "newsletter/Newsletter Issue 3 roadmap.md",
+                "file": "newsletter/newsletter issue 3 articles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "newsletter/Newsletter Issue 3 roadmap.md",
+                "file": "newsletter/newsletter issue 3 articles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "newsletter/Newsletter Issue 3 roadmap.md"
+                "file": "newsletter/newsletter issue 3 articles.md"
               }
             }
           },
@@ -216,7 +215,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "newsletter/Newsletter Issue 3 roadmap.md"
+                "file": "newsletter/newsletter issue 3 articles.md"
               }
             }
           }
@@ -246,14 +245,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "740fd1d73cb75ab7",
+  "active": "1814567b27ea8ddb",
   "lastOpenFiles": [
+    "readme.md",
     "newsletter/newsletter issue 3 articles.md",
     "newsletter/Newsletter Issue 3 roadmap.md",
     "newsletter/Untitled.md",
     "archive",
     "newsletter/Newsletter special issue.md",
-    "readme.md",
     "Ascii symbols.md",
     "conflict-files-obsidian-git.md",
     "School studies/Chem notes/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
