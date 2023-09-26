@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "newsletter/Newsletter Issue 3 roadmap.md",
+                "file": "newsletter/newsletter issue 3 articles.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "newsletter/Newsletter Issue 3 roadmap.md",
+                "file": "newsletter/newsletter issue 3 articles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "newsletter/Newsletter Issue 3 roadmap.md",
+                "file": "newsletter/newsletter issue 3 articles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "newsletter/Newsletter Issue 3 roadmap.md"
+                "file": "newsletter/newsletter issue 3 articles.md"
               }
             }
           },
@@ -202,7 +202,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "newsletter/Newsletter Issue 3 roadmap.md"
+                "file": "newsletter/newsletter issue 3 articles.md"
               }
             }
           }
@@ -234,9 +234,9 @@
   },
   "active": "1814567b27ea8ddb",
   "lastOpenFiles": [
+    "newsletter/Newsletter Issue 3 roadmap.md",
     "newsletter/newsletter issue 3 articles.md",
     "readme.md",
-    "newsletter/Newsletter Issue 3 roadmap.md",
     "newsletter/Untitled.md",
     "archive",
     "newsletter/Newsletter special issue.md",
