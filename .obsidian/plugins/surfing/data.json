@@ -43,5 +43,28 @@
     ],
     "defaultFilterType": "menu"
   },
-  "treeData": []
+  "treeData": [
+    {
+      "id": "2f2b2dd3fa27f0a2",
+      "parent": 0,
+      "droppable": true,
+      "text": "Home - Canva",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "719d57c9481b1fea",
+      "parent": 0,
+      "droppable": true,
+      "text": "Black and White Photography Sectioned Newsletter Page A4 Design",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ]
 }

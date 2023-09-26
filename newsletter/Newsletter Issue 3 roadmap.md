@@ -8,4 +8,5 @@
 - [?] & [[newsletter issue 3 articles#TEACHERS DAY REVIEWS|reviews]] - Unnati
 - [?] [[newsletter issue 3 articles#SUBSTANCE MISUSE WORKSHOP|Drug abuse seminar]] - Unnati
 - [?] [[newsletter issue 3 articles#Hindi Diwas|Hindi Divas]] - Khadeeja
+- [ ] [[newsletter issue 3 articles#Ganesh Chathurthi|Ganesh Chaturthi]] - Vihaan & Khadeeja
 - add images for all

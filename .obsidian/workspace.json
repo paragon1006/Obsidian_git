@@ -19,8 +19,42 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "32770b255c09b993",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "newsletter/newsletter issue 3 articles.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f2b2dd3fa27f0a2",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://canva.com"
+              }
+            }
+          },
+          {
+            "id": "719d57c9481b1fea",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.canva.com/design/DAFqZV0szSw/iuk3KjGgN_lAFCmpC2J3lw/edit"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "newsletter/Newsletter Issue 3 roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "newsletter/Newsletter Issue 3 roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,9 +165,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "newsletter/Newsletter Issue 3 roadmap.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,9 +231,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "newsletter/Newsletter Issue 3 roadmap.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -232,7 +260,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1814567b27ea8ddb",
+  "active": "719d57c9481b1fea",
   "lastOpenFiles": [
     "newsletter/newsletter issue 3 articles.md",
     "newsletter/Newsletter Issue 3 roadmap.md",
