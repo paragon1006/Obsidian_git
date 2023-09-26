@@ -1,6 +1,5 @@
 [
   "obsidian-git",
-  "table-editor-obsidian",
   "better-word-count",
   "obsidian-better-codeblock",
   "editing-toolbar",
@@ -14,6 +13,5 @@
   "auto-hide-cursor",
   "obsidian-charts",
   "obsidian-functionplot",
-  "cycle-through-panes",
-  "calendar"
+  "cycle-through-panes"
 ]

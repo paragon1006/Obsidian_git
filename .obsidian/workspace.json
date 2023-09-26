@@ -172,14 +172,6 @@
             }
           },
           {
-            "id": "19899779a197bf81",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "1902457e6bf22f46",
             "type": "leaf",
             "state": {
@@ -227,7 +219,6 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "audio-recorder:Start/stop recording": false
