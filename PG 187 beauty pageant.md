@@ -6,4 +6,7 @@
 | Popularity can be made   | Women are objectified                         |
 | Make history for country | Backwards thinking                            |
 | Modelling opportunities  | Gain Eating disorders and depression          |
+|                          |                                               |
 
+# Answer
+Truly beautiful a genuine human smile is, and is that not the very essence of a beauty contest. A fresh warm smile and a waving hand, but call of this be a facade a show, 
