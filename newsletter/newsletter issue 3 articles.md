@@ -21,9 +21,28 @@ The celebration's highlight was undeniably the Bollywood theme, with teachers dr
 
 This Bollywood-themed Teachers' Day celebration at Witty International School was an unqualified success, bringing students and teachers closer in a memorable and fun way. It not only honoured the dedication of the teachers but also showcased their enjoyable, human side. The event represented how creativity and enthusiasm can transform an ordinary day into an extraordinary one. The Bollywood theme, famous dialogues, playful punishments, and the joyous cake-cutting ceremony all combined to create an unforgettable experience for teachers and students alike. It was a day filled with appreciation, laughter, and bonding, serving as a reminder that education encompasses not only textbooks but also the wonderful friendships within the school community.
 ## Anti-bullying
-An anti-bullying campaign was implemented by the student council to facilitate communication between those who faced bullying on a regular basis especially from the lower grades. By introducing initiatives like the anti-bullying box, the students were encouraged to open up with the guarantee of complete anonymity. A number of complaints were received and swift action was taken in response. 
+An anti-bullying campaign was implemented by the student council to facilitate communication between those who faced bullying. By introducing initiatives like the anti-bullying box, the students are encouraged to open up with the guarantee of complete anonymity. A number of complaints were received and swift action was taken in response. 
 
-Witty International School has always been a pillar of excellence. Students are consistently informed that it is a place where help is available at any time for holistic development. Each student can excel without any fear no matter the magnitude of which is experienced. 
+Witty International School has always been a pillar which helps students reach excellence. Students are consistently informed that WIS is a place where help is available at any time for holistic development. Each student can excel without any fear no matter the magnitude of which is experienced. 
 
 *Email your views on newsletter@wittykidsinida.com .*
-~~The council hopes that many more initiatives akin to this are  put into effect at the earliest. Over the course of several years, the level of brilliance that is to be attained by the council has been set rather high. However, the student body aspires to set a standard - that the many councils to come can strive to achieve.~~
+## Janmashtmi
+India is known for celebrating their myriad of festivals with an abundance of enthusiasm and astounding festive gatherings to enjoy the day with beloved friends and family. Students from the primary and the secondary grades celebrated this day by dressing up in traditional ethnic clothing and brought many delectable sweets to celebrate the joyous day. To make the day even more exciting, the ground floor lobby area was decorated where  a plethora of amazing pictures were captured and thereafter danced to their favourite beat to celebrate the festivities. To ensure the day would be even more enjoyable a "No Bag Day" was given to the secondary students.
+# Mental Health
+In the hustle and bustle of our daily lives, it's easy to overlook the importance of mental health. Yet, just like physical health, our mental well-being plays a crucial role in leading a fulfilling and balanced life.
+
+Mental health encompasses our emotional, psychological, and social well-being. It affects how we think, feel, and act. It also influences how we handle stress, relate to others . Maintaining good mental health isn't about the absence of mental illness; it's about building resilience, managing stress, and striving for emotional equilibrium.
+
+The Stigma Surrounding Mental Health
+Despite the increasing awareness of mental health issues, stigma still exists. Many individuals hesitate to seek help due to fear of judgment or misunderstanding. It's essential to challenge this stigma and create an environment where mental health discussions are encouraged, without judgment or discrimination.
+
+Steps to Promote Mental Well-being
+Self-Care: Prioritize self-care by getting enough sleep, eating well, and engaging in regular physical activity. These basic habits lay a strong foundation for mental well-being.
+
+Connect with Others: Human connection is vital. Cultivate relationships with friends and family, and don't be afraid to share your thoughts and feelings.
+
+Seek Help When Needed: If you're struggling with your mental health, don't hesitate to seek professional help. Therapy and counseling can provide valuable tools for managing and improving your mental well-being.
+
+Practice Mindfulness: Mindfulness techniques, such as meditation and deep breathing, can help you stay grounded and reduce stress
+
+Your mental health is as important as your physical health, if not more so. It's a dynamic journey that requires attention and care. By understanding and nurturing your mental well-being, you can lead a more balanced, resilient, and fulfilling life. Remember, seeking help is a sign of strength, not weakness, and you're never alone on this journey toward better mental health.
