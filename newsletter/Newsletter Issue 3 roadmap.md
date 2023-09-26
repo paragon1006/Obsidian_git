@@ -1,5 +1,5 @@
 - [?] [[newsletter issue 3 articles#Janmashtmi|Janmashtami]] - Khadeeja
-- [?] [[newsletter issue 3 articles#|Rakshabandhan]] - Karan & Khadeeja
+- [ ] [[newsletter issue 3 articles#|Rakshabandhan]] - Karan & Khadeeja
 - [?] [[newsletter issue 3 articles#Anti-bullying|Anti Bullying]] - Vihaan
 - [?] [[newsletter issue 3 articles#Current Issues|Global Issues]] - Mehek/Suhani
 	- [?] [[newsletter issue 3 articles#ISRO and Chandrayan|Aditya L1 & Chandrayaan 3 & ISRO]]
