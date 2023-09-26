@@ -34,22 +34,32 @@
             }
           },
           {
-            "id": "2f2b2dd3fa27f0a2",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://canva.com"
-              }
-            }
-          },
-          {
-            "id": "719d57c9481b1fea",
+            "id": "4b5adeaa0d931c0f",
             "type": "leaf",
             "state": {
               "type": "surfing-view",
               "state": {
                 "url": "https://www.canva.com/design/DAFqZV0szSw/iuk3KjGgN_lAFCmpC2J3lw/edit"
+              }
+            }
+          },
+          {
+            "id": "6d88ede872bcf31b",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://support.microsoft.com/en-us/windows/battery-saving-tips-for-windows-a850d64d-ee8e-c8d2-6c75-8ffe6ea3ea99"
+              }
+            }
+          },
+          {
+            "id": "85612ad866af957e",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://duckduckgo.com/?q=how+to+maximise+saving+battery&ia=web"
               }
             }
           }
@@ -260,7 +270,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "719d57c9481b1fea",
+  "active": "6d88ede872bcf31b",
   "lastOpenFiles": [
     "newsletter/newsletter issue 3 articles.md",
     "newsletter/Newsletter Issue 3 roadmap.md",
