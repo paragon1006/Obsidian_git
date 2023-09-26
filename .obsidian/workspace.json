@@ -32,39 +32,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4b5adeaa0d931c0f",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.canva.com/design/DAFqZV0szSw/iuk3KjGgN_lAFCmpC2J3lw/edit"
-              }
-            }
-          },
-          {
-            "id": "6d88ede872bcf31b",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://support.microsoft.com/en-us/windows/battery-saving-tips-for-windows-a850d64d-ee8e-c8d2-6c75-8ffe6ea3ea99"
-              }
-            }
-          },
-          {
-            "id": "85612ad866af957e",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://duckduckgo.com/?q=how+to+maximise+saving+battery&ia=web"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "newsletter/Newsletter Issue 3 roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "newsletter/Newsletter Issue 3 roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "newsletter/Newsletter Issue 3 roadmap.md"
+              }
             }
           },
           {
@@ -241,11 +214,13 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "newsletter/Newsletter Issue 3 roadmap.md"
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -270,7 +245,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6d88ede872bcf31b",
+  "active": "1814567b27ea8ddb",
   "lastOpenFiles": [
     "newsletter/newsletter issue 3 articles.md",
     "newsletter/Newsletter Issue 3 roadmap.md",

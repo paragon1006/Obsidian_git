@@ -43,17 +43,5 @@
     ],
     "defaultFilterType": "menu"
   },
-  "treeData": [
-    {
-      "id": "6d88ede872bcf31b",
-      "parent": 0,
-      "droppable": true,
-      "text": "Battery saving tips for Windows - Microsoft Support",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ]
+  "treeData": []
 }
