@@ -12,5 +12,6 @@
   "trashOption": "local",
   "newFileLocation": "current",
   "propertiesInDocument": "hidden",
-  "readableLineLength": false
+  "readableLineLength": false,
+  "livePreview": true
 }
