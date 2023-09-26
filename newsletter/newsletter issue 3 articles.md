@@ -31,7 +31,7 @@ India is known for celebrating their myriad of festivals with an abundance of en
 # Mental Health
 In the hustle and bustle of our daily lives, it's easy to overlook the importance of mental health. Yet, just like physical health, our mental well-being plays a crucial role in leading a fulfilling and balanced life.
 
-Mental health encompasses our emotional, psychological, and social well-being. It affects how we think, feel, and act. It also influences how we handle stress, relate to others . Maintaining good mental health isn't about the absence of mental illness; it's about building resilience, managing stress, and striving for emotional equilibrium.
+Mental health encompasses our emotional, psychological, and social well-being. It affects how we think, feel, and act. It also influences how we handle stress and relate to others . Maintaining good mental health isn't about the absence of mental illness; it's about building resilience, managing stress, and striving for emotional equilibrium.
 
 The Stigma Surrounding Mental Health
 Despite the increasing awareness of mental health issues, stigma still exists. Many individuals hesitate to seek help due to fear of judgment or misunderstanding. It's essential to challenge this stigma and create an environment where mental health discussions are encouraged, without judgment or discrimination.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "newsletter/Newsletter special issue.md",
+                "file": "newsletter/Newsletter Issue 3 roadmap.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -104,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "newsletter/Newsletter Issue 3 roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "newsletter/Newsletter Issue 3 roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "newsletter/Untitled.md"
+                "file": "newsletter/Newsletter Issue 3 roadmap.md"
               }
             }
           },
@@ -210,7 +212,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "newsletter/Untitled.md"
+                "file": "newsletter/Newsletter Issue 3 roadmap.md"
               }
             }
           }
@@ -240,12 +242,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "54c5a6e575f4cd1d",
+  "active": "1814567b27ea8ddb",
   "lastOpenFiles": [
+    "newsletter/newsletter issue 3 articles.md",
+    "newsletter/Untitled.md",
     "archive",
     "newsletter/Newsletter special issue.md",
-    "newsletter/Untitled.md",
-    "newsletter/newsletter issue 3 articles.md",
     "newsletter/Newsletter Issue 3 roadmap.md",
     "readme.md",
     "Ascii symbols.md",
@@ -285,7 +287,6 @@
     "School studies/physics notes/physics-maths-tutor/1physical_quantities.pdf",
     "School studies/CS/networking/bridge_gateway.png",
     "Excalidraw/Pasted Image 20230901081322_875.png",
-    "A-Level/Chemistry (9701)/Books/Exam_success_in_Cambridge_Chemistry_As_Al_level_IGCSE_Files_Channel.pdf",
     "Excalidraw/Pasted Image 20230831180415_600.png",
     "School studies/CS/networking/switch.png",
     "School studies/CS/networking/star_network.png",
