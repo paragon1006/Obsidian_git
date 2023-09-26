@@ -35,7 +35,7 @@ This is another paragraph.
 >[!tip]- !tip gives title
 >and content
 
->[!faq]- !faq makes it foldable
+>[!faq]- using "-" makes it foldable
 >Makes this go away
 
 >[!todo] finish work

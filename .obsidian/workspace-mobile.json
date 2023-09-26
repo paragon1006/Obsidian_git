@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian format/Obsidian-formatting.md",
-                "mode": "source",
+                "file": "School studies/physics notes/Physical Quantities.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian format/Obsidian-formatting.md",
+                "file": "School studies/physics notes/Physical Quantities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -104,7 +104,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "obsidian format/Obsidian-formatting.md",
+            "file": "School studies/physics notes/Physical Quantities.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "obsidian format/Obsidian-formatting.md",
+            "file": "School studies/physics notes/Physical Quantities.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -133,7 +133,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "obsidian format/Obsidian-formatting.md"
+            "file": "School studies/physics notes/Physical Quantities.md"
           }
         }
       },
@@ -184,6 +184,13 @@
   },
   "active": "d4e6a019bc3e7e05",
   "lastOpenFiles": [
+    "obsidian format/Obsidian-formatting.md",
+    "School studies/Chem notes/Alcohols.md",
+    "/readme.md",
+    "/newsletter/newsletter issue 3 articles.md",
+    "/newsletter/Newsletter Issue 3 roadmap.md",
+    "/School studies/Chem notes/Alcohols.md",
+    "/Ascii symbols.md",
     "School studies/English Language El/Page 147 EL hw.md",
     "Excalidraw/englishhomework1_9_23.excalidraw.md",
     "newsletter/Newsletter Issue 3 roadmap.md",
@@ -205,14 +212,7 @@
     "'Elaborate coping mechanisms'.md",
     "Excalidraw/pizza-of-work.excalidraw.md",
     "/Excalidraw/pizza-of-work.excalidraw.md",
-    "/'Elaborate coping mechanisms'.md",
-    "Excalidraw/Drawing 2023-09-03 19.11.41.excalidraw.md",
-    "/School studies/CS/Programming.md",
-    "/Excalidraw/Drawing 2023-09-03 19.11.41.excalidraw.md",
-    "readme.md",
     "Pasted Image 20230901081322_875.png",
-    "Excalidraw/Drawing 2023-08-27 20.08.26.excalidraw.md",
-    "School studies/Semester Portion.md",
     "School studies/physics notes/physics-maths-tutor/12.5superposition.pdf",
     "School studies/physics notes/physics-maths-tutor/3dynamics.pdf",
     "School studies/physics notes/physics-maths-tutor/7springs_stuff.pdf",
