@@ -11,5 +11,6 @@
   "attachmentFolderPath": "Excalidraw",
   "trashOption": "local",
   "newFileLocation": "current",
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "hidden",
+  "readableLineLength": false
 }
