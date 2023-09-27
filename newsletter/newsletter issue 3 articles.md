@@ -69,6 +69,15 @@ Lastly, a finale dance was performed by the very talented As and A levels studen
 Raksha Bandhan, a cherished Indian festival, celebrates the beautiful relationship between brothers and sisters. It is a day to express love, affection, and gratitude towards one another. Raksha Bandhan, also known as Rakhi, is a Sanskrit term that translates to "the bond of protection." It signifies the deep-rooted connection between siblings, where the brother pledges to protect his sister, while she, in return, prays for his well-being. Some of its rituals and traditions include the sister tying a thread around brother’s wrists. 
 Then Sweets and delicacies are exchanged among the family members followed by a small aarti and tilak to bless the brother. Students of Witty International School celebrated this auspicious festival by crafting adorable rakhis out of materials such as beads, papers, etc. Raksha Bandhan is more than just a festival; it is a celebration of the enduring love and support that siblings provide each other. As the sacred thread is tied, it symbolizes not only the bond of protection but also the bond of love, trust, and companionship.
 ## Ganesh Chathurthi
+Festivals and the environment.
+
+Indian culture has its feet firmly steeped in tradition. It’s tradition’s name that paves the way for several age old traditions to look modernity right in the eye and coexist with it’s contrasting scientific breakthroughs. Discoveries have yielded certain ideas which lead to the rational mind questioning certain rituals and contemplating changes - at least those that sensitively navigate between the sentiments of religious practitioners and the conclusions of scientific breakthroughs sparking the concern for the environment in the first place. 
+
+Be it Diwali, Holi or Ganesh Chaturthi, the environment pleads for eco-friendly celebrations- for example the use of flour to make the Ganpati idols, the use of fire crackers produced using potassium nitrate, and for colours to showcase their dominance over the use of water on the festival which highlights the prominence of good over evil- Holi. 
+
+A wonderful opportunity to make an effort is just around the block- Ganesh Chaturthi.
+
+As a student, take the road built for tiny steps - etch into your mind the severity of the harm caused by a lack of consideration, persuade the people close to you to follow the correct map and believe in the inherent ethical compass we all possess when unsure of the right route ahead.
 
 # Also add
 *If you want your articles, book or movie reviews, hot takes on global issues or anything you would like published on the newsletter, mail us at **newsletter@wittykidsinida.com.***
