@@ -13,7 +13,7 @@
 | 9   | [Procedures (parameterized)](#Procedures-(Parameterized)) | N   |
 | 10  | Functions (default)                                       | N   |
 | 11  | Functions (parameterized)                                 | N   |
-| 12  | Functions (written)                                       | N   |
+| 12  | Functions (return)                                        | N   |
 # Constants-vs-Variables
 #### ***Variable***s 
 - It refers to a name assigned to a memory location that can hold a value.
@@ -205,6 +205,17 @@ FUNCTION {Name}({variable}:{datatype})
 END FUNCTION
 CALL {Name}
 ```
+##### Return function
+``` PSEUDOCODE
+FUNCTION {Name}({variable}:{datatype}) RETURNS {datatype}
+	{STATEMENTS}
+	{STATEMENTS}
+	RETURN {value}
+END FUNCTION
+
+CALL {Name}
+VARIABLE <- {Name}({Value})
+```
 
 ##### Example:
 >[!example]- WAP for a function to square number
@@ -229,4 +240,13 @@ CALL {Name}
 >CALL Sqr(5)
 >CALL Sqr(9)
 >```
-
+>***OR***
+>``` PSEUDOCODDE
+>FUNCTION Sqr(a:INTEGER) RETURNS INTEGER
+>	DECLARE result:INTEGER
+>	result <- a * a
+>	RETURN result
+>END FUNCTION
+>
+>Var <- Sqr(value)
+>```
