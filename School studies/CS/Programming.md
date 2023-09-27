@@ -187,3 +187,46 @@ ENDPROCEDURE
 >ENDPROCEDURE
 >```
 
+
+# Functions 
+##### Default function
+``` PSEUDOCODE
+FUNCTION {Name}
+	{STATEMENTS}
+	{STATEMENTS}
+END FUNCTION
+CALL {Name}
+```
+##### Parameterized function
+``` PSEUDOCODE
+FUNCTION {Name}({variable}:{datatype})
+	{STATEMENTS}
+	{STATEMENTS}
+END FUNCTION
+CALL {Name}
+```
+
+##### Example:
+>[!example]- WAP for a function to square number
+>``` PSEUDOCODE
+>FUNCTION Sqr
+>	DECALARE a, result : INTEGER
+>	INPUT a
+>	result <- a * a
+>	OUTPUT result
+>END FUNCTION
+>
+>CALL Sqr
+>```
+>***OR***
+>``` PSEUDOCODDE
+>FUNCTION Sqr(a:INTEGER)
+>	DECLARE result:INTEGER
+>	result <- a * a
+>	OUTPUT result
+>END FUNCTION
+>
+>CALL Sqr(5)
+>CALL Sqr(9)
+>```
+

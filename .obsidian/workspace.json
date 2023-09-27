@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ef1c43f4c50e36cb",
+        "id": "79f3e9e0ac6a027a",
         "type": "tabs",
         "children": [
           {
-            "id": "cac4f654105f79da",
+            "id": "9b8ba22d41bdb817",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "newsletter/newsletter issue 3 articles.md",
+                "file": "School studies/CS/Programming.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "newsletter/newsletter issue 3 articles.md",
+                "file": "School studies/CS/Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "newsletter/newsletter issue 3 articles.md",
+                "file": "School studies/CS/Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "newsletter/newsletter issue 3 articles.md"
+                "file": "School studies/CS/Programming.md"
               }
             }
           },
@@ -194,7 +194,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "newsletter/newsletter issue 3 articles.md"
+                "file": "School studies/CS/Programming.md"
               }
             }
           }
@@ -224,14 +224,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cac4f654105f79da",
+  "active": "9b8ba22d41bdb817",
   "lastOpenFiles": [
+    "newsletter/Newsletter Issue 3 roadmap.md",
+    "newsletter/newsletter issue 3 articles.md",
     "PG 187 beauty pageant.md",
     "Excalidraw/pg187pageant.excalidraw.md",
     "Excalidraw/Pasted Image 20230926184628_505.png",
     "School studies/English Language El/EL modified.pdf",
-    "newsletter/Newsletter Issue 3 roadmap.md",
-    "newsletter/newsletter issue 3 articles.md",
     "readme.md",
     "newsletter/Untitled.md",
     "archive",
