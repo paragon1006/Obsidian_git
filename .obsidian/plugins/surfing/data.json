@@ -43,5 +43,17 @@
     ],
     "defaultFilterType": "menu"
   },
-  "treeData": []
+  "treeData": [
+    {
+      "id": "cb04234a78d91141",
+      "parent": 0,
+      "droppable": true,
+      "text": "Discord",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ]
 }
