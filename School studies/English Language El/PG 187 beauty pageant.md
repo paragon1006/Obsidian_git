@@ -1,4 +1,12 @@
-![[pg187pageant.excalidraw|900]]
+---
+tags:
+  - el
+aliases:
+  - homework
+---
+An online magazine aimed at teenagers publishes a feature called 'Are Beauty Contests
+a Thing ofthe Past?'. Write the article. In your writing, create a sense of reasoned
+arguments. Write 600-900 words.
 
 | Good                     | Bad                                           |
 | ------------------------ | --------------------------------------------- |

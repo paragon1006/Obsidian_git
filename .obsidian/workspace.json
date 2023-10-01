@@ -4,34 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "79f3e9e0ac6a027a",
+        "id": "8f0b1c3878d4b203",
         "type": "tabs",
         "children": [
           {
-            "id": "9b8ba22d41bdb817",
+            "id": "d8c36f662f3d9a2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/CS/Programming.md",
+                "file": "School studies/English Language El/Pg 190 'Skin Deep'.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "a52cc49f3163ecd4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Programming.md",
+                "file": "School studies/English Language El/Pg 190 'Skin Deep'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Programming.md",
+                "file": "School studies/English Language El/Pg 190 'Skin Deep'.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/CS/Programming.md"
+                "file": "School studies/English Language El/Pg 190 'Skin Deep'.md"
               }
             }
           },
@@ -205,12 +194,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/CS/Programming.md"
+                "file": "School studies/English Language El/Pg 190 'Skin Deep'.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -235,13 +224,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a52cc49f3163ecd4",
+  "active": "d8c36f662f3d9a2c",
   "lastOpenFiles": [
-    "School studies/CS/Untitled.md",
+    "School studies/English Language El/PG 187 beauty pageant.md",
+    "School studies/English Language El/EL task list for ganpati vacay.md",
+    "School studies/English Language El/Pg 190 'Skin Deep'.md",
     "School studies/CS/Programming.md",
+    "School studies/CS/Untitled.md",
     "newsletter/Newsletter Issue 3 roadmap.md",
     "newsletter/newsletter issue 3 articles.md",
-    "PG 187 beauty pageant.md",
     "Excalidraw/pg187pageant.excalidraw.md",
     "Excalidraw/Pasted Image 20230926184628_505.png",
     "School studies/English Language El/EL modified.pdf",
@@ -269,8 +260,6 @@
     "Excalidraw/resolving-vectors.excalidraw.md",
     "Excalidraw/client-server-architecture.md",
     "Excalidraw/cs-hw-gdhjksl.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-27 20.08.26.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md",
     "PG 180 task a",
     "Excalidraw/Pasted Image 20230924190635_582.png",
     "Excalidraw/Pasted Image 20230924013318_717.png",
