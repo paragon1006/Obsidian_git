@@ -19,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cb04234a78d91141",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://discord.com/channels/898079566189449277/898083748086681661"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,7 +225,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cb04234a78d91141",
+  "active": "d8c36f662f3d9a2c",
   "lastOpenFiles": [
     "School studies/English Language El/PG 187 beauty pageant.md",
     "School studies/English Language El/Pg 190 'Skin Deep'.md",
