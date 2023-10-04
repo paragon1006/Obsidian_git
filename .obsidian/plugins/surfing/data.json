@@ -45,43 +45,10 @@
   },
   "treeData": [
     {
-      "id": "461624fdf34e0d54",
+      "id": "a906a5d6a0ad6d99",
       "parent": 0,
       "droppable": true,
-      "text": "Home - Canva",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "99aa5c13e63fa8fd",
-      "parent": 0,
-      "droppable": true,
-      "text": "Black and White Photography Sectioned Newsletter Page A4 Design",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "c26edc90c7fbe1cb",
-      "parent": 0,
-      "droppable": true,
-      "text": "Black and White Photography Sectioned Newsletter Page A4 Design (Your Story)",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "96c3831d7f8e3fac",
-      "parent": 0,
-      "droppable": true,
-      "text": "Black and White Monochrome Train Newsletter",
+      "text": "Repository search results · GitHub",
       "data": {
         "fileType": "site",
         "fileSize": "",
