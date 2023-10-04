@@ -39,12 +39,12 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://github.com/paragon1006/Obsidian_git/tree/main/School%20studies/CS"
+                "url": "https://github.com/paragon1006/Obsidian_git/blob/main/School%20studies/CS/questions.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -157,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School studies/CS/questions.md"
-              }
+              "state": {}
             }
           },
           {
@@ -217,9 +213,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "School studies/CS/questions.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -248,7 +242,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b4fc21e4b61f9a01",
+  "active": "a906a5d6a0ad6d99",
   "lastOpenFiles": [
     "School studies/CS/questions.md",
     "Excalidraw/Pasted image 20231004132316.png",
