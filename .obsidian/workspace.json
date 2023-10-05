@@ -19,8 +19,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "13d77c7089116590",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chem notes/Enthalpy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chem notes/Enthalpy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School studies/Chem notes/Enthalpy.md"
-              }
+              "state": {}
             }
           },
           {
@@ -193,9 +198,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "School studies/Chem notes/Enthalpy.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -224,10 +227,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aac50bcca52d913d",
+  "active": "13d77c7089116590",
   "lastOpenFiles": [
-    "School studies/CS/questions.md",
     "School studies/Chem notes/Enthalpy.md",
+    "School studies/CS/questions.md",
     "Excalidraw/Hess-Law.excalidraw.md",
     "Enthalpy.md",
     "Excalidraw/Pasted image 20231004132316.png",
