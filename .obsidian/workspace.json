@@ -42,9 +42,30 @@
                 "url": "https://github.com/paragon1006/Obsidian_git/blob/main/School%20studies/CS/questions.md"
               }
             }
+          },
+          {
+            "id": "aac50bcca52d913d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "edeeb1a2c1d5bc07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +178,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           },
           {
@@ -213,7 +238,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           }
         ],
@@ -242,8 +269,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a906a5d6a0ad6d99",
+  "active": "edeeb1a2c1d5bc07",
   "lastOpenFiles": [
+    "Untitled.md",
     "School studies/CS/questions.md",
     "Excalidraw/Pasted image 20231004132316.png",
     "School studies/CS/Programming.md",
