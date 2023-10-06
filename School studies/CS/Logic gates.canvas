@@ -17,7 +17,19 @@
 		{"id":"e3643efccdf03652","type":"text","text":"| A   | B   | X   |\n| --- | --- | --- |\n| 0   | 0   | 0   |\n| 0   | 1   | 1   |\n| 1   | 0   | 1   |\n| 1   | 1   | 1   |","x":563,"y":280,"width":277,"height":226},
 		{"id":"1fb08d10aa5b3af1","type":"text","text":"| A   | B   | X   |\n| --- | --- | --- |\n| 0   | 0   |  1  |\n| 0   | 1   |  0  |\n| 1   | 0   |  0  |\n| 1   | 1   |  0  |","x":1067,"y":280,"width":254,"height":226},
 		{"id":"70dbdecf1a91e067","type":"text","text":"| A   | B   | X   |\n| --- | --- | --- |\n| 0   | 0   |   1  |\n| 0   | 1   |   0  |\n| 1   | 0   |   0  |\n| 1   | 1   |   1  |","x":1540,"y":280,"width":340,"height":226},
-		{"id":"d298e275a80eba60","type":"text","text":"| A   | B   | X   |\n| --- | --- | --- |\n| 0   | 0   |   0  |\n| 0   | 1   |   1  |\n| 1   | 0   |   1  |\n| 1   | 1   |   0  |","x":2040,"y":280,"width":360,"height":226}
+		{"id":"d298e275a80eba60","type":"text","text":"| A   | B   | X   |\n| --- | --- | --- |\n| 0   | 0   |   0  |\n| 0   | 1   |   1  |\n| 1   | 0   |   1  |\n| 1   | 1   |   0  |","x":2040,"y":280,"width":360,"height":226},
+		{"id":"3bf7905e9f377709","x":-381,"y":560,"width":250,"height":60,"type":"text","text":"NOT A"},
+		{"id":"8cd87a436cc670d4","x":90,"y":560,"width":250,"height":60,"type":"text","text":"A AND B"},
+		{"id":"d3340d628e661ee5","x":563,"y":560,"width":250,"height":60,"type":"text","text":"A OR B"},
+		{"id":"74ce6ec40dad4ab5","x":1066,"y":560,"width":250,"height":60,"type":"text","text":"A NAND B"},
+		{"id":"a1de5695fdea6086","x":1575,"y":560,"width":250,"height":60,"type":"text","text":"A NOR B"},
+		{"id":"6bbd8faf635de696","x":2097,"y":560,"width":250,"height":60,"type":"text","text":"A XOR B"},
+		{"id":"839b2b24fd56b798","type":"text","text":"A•B","x":-379,"y":620,"width":250,"height":60},
+		{"id":"0144fb86d386cf41","type":"text","text":"A AND B","x":92,"y":620,"width":250,"height":60},
+		{"id":"b149f7b1b32e5a12","type":"text","text":"A OR B","x":565,"y":620,"width":250,"height":60},
+		{"id":"4fb904c3b6ce9921","type":"text","text":"A NAND B","x":1068,"y":620,"width":250,"height":60},
+		{"id":"3c5c72f43ab0b08f","type":"text","text":"A NOR B","x":1577,"y":620,"width":250,"height":60},
+		{"id":"ccc75ab6f273f617","type":"text","text":"A XOR B","x":2099,"y":620,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"64af0e0beb15b686","fromNode":"360be0bd238f2747","fromSide":"right","toNode":"838db65af32796b8","toSide":"left"},
