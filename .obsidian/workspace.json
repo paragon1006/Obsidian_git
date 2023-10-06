@@ -4,47 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4edf5cd8867da08e",
+        "id": "96f250db9817c084",
         "type": "tabs",
         "children": [
           {
-            "id": "4ab21f4f17913317",
+            "id": "f9d5c61ec7c51891",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "School studies/CS/Logic gates.canvas",
-                "viewState": {
-                  "x": 2610,
-                  "y": -61,
-                  "zoom": 0.2630344058337938
-                }
-              }
-            }
-          },
-          {
-            "id": "2cedcf672c4c8b06",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "School studies/CS/Cambridge International AS and A Levels Computer Science.pdf"
-              }
-            }
-          },
-          {
-            "id": "e36e98bcfa8fe703",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "School studies/CS/Logic gates practice.canvas",
-                "viewState": {
-                  "x": -68,
-                  "y": 231.59500000000003,
-                  "zoom": 0
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -122,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Logic gates.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Logic gates.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School studies/CS/Logic gates.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -221,9 +185,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "School studies/CS/Logic gates.canvas"
-              }
+              "state": {}
             }
           }
         ],
@@ -253,11 +215,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4ab21f4f17913317",
+  "active": "f9d5c61ec7c51891",
   "lastOpenFiles": [
     "School studies/CS/Logic gates practice.canvas",
-    "School studies/CS/Logic gates.canvas",
     "School studies/CS/Cambridge International AS and A Levels Computer Science.pdf",
+    "School studies/CS/Logic gates.canvas",
     "Excalidraw/Hess-Law.excalidraw.md",
     "Excalidraw/Pasted Image 20230831180415_600.png",
     "Excalidraw/Pasted Image 20230901081322_875.png",
