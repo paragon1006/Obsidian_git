@@ -15,9 +15,9 @@
               "state": {
                 "file": "School studies/CS/Logic gates.canvas",
                 "viewState": {
-                  "x": 218.4987757738926,
-                  "y": 649.5584724637373,
-                  "zoom": 0.5
+                  "x": 77.80138461173544,
+                  "y": 622.2644497475748,
+                  "zoom": 0.17764072484642404
                 }
               }
             }
@@ -105,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50418853759766
+    "width": 226.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "d967d98868519a35",
@@ -230,7 +231,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
