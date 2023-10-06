@@ -13,5 +13,6 @@
   "newFileLocation": "current",
   "propertiesInDocument": "hidden",
   "readableLineLength": false,
-  "livePreview": true
+  "livePreview": true,
+  "promptDelete": false
 }

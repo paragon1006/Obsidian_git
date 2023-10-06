@@ -8,11 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f9d5c61ec7c51891",
+            "id": "2157c6fd76fe2c96",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/chem questions.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "09dda3ac8e07e3e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chem stuff from past papers.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50418853759766
+    "width": 226.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "d967d98868519a35",
@@ -89,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/chem questions.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/chem questions.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/chem questions.excalidraw.md"
+              }
             }
           },
           {
@@ -184,7 +204,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/chem questions.excalidraw.md"
+              }
             }
           }
         ],
@@ -214,8 +236,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f9d5c61ec7c51891",
+  "active": "2157c6fd76fe2c96",
   "lastOpenFiles": [
+    "Chem stuff from past papers.md",
+    "Excalidraw/chem questions.excalidraw.md",
+    "Excalidraw/Pasted image 20231006193704.png",
+    "School studies/Chem notes/1.Chemistry.readme.md",
+    "School studies/Chem notes/Questions.md",
     "School studies/CS/Logic gates practice.canvas",
     "School studies/CS/Cambridge International AS and A Levels Computer Science.pdf",
     "School studies/CS/Logic gates.canvas",
@@ -229,7 +256,6 @@
     "Excalidraw/Pasted image 20231006130553.png",
     "Excalidraw/Pasted image 20231006130609.png",
     "Excalidraw/Pasted image 20231006130633.png",
-    "Excalidraw/Pasted image 20231006130751.png",
     "School studies/CS/questions.md",
     "School studies/CS/Logic Gates.md",
     "Excalidraw/Drawing 2023-10-06 13.03.53.excalidraw.md",
@@ -254,10 +280,6 @@
     "Ascii symbols.md",
     "conflict-files-obsidian-git.md",
     "School studies/Chem notes/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
-    "School studies/Chem notes/Alcohols.md",
-    "School studies/Chem notes/1.Chemistry.readme.md",
-    "School studies/Chem notes/States of matter.md",
-    "School studies/Chem notes/Organic Chemistry.md",
     "School studies/Chem notes/Organic chem.canvas",
     "PG 180 task a",
     "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf",
