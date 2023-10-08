@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chem stuff from past papers.md",
+                "file": "School studies/English Language El/English Language EL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50418853759766,
-    "collapsed": true
+    "width": 226.50418853759766
   },
   "right": {
     "id": "d967d98868519a35",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chem stuff from past papers.md",
+                "file": "School studies/English Language El/English Language EL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chem stuff from past papers.md",
+                "file": "School studies/English Language El/English Language EL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chem stuff from past papers.md"
+                "file": "School studies/English Language El/English Language EL.md"
               }
             }
           },
@@ -206,7 +205,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Chem stuff from past papers.md"
+                "file": "School studies/English Language El/English Language EL.md"
               }
             }
           }
@@ -239,8 +238,10 @@
   },
   "active": "09dda3ac8e07e3e2",
   "lastOpenFiles": [
-    "Excalidraw/chem questions.excalidraw.md",
+    "School studies/English Language El/EL task list for ganpati vacay.md",
+    "School studies/English Language El/EL modified.pdf",
     "Chem stuff from past papers.md",
+    "Excalidraw/chem questions.excalidraw.md",
     "Excalidraw/mathquestions.excalidraw.md",
     "Excalidraw/Pasted image 20231006193704.png",
     "School studies/Chem notes/1.Chemistry.readme.md",
@@ -270,17 +271,14 @@
     "School studies/English Language El/Pg 158 traffic article.md",
     "School studies/English Language El/PG 187 beauty pageant.md",
     "School studies/English Language El/Pg 190 'Skin Deep'.md",
-    "School studies/English Language El/EL task list for ganpati vacay.md",
     "newsletter/Newsletter Issue 3 roadmap.md",
     "newsletter/newsletter issue 3 articles.md",
     "Excalidraw/pg187pageant.excalidraw.md",
-    "School studies/English Language El/EL modified.pdf",
     "readme.md",
     "newsletter/Untitled.md",
     "archive",
     "newsletter/Newsletter special issue.md",
     "Ascii symbols.md",
-    "conflict-files-obsidian-git.md",
     "School studies/Chem notes/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
     "School studies/Chem notes/Organic chem.canvas",
     "PG 180 task a",
