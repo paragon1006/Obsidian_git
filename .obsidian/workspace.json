@@ -23,7 +23,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/English Language El/English Language EL.md",
+                "file": "readme.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65644ef08a102421",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ignite.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -31,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50418853759766
+    "width": 226.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "d967d98868519a35",
@@ -105,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/English Language El/English Language EL.md",
+                "file": "Ignite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/English Language El/English Language EL.md",
+                "file": "Ignite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/English Language El/English Language EL.md"
+                "file": "Ignite.md"
               }
             }
           },
@@ -205,7 +219,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/English Language El/English Language EL.md"
+                "file": "Ignite.md"
               }
             }
           }
@@ -227,17 +241,20 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-spaced-repetition:Review flashcards": false,
+      "daily-notes:Open today's daily note": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "audio-recorder:Start/stop recording": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "09dda3ac8e07e3e2",
+  "active": "65644ef08a102421",
   "lastOpenFiles": [
+    "readme.md",
+    "Ignite.md",
+    "School studies/English Language El/English Language EL.md",
     "School studies/English Language El/EL task list for ganpati vacay.md",
     "School studies/English Language El/EL modified.pdf",
     "Chem stuff from past papers.md",
@@ -274,11 +291,9 @@
     "newsletter/Newsletter Issue 3 roadmap.md",
     "newsletter/newsletter issue 3 articles.md",
     "Excalidraw/pg187pageant.excalidraw.md",
-    "readme.md",
     "newsletter/Untitled.md",
     "archive",
     "newsletter/Newsletter special issue.md",
-    "Ascii symbols.md",
     "School studies/Chem notes/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
     "School studies/Chem notes/Organic chem.canvas",
     "PG 180 task a",
