@@ -26,7 +26,7 @@
 | Amount Of Substance | Mole        | mol        |
 
 # Scalar&Vector
-- A **scalar** is a quantity which **only** has a magnitude (size)
+- A **sc2alar** is a quantity which **only** has a magnitude (size)
 - A **vector** is a quantity which has **both** a magnitude and a direction
 ## Resolving-Vectors
 ![[resolving-vectors.excalidraw]]

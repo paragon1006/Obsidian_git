@@ -9,6 +9,3 @@ Base unit of current :: Ampere A <!--SR:!2023-09-05,4,270-->
 Base unit of Temperature :: Kelvin K <!--SR:!2023-09-05,4,270-->
 Base unit of Amount of Substance :: Mole mol <!--SR:!2023-09-05,4,270-->
 
-# Kinematics
-# Accelerated-Motion
-# Dynamics

@@ -13,28 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chem stuff from past papers.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "063b1d17895f09b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics stuff from past papers.md",
+                "file": "School studies/physics notes/Physical Quantities.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "c188636a3b02e9d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "063b1d17895f09b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School studies/physics notes/Physics revision.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50418853759766
+    "width": 226.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "d967d98868519a35",
@@ -108,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics stuff from past papers.md",
+                "file": "School studies/physics notes/Physics revision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics stuff from past papers.md",
+                "file": "School studies/physics notes/Physics revision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics stuff from past papers.md"
+                "file": "School studies/physics notes/Physics revision.md"
               }
             }
           },
@@ -200,7 +206,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics stuff from past papers.md"
+                "file": "School studies/physics notes/Physics revision.md"
               }
             }
           },
@@ -241,6 +247,8 @@
   },
   "active": "063b1d17895f09b1",
   "lastOpenFiles": [
+    "School studies/physics notes/Physical Quantities.md",
+    "School studies/physics notes/Physics revision.md",
     "Chem stuff from past papers.md",
     "Physics stuff from past papers.md",
     "Excalidraw/Drawing 2023-10-09 19.16.07.excalidraw.md",
@@ -278,10 +286,8 @@
     "School studies/CS/Programming.md",
     "School studies/CS/Pseudocode.md",
     "Enthalpy.md",
-    "School studies/physics notes/Physics flashcards.md",
     "School studies/English Language El/Pg 158 traffic article.md",
     "School studies/English Language El/PG 187 beauty pageant.md",
-    "School studies/English Language El/Pg 190 'Skin Deep'.md",
     "archive",
     "School studies/Chem notes/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
     "School studies/Chem notes/Organic chem.canvas",
