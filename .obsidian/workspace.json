@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chem stuff from past papers.md",
+                "file": "Physics stuff from past papers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chem stuff from past papers.md",
+                "file": "Physics stuff from past papers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chem stuff from past papers.md"
+                "file": "Physics stuff from past papers.md"
               }
             }
           },
@@ -200,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Chem stuff from past papers.md"
+                "file": "Physics stuff from past papers.md"
               }
             }
           },
@@ -238,12 +239,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "2157c6fd76fe2c96",
+  "active": "063b1d17895f09b1",
   "lastOpenFiles": [
+    "Chem stuff from past papers.md",
     "Physics stuff from past papers.md",
     "Excalidraw/Drawing 2023-10-09 19.16.07.excalidraw.md",
     "Excalidraw/Drawing 2023-10-09 19.15.51.excalidraw.md",
-    "Chem stuff from past papers.md",
     "Excalidraw/Drawing 2023-10-09 19.12.34.excalidraw.md",
     "Excalidraw/Drawing 2023-10-09 19.08.00.excalidraw.md",
     "School studies/Chem notes/Enthalpy.md",
