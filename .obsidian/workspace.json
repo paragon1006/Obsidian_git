@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50418853759766,
-    "collapsed": true
+    "width": 226.50418853759766
   },
   "right": {
     "id": "d967d98868519a35",
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/physics notes/Physics revision.md",
+                "file": "School studies/physics notes/Physical Quantities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/physics notes/Physics revision.md",
+                "file": "School studies/physics notes/Physical Quantities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/physics notes/Physics revision.md"
+                "file": "School studies/physics notes/Physical Quantities.md"
               }
             }
           },
@@ -206,7 +205,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/physics notes/Physics revision.md"
+                "file": "School studies/physics notes/Physical Quantities.md"
               }
             }
           },
@@ -245,10 +244,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "063b1d17895f09b1",
+  "active": "2157c6fd76fe2c96",
   "lastOpenFiles": [
-    "School studies/physics notes/Physical Quantities.md",
     "School studies/physics notes/Physics revision.md",
+    "School studies/physics notes/Physical Quantities.md",
     "Chem stuff from past papers.md",
     "Physics stuff from past papers.md",
     "Excalidraw/Drawing 2023-10-09 19.16.07.excalidraw.md",
