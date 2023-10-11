@@ -4,35 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "96f250db9817c084",
+        "id": "db41ed3f0c19d42a",
         "type": "tabs",
         "children": [
           {
-            "id": "2157c6fd76fe2c96",
+            "id": "a6d9b38cfe8860aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/physics notes/Physical Quantities.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c188636a3b02e9d7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "063b1d17895f09b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/physics notes/Physics revision.md",
+                "file": "Chem stuff from past papers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/physics notes/Physical Quantities.md",
+                "file": "Chem stuff from past papers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/physics notes/Physical Quantities.md",
+                "file": "Chem stuff from past papers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/physics notes/Physical Quantities.md"
+                "file": "Chem stuff from past papers.md"
               }
             }
           },
@@ -205,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/physics notes/Physical Quantities.md"
+                "file": "Chem stuff from past papers.md"
               }
             }
           },
@@ -244,10 +225,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "2157c6fd76fe2c96",
+  "active": "a6d9b38cfe8860aa",
   "lastOpenFiles": [
-    "School studies/physics notes/Physics revision.md",
     "School studies/physics notes/Physical Quantities.md",
+    "School studies/physics notes/Physics revision.md",
     "Chem stuff from past papers.md",
     "Physics stuff from past papers.md",
     "Excalidraw/Drawing 2023-10-09 19.16.07.excalidraw.md",
