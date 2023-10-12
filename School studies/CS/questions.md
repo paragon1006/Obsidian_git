@@ -18,15 +18,4 @@ monthsave = float(input("What is your monthly saving"))
 interestrate = float(input("What is your interest rate"))
 print("Your yearly savings are",(monthsave*12*(1+interestrate)))
 ```
-![[Pasted image 20231004132316.png]]
 
-| K   | L   | M   | OR  | M'  | AND | OR  | OR  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 0   | 0   | 0   | 0   | 1   | 0   | 0   | 0   |
-| 0   | 0   | 1   | 0   | 0   | 0   | 0   | 1   |
-| 0   | 1   | 0   | 1   | 1   | 0   | 1   | 1   |
-| 0   | 1   | 1   | 1   | 0   | 0   | 1   | 1   |
-| 1   | 0   | 0   | 1   | 1   | 0   | 1   | 1   |
-| 1   | 0   | 1   | 1   | 0   | 1   | 1   | 1   |
-| 1   | 1   | 0   | 1   | 1   | 0   | 1   | 1   |
-| 1   | 1   | 1   | 1   | 0   | 1   | 1   | 1   |
