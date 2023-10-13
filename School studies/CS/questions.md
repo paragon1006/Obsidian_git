@@ -1,3 +1,9 @@
+---
+tags:
+  - cs
+  - code
+---
+
 ``` python
 age = int(input("what is your age"))
 if age<13:

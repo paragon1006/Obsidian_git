@@ -1,3 +1,7 @@
+---
+tags:
+  - cs
+---
 #cs
 # Index
 | sr  | Topic                                                   | present |
@@ -19,3 +23,22 @@ Array:- User defined data type that allows the user to store multiple values.
 ``` PSEUDOCODE
 DECLARE {Name}:ARRAY[{Start}:{End}] OF {Datatype}
 ```
+
+>[!question]- WAP to store 10 marks in an array and print the total of all marks
+>```PSEUDOCODDE
+>DECLARE Marks:ARRAY[0:9] OF INTEGER
+>Total <-- 0
+>FOR Counter<-- 0 TO 9
+>	INPUT Marks[Counter]
+>	Total <-- Total + Counter
+>Next Counter
+>OUTPUT Marks
+>OUTPUT Total
+>```
+>---
+>```python
+>array = []
+>for j in range()
+>```
+
+
