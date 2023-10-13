@@ -2,7 +2,7 @@
 # Index
 | sr  | Topic          | Fin |
 | --- | -------------- | --- |
-| 1   | Datatypes      | N   |
+| 1   | [Datatypes and structures](#Datatypes%20&%20Structures)      | N   |
 | 2   | Records        | N   |
 | 3   | arrays (1d)    | N   |
 | 4   | arrays (2d)    | N   |
