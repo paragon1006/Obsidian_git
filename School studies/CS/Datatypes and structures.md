@@ -2,7 +2,7 @@
 # Index
 | sr  | Topic          | Fin |
 | --- | -------------- | --- |
-| 1   | [Datatypes and structures](#Datatypes%20&%20Structures)      | N   |
+| 1   | [Datatypes and Structures](#Datatypes%20&%20Structures)      | N   |
 | 2   | Records        | N   |
 | 3   | arrays (1d)    | N   |
 | 4   | arrays (2d)    | N   |
@@ -13,3 +13,5 @@
 | 9   | ADT (stack)    | N   |
 | 10  | ADT (queue)    | N   |
 | 11  | ADT (linkless) | N   |
+
+# Datatypes & Structures
