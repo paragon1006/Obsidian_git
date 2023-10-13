@@ -21,12 +21,15 @@
             }
           },
           {
-            "id": "4e6e441213b5a29b",
+            "id": "cadbd49121b63666",
             "type": "leaf",
             "state": {
-              "type": "surfing-view",
+              "type": "markdown",
               "state": {
-                "url": "https://github.com/paragon1006/Obsidian_git/blob/main/School%20studies/CS/Datatypes%20and%20structures.md#Datatypes%20&%20Structures"
+                "file": "School studies/CS/readme.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -105,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School studies/CS/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School studies/CS/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School studies/CS/readme.md"
+              }
             }
           },
           {
@@ -192,7 +199,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "School studies/CS/readme.md"
+              }
             }
           },
           {
@@ -229,9 +238,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4e6e441213b5a29b",
+  "active": "cadbd49121b63666",
   "lastOpenFiles": [
     "School studies/CS/Datatypes and structures.md",
+    "School studies/CS/readme.md",
     "School studies/CS/Programming.md",
     "School studies/CS/Pseudocode.md",
     "School studies/CS/Hardware.md",
@@ -273,7 +283,6 @@
     "Excalidraw/Pasted image 20231006130553.png",
     "Excalidraw/Pasted image 20231006130609.png",
     "Excalidraw/Pasted image 20231006130633.png",
-    "School studies/CS/Logic Gates.md",
     "Excalidraw/Untitled.canvas",
     "archive",
     "PG 180 task a",
