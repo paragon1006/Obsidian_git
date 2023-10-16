@@ -1,6 +1,5 @@
 ---
-tags:
-  - cs
+tags: []
 ---
 #cs
 # Index
@@ -36,9 +35,30 @@ DECLARE {Name}:ARRAY[{Start}:{End}] OF {Datatype}
 >OUTPUT Total
 >```
 >---
->```python
->array = []
->for j in range()
->```
-
-
+# Linear Search
+###### Setting up array
+``` PSEUDOCODE
+Position <- -1
+Found <- False
+OUTPUT "Enter Marks"
+FOR Count <- 0 TO 3
+	INPUT Marks[Count]
+NEXT Count
+```
+---
+###### Linear search code
+``` PSEUDOCODE
+OUTPUT "Enter the search value"
+INPUT Search
+FOR Count <- 0 to 3
+	IF Marks[Count]=Search
+		FOUND <- TRUE
+		Position <- Count
+	ENDIF
+NEXT Count
+IF Found = TRUE THEN
+	OUTPUT "Value is at position", position
+ELSE 
+	OUTPUT "Value not found"
+ENDIF
+```

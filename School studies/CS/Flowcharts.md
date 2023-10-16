@@ -1,3 +1,7 @@
+---
+tags:
+  - cs
+---
 ```mermaid  
 flowchart TB
 	id4 --> id5{process} --> id3(Stop)
