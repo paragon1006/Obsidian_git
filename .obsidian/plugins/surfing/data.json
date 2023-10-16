@@ -43,17 +43,5 @@
     ],
     "defaultFilterType": "menu"
   },
-  "treeData": [
-    {
-      "id": "8eb8fdc727fb1a4f",
-      "parent": 0,
-      "droppable": true,
-      "text": "Obsidian - Sharpen your thinking",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ]
+  "treeData": []
 }
