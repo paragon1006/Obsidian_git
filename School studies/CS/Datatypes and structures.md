@@ -9,7 +9,7 @@ tags: []
 | 2   | Records                                                 | N       |
 | 3   | [arrays (1d)](#Arrays)                                  | Y       |
 | 4   | arrays (2d)                                             | N       |
-| 5   | Linear search                                           | N       |
+| 5   | [Linear search](#Linear%20Search%20)                                           | N       |
 | 6   | Bubble sort                                             | N       |
 | 7   | Files (read)                                            | N       |
 | 8   | Files (write)                                           | N       |
