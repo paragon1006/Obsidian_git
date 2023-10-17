@@ -6,4 +6,3 @@ Define Atomic mass A<sub>r</sub> in terms of unified atomic mass unit :: average
 
 ![[chem questions.excalidraw]]
 What is Stereo Isomerism :: everything is same except 3d arrangement is different
- 

@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/CS/Datatypes and structures.md",
+                "file": "Chem stuff from past papers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "add29e01a933cc21",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/KMnO4.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Datatypes and structures.md",
+                "file": "Excalidraw/KMnO4.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Datatypes and structures.md",
+                "file": "Excalidraw/KMnO4.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/CS/Datatypes and structures.md"
+                "file": "Excalidraw/KMnO4.excalidraw.md"
               }
             }
           },
@@ -186,7 +197,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/CS/Datatypes and structures.md"
+                "file": "Excalidraw/KMnO4.excalidraw.md"
               }
             }
           },
@@ -232,8 +243,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "edc9c1cf1eb8ab24",
+  "active": "add29e01a933cc21",
   "lastOpenFiles": [
+    "Excalidraw/KMnO4.excalidraw.md",
+    "Chem stuff from past papers.md",
+    "School studies/Chem notes/Organic Chemistry.md",
+    "School studies/Chem notes/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
+    "School studies/CS/Datatypes and structures.md",
     "School studies/CS/Flowcharts.md",
     "School studies/Semester Portion.md",
     "School studies/CS/readme.md",
@@ -242,18 +258,14 @@
     "School studies/CS/Programming.md",
     "School studies/CS/Logic gates.canvas",
     "School studies/CS/Hardware.md",
-    "School studies/CS/Datatypes and structures.md",
     "School studies/list.md",
     "School studies/CS/Cambridge International AS and A Levels Computer Science.pdf",
     "School studies/CS/Logic gates practice.canvas",
-    "School studies/Chem notes/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
     "School studies/Chem notes/1.Chemistry.readme.md",
     "School studies/Chem notes/Enthalpy.md",
     "School studies/Chem notes/States of matter.md",
     "School studies/Chem notes/Organic chem.canvas",
-    "School studies/Chem notes/Organic Chemistry.md",
     "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf",
-    "Chem stuff from past papers.md",
     "School studies/physics notes/Physical Quantities.md",
     "School studies/physics notes/Physics revision.md",
     "Physics stuff from past papers.md",
