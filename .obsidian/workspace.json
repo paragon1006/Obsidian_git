@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/CS/Datatypes and structures.md",
+                "file": "School studies/CS/Flowcharts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50418853759766,
-    "collapsed": true
+    "width": 226.50418853759766
   },
   "right": {
     "id": "d967d98868519a35",
@@ -117,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Datatypes and structures.md",
+                "file": "Chem stuff from past papers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Datatypes and structures.md",
+                "file": "Chem stuff from past papers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -157,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/CS/Datatypes and structures.md"
+                "file": "Chem stuff from past papers.md"
               }
             }
           },
@@ -201,7 +199,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/CS/Datatypes and structures.md"
+                "file": "Chem stuff from past papers.md"
               }
             }
           },
@@ -226,8 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,19 +245,21 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d50830db02405d16",
+  "active": "a8a95210e3b07ce7",
   "lastOpenFiles": [
+    "School studies/CS/Datatypes and structures.md",
+    "School studies/CS/Flowcharts.md",
+    "obsidian format/Obsidian-formatting.md",
+    "School studies/CS/Cambridge International AS and A Levels Computer Science.pdf",
+    "Chem stuff from past papers.md",
     "School studies/CS/Pseudocode.md",
     "School studies/CS/Programming.md",
     "School studies/CS/Logic gates practice.canvas",
     "School studies/CS/Logic gates.canvas",
     "School studies/CS/Hardware.md",
-    "School studies/CS/Flowcharts.md",
-    "School studies/CS/Datatypes and structures.md",
     "School studies/CS/questions.md",
     "School studies/CS/readme.md",
     "'Elaborate coping mechanisms'.md",
-    "Chem stuff from past papers.md",
     "Ignite.md",
     "Physics stuff from past papers.md",
     "readme.md",
@@ -269,7 +268,6 @@
     "School studies/Chem notes/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
     "School studies/Semester Portion.md",
     "School studies/list.md",
-    "School studies/CS/Cambridge International AS and A Levels Computer Science.pdf",
     "School studies/Chem notes/1.Chemistry.readme.md",
     "School studies/Chem notes/Enthalpy.md",
     "School studies/Chem notes/States of matter.md",
