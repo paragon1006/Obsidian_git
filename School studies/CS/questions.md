@@ -25,3 +25,12 @@ interestrate = float(input("What is your interest rate"))
 print("Your yearly savings are",(monthsave*12*(1+interestrate)))
 ```
 
+``` PSEDUOCODE
+FUNCTION MakeString(Count:STRING,Str:INTEGER) RETURN:STRING
+	IF Count<1 THEN
+		RETURN "ERROR 193I74 RETARD USING DEVICE"
+	ELSE 
+		FOR J <-- 0 TO Count
+			Temp <-- Temp + Str
+			RETURN Temp
+```

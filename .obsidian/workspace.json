@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4d0f6114955d6119",
+        "id": "1a291e5b80df4a54",
         "type": "tabs",
         "children": [
           {
-            "id": "a8a95210e3b07ce7",
+            "id": "d60dd6a1205c6e61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "School studies/CS/questions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "d50830db02405d16",
+            "id": "f3c8f25759ea9a78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/CS/Flowcharts.md",
+                "file": "School studies/CS/Programming.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "School studies/CS/questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "School studies/CS/questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "School studies/CS/questions.md"
               }
             }
           },
@@ -199,7 +199,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "readme.md"
+                "file": "School studies/CS/questions.md"
               }
             }
           },
@@ -220,7 +220,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -245,24 +245,24 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a8a95210e3b07ce7",
+  "active": "d60dd6a1205c6e61",
   "lastOpenFiles": [
+    "School studies/CS/Programming.md",
+    "School studies/CS/questions.md",
+    "School studies/CS/Pseudocode.md",
+    "School studies/CS/Flowcharts.md",
+    "readme.md",
     "Chem stuff from past papers.md",
     "School studies/CS/Datatypes and structures.md",
-    "School studies/CS/Flowcharts.md",
     "obsidian format/Obsidian-formatting.md",
     "School studies/CS/Cambridge International AS and A Levels Computer Science.pdf",
-    "School studies/CS/Pseudocode.md",
-    "School studies/CS/Programming.md",
     "School studies/CS/Logic gates practice.canvas",
     "School studies/CS/Logic gates.canvas",
     "School studies/CS/Hardware.md",
-    "School studies/CS/questions.md",
     "School studies/CS/readme.md",
     "'Elaborate coping mechanisms'.md",
     "Ignite.md",
     "Physics stuff from past papers.md",
-    "readme.md",
     "Excalidraw/KMnO4.excalidraw.md",
     "School studies/Chem notes/Organic Chemistry.md",
     "School studies/Chem notes/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
