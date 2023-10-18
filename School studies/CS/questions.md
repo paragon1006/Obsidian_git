@@ -28,6 +28,7 @@ print("Your yearly savings are",(monthsave*12*(1+interestrate)))
 ``` PSEDUOCODE
 FUNCTION MakeString(Count:INTEGER,Chr:CHAR) RETURN:STRING
 	DECLARE Temp:STRING
+	DECLARE J:INTEGER
 	IF Count<1 THEN
 		RETURN "ERROR 193I74"
 	ELSE 
