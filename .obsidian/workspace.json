@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chem stuff from past papers.md",
+                "file": "readme.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chem stuff from past papers.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chem stuff from past papers.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chem stuff from past papers.md"
+                "file": "readme.md"
               }
             }
           },
@@ -199,7 +199,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Chem stuff from past papers.md"
+                "file": "readme.md"
               }
             }
           },
@@ -247,11 +247,11 @@
   },
   "active": "a8a95210e3b07ce7",
   "lastOpenFiles": [
+    "Chem stuff from past papers.md",
     "School studies/CS/Datatypes and structures.md",
     "School studies/CS/Flowcharts.md",
     "obsidian format/Obsidian-formatting.md",
     "School studies/CS/Cambridge International AS and A Levels Computer Science.pdf",
-    "Chem stuff from past papers.md",
     "School studies/CS/Pseudocode.md",
     "School studies/CS/Programming.md",
     "School studies/CS/Logic gates practice.canvas",
