@@ -26,11 +26,14 @@ print("Your yearly savings are",(monthsave*12*(1+interestrate)))
 ```
 
 ``` PSEDUOCODE
-FUNCTION MakeString(Count:STRING,Str:INTEGER) RETURN:STRING
+FUNCTION MakeString(Count:INTEGER,Chr:CHAR) RETURN:STRING
+	DECLARE Temp:STRING
 	IF Count<1 THEN
-		RETURN "ERROR 193I74 RETARD USING DEVICE"
+		RETURN "ERROR 193I74"
 	ELSE 
 		FOR J <-- 0 TO Count
-			Temp <-- Temp + Str
-			RETURN Temp
+			Temp <-- Temp & Chr
+		NEXT J
+		RETURN Temp
+ENDFUNCTION
 ```
