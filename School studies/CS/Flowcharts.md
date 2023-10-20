@@ -15,5 +15,6 @@ flowchart TB
 
 ``` mermaid
 flowchart TB
-c1
+	ID1(START) --> /OUTPUT/
+	
 ```
