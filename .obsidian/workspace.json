@@ -11,8 +11,13 @@
             "id": "5881d51e01fd2388",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Chem stuff from past papers.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chem stuff from past papers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chem stuff from past papers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Chem stuff from past papers.md"
+              }
             }
           },
           {
@@ -176,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Chem stuff from past papers.md"
+              }
             }
           },
           {
@@ -223,12 +234,12 @@
   },
   "active": "5881d51e01fd2388",
   "lastOpenFiles": [
+    "Chem stuff from past papers.md",
     "School studies/CS/Programming.md",
     "School studies/CS/questions.md",
     "School studies/CS/Pseudocode.md",
     "School studies/CS/Flowcharts.md",
     "readme.md",
-    "Chem stuff from past papers.md",
     "School studies/CS/Datatypes and structures.md",
     "obsidian format/Obsidian-formatting.md",
     "School studies/CS/Cambridge International AS and A Levels Computer Science.pdf",
