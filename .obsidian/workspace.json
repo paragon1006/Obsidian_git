@@ -8,41 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5881d51e01fd2388",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chem stuff from past papers.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a8e73adeeff7ed3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/CS/Flowcharts.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7c0913e82b71234f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Physics stuff from past papers.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Physics stuff from past papers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Physics stuff from past papers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Physics stuff from past papers.md"
+              }
             }
           },
           {
@@ -203,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Physics stuff from past papers.md"
+              }
             }
           },
           {
@@ -250,6 +234,7 @@
   },
   "active": "7c0913e82b71234f",
   "lastOpenFiles": [
+    "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf",
     "School studies/CS/Flowcharts.md",
     "Chem stuff from past papers.md",
     "School studies/CS/Programming.md",
@@ -275,13 +260,11 @@
     "School studies/Chem notes/Enthalpy.md",
     "School studies/Chem notes/States of matter.md",
     "School studies/Chem notes/Organic chem.canvas",
-    "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf",
     "School studies/physics notes/Physical Quantities.md",
     "School studies/physics notes/Physics revision.md",
     "Excalidraw/Drawing 2023-10-09 19.16.07.excalidraw.md",
     "Excalidraw/Drawing 2023-10-09 19.15.51.excalidraw.md",
     "Excalidraw/Drawing 2023-10-09 19.12.34.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-09 19.08.00.excalidraw.md",
     "School studies/English Language El/EL modified.pdf",
     "Excalidraw/Pasted image 20231006193704.png",
     "Excalidraw/Pasted Image 20230831180415_600.png",
