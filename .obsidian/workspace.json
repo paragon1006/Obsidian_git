@@ -11,8 +11,10 @@
             "id": "7c0913e82b71234f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "School studies/physics notes/physics-maths-tutor/2kinematics.pdf"
+              }
             }
           }
         ]
@@ -73,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50418853759766
+    "width": 226.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "d967d98868519a35",
@@ -97,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School studies/physics notes/physics-maths-tutor/2kinematics.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School studies/physics notes/physics-maths-tutor/2kinematics.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School studies/physics notes/physics-maths-tutor/2kinematics.pdf"
+              }
             }
           },
           {
@@ -176,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "School studies/physics notes/physics-maths-tutor/2kinematics.pdf"
+              }
             }
           },
           {
@@ -200,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,8 +231,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "54c5a6e575f4cd1d",
+  "active": "7c0913e82b71234f",
   "lastOpenFiles": [
+    "School studies/physics notes/physics-maths-tutor/1physical_quantities.pdf",
+    "School studies/physics notes/Physics revision.md",
+    "School studies/physics notes/Physical Quantities.md",
+    "School studies/physics notes/Force, Pressure & Density.md",
     "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf",
     "School studies/CS/Flowcharts.md",
     "Chem stuff from past papers.md",
@@ -249,11 +263,8 @@
     "School studies/Chem notes/Enthalpy.md",
     "School studies/Chem notes/States of matter.md",
     "School studies/Chem notes/Organic chem.canvas",
-    "School studies/physics notes/Physical Quantities.md",
-    "School studies/physics notes/Physics revision.md",
     "Excalidraw/Drawing 2023-10-09 19.16.07.excalidraw.md",
     "Excalidraw/Drawing 2023-10-09 19.15.51.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-09 19.12.34.excalidraw.md",
     "School studies/English Language El/EL modified.pdf",
     "Excalidraw/Pasted image 20231006193704.png",
     "Excalidraw/Pasted Image 20230831180415_600.png",
