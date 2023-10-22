@@ -11,13 +11,8 @@
             "id": "7c0913e82b71234f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics stuff from past papers.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -102,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics stuff from past papers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics stuff from past papers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Physics stuff from past papers.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,9 +176,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Physics stuff from past papers.md"
-              }
+              "state": {}
             }
           },
           {
@@ -232,7 +221,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7c0913e82b71234f",
+  "active": "54c5a6e575f4cd1d",
   "lastOpenFiles": [
     "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf",
     "School studies/CS/Flowcharts.md",
