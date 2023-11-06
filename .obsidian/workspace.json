@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4de2c2a3de1f8bf3",
+        "id": "96f250db9817c084",
         "type": "tabs",
         "children": [
           {
-            "id": "2d0813cbede133fa",
+            "id": "2157c6fd76fe2c96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/CS/networking/1,Networking.md",
+                "file": "Chem stuff from past papers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "6e439ca57f9b89d2",
+            "id": "063b1d17895f09b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/CS/Data representation.md",
+                "file": "Physics stuff from past papers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50418853759766
+    "width": 226.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "d967d98868519a35",
@@ -103,20 +104,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "acb0b20ef808921c",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
-            }
-          },
-          {
             "id": "1ce0af683d391aac",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Data representation.md",
+                "file": "Physics stuff from past papers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Data representation.md",
+                "file": "Physics stuff from past papers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/CS/Data representation.md"
+                "file": "Physics stuff from past papers.md"
               }
             }
           },
@@ -165,6 +158,14 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "acb0b20ef808921c",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
               "state": {}
             }
           },
@@ -200,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/CS/Data representation.md"
+                "file": "Physics stuff from past papers.md"
               }
             }
           },
@@ -211,22 +212,13 @@
               "type": "review-queue-list-view",
               "state": {}
             }
-          },
-          {
-            "id": "edc9c1cf1eb8ab24",
-            "type": "leaf",
-            "state": {
-              "type": "code-execute-manage-executors",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,44 +239,29 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "6e439ca57f9b89d2",
+  "active": "063b1d17895f09b1",
   "lastOpenFiles": [
-    "School studies/CS/Cambridge International AS and A Levels Computer Science.pdf",
-    "School studies/CS/Data representation.md",
-    "School studies/CS/Hardware.md",
-    "School studies/CS/networking/1,Networking.md",
-    "School studies/CS/networking/2,Networking Worksheet.md",
-    "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf",
-    "School studies/CS/Datatypes and structures.md",
-    "School studies/physics notes/physics-maths-tutor/5work_energy_power.pdf",
-    "School studies/CS/Pseudocode.md",
-    "School studies/physics notes/physics-maths-tutor/2kinematics.pdf",
-    "School studies/physics notes/physics-maths-tutor/1physical_quantities.pdf",
-    "School studies/physics notes/Physics revision.md",
-    "School studies/physics notes/Physical Quantities.md",
-    "School studies/physics notes/Force, Pressure & Density.md",
-    "School studies/CS/Flowcharts.md",
     "Chem stuff from past papers.md",
-    "School studies/CS/Programming.md",
-    "School studies/CS/questions.md",
-    "readme.md",
-    "obsidian format/Obsidian-formatting.md",
-    "School studies/CS/Logic gates practice.canvas",
-    "School studies/CS/Logic gates.canvas",
-    "School studies/CS/readme.md",
-    "'Elaborate coping mechanisms'.md",
-    "Ignite.md",
     "Physics stuff from past papers.md",
-    "Excalidraw/KMnO4.excalidraw.md",
-    "School studies/Chem notes/Organic Chemistry.md",
-    "School studies/Chem notes/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
-    "School studies/Semester Portion.md",
-    "School studies/list.md",
-    "School studies/Chem notes/1.Chemistry.readme.md",
+    "Excalidraw/Drawing 2023-10-09 19.16.07.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-09 19.15.51.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-09 19.12.34.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-09 19.08.00.excalidraw.md",
     "School studies/Chem notes/Enthalpy.md",
-    "School studies/Chem notes/Organic chem.canvas",
+    "readme.md",
+    "Ignite.md",
+    "School studies/English Language El/English Language EL.md",
+    "School studies/English Language El/EL task list for ganpati vacay.md",
     "School studies/English Language El/EL modified.pdf",
+    "Excalidraw/chem questions.excalidraw.md",
+    "Excalidraw/mathquestions.excalidraw.md",
     "Excalidraw/Pasted image 20231006193704.png",
+    "School studies/Chem notes/1.Chemistry.readme.md",
+    "School studies/Chem notes/Questions.md",
+    "School studies/CS/Logic gates practice.canvas",
+    "School studies/CS/Cambridge International AS and A Levels Computer Science.pdf",
+    "School studies/CS/Logic gates.canvas",
+    "Excalidraw/Hess-Law.excalidraw.md",
     "Excalidraw/Pasted Image 20230831180415_600.png",
     "Excalidraw/Pasted Image 20230901081322_875.png",
     "Excalidraw/Pasted Image 20230924013318_717.png",
@@ -294,10 +271,26 @@
     "Excalidraw/Pasted image 20231006130553.png",
     "Excalidraw/Pasted image 20231006130609.png",
     "Excalidraw/Pasted image 20231006130633.png",
+    "School studies/CS/questions.md",
+    "School studies/CS/Logic Gates.md",
+    "Excalidraw/Drawing 2023-10-06 13.03.53.excalidraw.md",
     "Excalidraw/Untitled.canvas",
+    "School studies/CS/Programming.md",
+    "School studies/CS/Pseudocode.md",
+    "Enthalpy.md",
+    "School studies/physics notes/Physics flashcards.md",
+    "School studies/English Language El/Pg 158 traffic article.md",
+    "School studies/English Language El/PG 187 beauty pageant.md",
+    "School studies/English Language El/Pg 190 'Skin Deep'.md",
     "archive",
+    "School studies/Chem notes/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
+    "School studies/Chem notes/Organic chem.canvas",
     "PG 180 task a",
+    "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf",
     "Excalidraw/Recording 20230914110755.webm",
+    "Excalidraw/Recording 20230914090727.webm",
+    "Excalidraw/Recording 20230914110925.webm",
+    "Excalidraw/Recording 20230914090737.webm",
     "School studies/Chem notes/Untitled.canvas",
     "Chem notes/Organic chem.canvas"
   ]

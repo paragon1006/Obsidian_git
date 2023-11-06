@@ -1,5 +1,5 @@
 {
-  "commitMessage": "vault change: {{date}}",
+  "commitMessage": "vault backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 5,
   "autoPushInterval": 0,
@@ -14,7 +14,7 @@
   "syncMethod": "merge",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": true,
-  "treeStructure": false,
+  "treeStructure": true,
   "refreshSourceControl": true,
   "basePath": "",
   "differentIntervalCommitAndPush": false,

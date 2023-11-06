@@ -1,19 +1,19 @@
 #cs #code 
 # Index
-| sr  | <center>Topic</center>                                            |
-| --- | ----------------------------------------------------------------- |
-| 1   | [Constants vs Variables](#Constants-vs-Variables)                 |
-| 2   | [Library Routines (Strings)](#Library-Routines(Strings))          |
-| 3   | [Library Routines (Integer)](#Library-Routines(Integers))         |
-| 4   | [[Pseudocode#If Else pseudocode\|If Else]]                        |
-| 5   | [[Pseudocode#For loop pseudocode\|Loops (for)]]                   |
-| 6   | [[Pseudocode#Repeat Until loop pseudocode\|Loops (repeat)]]       |
-| 7   | [[Pseudocode#While loop pseudocode\|Loops (while)]]               |
-| 8   | [Procedures (default)](#Procedures-(default))                     |
-| 9   | [Procedures (parameterized)](#Procedures-(Parameterized))         |
-| 10  | [[Programming#Default function\|Functions (default)]]             |
-| 11  | [[Programming#Parameterized function\|Functions (parameterized)]] |
-| 12  | [[Programming#Return function\|Functions (return)]]               |
+| sr  | Topic                                                             | Fin |
+| --- | ----------------------------------------------------------------- | --- |
+| 1   | [Constants vs Variables](#Constants-vs-Variables)                 | Y   |
+| 2   | [Library Routines (Strings)](#Library-Routines(Strings))          | Y   |
+| 3   | [Library Routines (Integer)](#Library-Routines(Integers))         | N   |
+| 4   | [[Pseudocode#If Else pseudocode\|If Else]]                        | Y   |
+| 5   | [[Pseudocode#For loop pseudocode\|Loops (for)]]                   | Y   |
+| 6   | [[Pseudocode#Repeat Until loop pseudocode\|Loops (repeat)]]       | Y   |
+| 7   | [[Pseudocode#While loop pseudocode\|Loops (while)]]               | Y   |
+| 8   | [Procedures (default)](#Procedures-(default))                     | N   |
+| 9   | [Procedures (parameterized)](#Procedures-(Parameterized))         | N   |
+| 10  | [[Programming#Default function\|Functions (default)]]             | N   |
+| 11  | [[Programming#Parameterized function\|Functions (parameterized)]] | N   |
+| 12  | [[Programming#Return function\|Functions (return)]]               | N   |
 # Constants-vs-Variables
 #### ***Variable***s 
 - It refers to a name assigned to a memory location that can hold a value.
