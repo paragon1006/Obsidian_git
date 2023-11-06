@@ -6,7 +6,6 @@
       {
         "id": "e600c81d32a8f3a6",
         "type": "tabs",
-        "dimension": 43.498659517426276,
         "children": [
           {
             "id": "341f069a95bc4feb",
@@ -18,23 +17,6 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "fd723b41bba8c9b6",
-        "type": "tabs",
-        "dimension": 56.501340482573724,
-        "children": [
-          {
-            "id": "1373025949394dee",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf"
               }
             }
           }
@@ -230,7 +212,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
