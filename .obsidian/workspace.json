@@ -4,16 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "07e977a0daee1246",
+        "id": "e600c81d32a8f3a6",
         "type": "tabs",
+        "dimension": 43.498659517426276,
         "children": [
           {
-            "id": "7c0913e82b71234f",
+            "id": "341f069a95bc4feb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School studies/CS/Data representation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fd723b41bba8c9b6",
+        "type": "tabs",
+        "dimension": 56.501340482573724,
+        "children": [
+          {
+            "id": "1373025949394dee",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "School studies/physics notes/physics-maths-tutor/5work_energy_power.pdf"
+                "file": "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf"
               }
             }
           }
@@ -75,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50418853759766
+    "width": 226.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "d967d98868519a35",
@@ -99,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/physics notes/physics-maths-tutor/5work_energy_power.pdf",
+                "file": "School studies/CS/Data representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/physics notes/physics-maths-tutor/5work_energy_power.pdf",
+                "file": "School studies/CS/Data representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/physics notes/physics-maths-tutor/5work_energy_power.pdf"
+                "file": "School studies/CS/Data representation.md"
               }
             }
           },
@@ -183,7 +205,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/physics notes/physics-maths-tutor/5work_energy_power.pdf"
+                "file": "School studies/CS/Data representation.md"
               }
             }
           },
@@ -208,8 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,8 +251,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7c0913e82b71234f",
+  "active": "341f069a95bc4feb",
   "lastOpenFiles": [
+    "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf",
+    "School studies/CS/Data representation.md",
+    "School studies/CS/Cambridge International AS and A Levels Computer Science.pdf",
+    "School studies/CS/Datatypes and structures.md",
     "School studies/physics notes/physics-maths-tutor/5work_energy_power.pdf",
     "School studies/CS/Pseudocode.md",
     "School studies/physics notes/physics-maths-tutor/2kinematics.pdf",
@@ -239,15 +264,12 @@
     "School studies/physics notes/Physics revision.md",
     "School studies/physics notes/Physical Quantities.md",
     "School studies/physics notes/Force, Pressure & Density.md",
-    "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf",
     "School studies/CS/Flowcharts.md",
     "Chem stuff from past papers.md",
     "School studies/CS/Programming.md",
     "School studies/CS/questions.md",
     "readme.md",
-    "School studies/CS/Datatypes and structures.md",
     "obsidian format/Obsidian-formatting.md",
-    "School studies/CS/Cambridge International AS and A Levels Computer Science.pdf",
     "School studies/CS/Logic gates practice.canvas",
     "School studies/CS/Logic gates.canvas",
     "School studies/CS/Hardware.md",
@@ -265,7 +287,6 @@
     "School studies/Chem notes/States of matter.md",
     "School studies/Chem notes/Organic chem.canvas",
     "Excalidraw/Drawing 2023-10-09 19.16.07.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-09 19.15.51.excalidraw.md",
     "School studies/English Language El/EL modified.pdf",
     "Excalidraw/Pasted image 20231006193704.png",
     "Excalidraw/Pasted Image 20230831180415_600.png",
@@ -281,7 +302,6 @@
     "archive",
     "PG 180 task a",
     "Excalidraw/Recording 20230914110755.webm",
-    "Excalidraw/Recording 20230914090727.webm",
     "School studies/Chem notes/Untitled.canvas",
     "Chem notes/Organic chem.canvas"
   ]
