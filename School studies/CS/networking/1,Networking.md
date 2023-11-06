@@ -3,11 +3,13 @@
 Basic simple network
 ![network|300*300](simple_network.png)
 
- | | 
---|--|--
-L  |  AN  |  Large area network
-M  |  AN  |  Metropolitan area network
-W  |  AN  |  Wide area network
+ | LAN                                | WAN                                                         | MAN                                       |
+ | ---------------------------------- | ----------------------------------------------------------- | ----------------------------------------- |
+ | Local                              | Wide                                                        | Metropolitan                              |
+ | Small network, usually in building | Can use public communications like phonelines or satellites | Limited to geographical areas like cities |
+ | Example device: printer            | Might be private, requiring psswd&id to access              | Like university campus                    |
+ | Usually 1 building at most         | It can cover continents                                     | Within cities/universities                |
+ |                                    |                                                             |                                           |
 
 ## Network Architecture
 ![network|300*300](Network_architectures.png)

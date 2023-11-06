@@ -4,11 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e600c81d32a8f3a6",
+        "id": "4de2c2a3de1f8bf3",
         "type": "tabs",
         "children": [
           {
-            "id": "341f069a95bc4feb",
+            "id": "2d0813cbede133fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School studies/CS/networking/1,Networking.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e439ca57f9b89d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50418853759766,
-    "collapsed": true
+    "width": 226.50418853759766
   },
   "right": {
     "id": "d967d98868519a35",
@@ -234,11 +247,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "341f069a95bc4feb",
+  "active": "6e439ca57f9b89d2",
   "lastOpenFiles": [
-    "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf",
-    "School studies/CS/Data representation.md",
     "School studies/CS/Cambridge International AS and A Levels Computer Science.pdf",
+    "School studies/CS/Hardware.md",
+    "School studies/CS/Data representation.md",
+    "School studies/CS/networking/1,Networking.md",
+    "School studies/CS/networking/2,Networking Worksheet.md",
+    "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf",
     "School studies/CS/Datatypes and structures.md",
     "School studies/physics notes/physics-maths-tutor/5work_energy_power.pdf",
     "School studies/CS/Pseudocode.md",
@@ -255,7 +271,6 @@
     "obsidian format/Obsidian-formatting.md",
     "School studies/CS/Logic gates practice.canvas",
     "School studies/CS/Logic gates.canvas",
-    "School studies/CS/Hardware.md",
     "School studies/CS/readme.md",
     "'Elaborate coping mechanisms'.md",
     "Ignite.md",
@@ -267,9 +282,7 @@
     "School studies/list.md",
     "School studies/Chem notes/1.Chemistry.readme.md",
     "School studies/Chem notes/Enthalpy.md",
-    "School studies/Chem notes/States of matter.md",
     "School studies/Chem notes/Organic chem.canvas",
-    "Excalidraw/Drawing 2023-10-09 19.16.07.excalidraw.md",
     "School studies/English Language El/EL modified.pdf",
     "Excalidraw/Pasted image 20231006193704.png",
     "Excalidraw/Pasted Image 20230831180415_600.png",
