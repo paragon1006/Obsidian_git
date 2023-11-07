@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/CS/Datatypes and structures.md",
+                "file": "School studies/CS/Programming.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -41,7 +41,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Datatypes and structures.md",
+                "file": "School studies/CS/Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "School studies/CS/Datatypes and structures.md",
+            "file": "School studies/CS/Programming.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "School studies/CS/Datatypes and structures.md",
+            "file": "School studies/CS/Programming.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -152,7 +152,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "School studies/CS/Datatypes and structures.md"
+            "file": "School studies/CS/Programming.md"
           }
         }
       },
@@ -201,9 +201,11 @@
       "meld-encrypt:Convert to or from an Encrypted note": false
     }
   },
-  "active": "ee8dc2d84a2c2258",
+  "active": "1e969bb9e59a1038",
   "lastOpenFiles": [
+    "Excalidraw/cs-hw-gdhjksl.excalidraw.md",
     "School studies/CS/Programming.md",
+    "School studies/CS/Datatypes and structures.md",
     "School studies/CS/Pseudocode.md",
     "School studies/physics notes/1.Physics.readme.md",
     "School studies/CS/questions.md",
@@ -244,8 +246,6 @@
     "School studies/English Language El/EL modified.pdf",
     "School studies/CS/Untitled.md",
     "Excalidraw/pg187pageant.excalidraw.md",
-    "/newsletter/newsletter issue 3 articles.md",
-    "/newsletter/Newsletter Issue 3 roadmap.md",
     "/School studies/English Language El/EL modified.pdf",
     "School studies/physics notes/physics-maths-tutor/12.5superposition.pdf",
     "School studies/physics notes/physics-maths-tutor/3dynamics.pdf",
