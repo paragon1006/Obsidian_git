@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/CS/Programming.md",
+                "file": "Ascii symbols.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -41,7 +41,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Programming.md",
+                "file": "Ascii symbols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "School studies/CS/Programming.md",
+            "file": "Ascii symbols.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "School studies/CS/Programming.md",
+            "file": "Ascii symbols.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -152,7 +152,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "School studies/CS/Programming.md"
+            "file": "Ascii symbols.md"
           }
         }
       },
@@ -201,10 +201,10 @@
       "meld-encrypt:Convert to or from an Encrypted note": false
     }
   },
-  "active": "1e969bb9e59a1038",
+  "active": "ee8dc2d84a2c2258",
   "lastOpenFiles": [
-    "Excalidraw/cs-hw-gdhjksl.excalidraw.md",
     "School studies/CS/Programming.md",
+    "Excalidraw/cs-hw-gdhjksl.excalidraw.md",
     "School studies/CS/Datatypes and structures.md",
     "School studies/CS/Pseudocode.md",
     "School studies/physics notes/1.Physics.readme.md",
