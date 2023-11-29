@@ -60,6 +60,8 @@ OUTPUT "The value",Num**2,"is the square"
 ```
 ``` Python
 Num = int(input("Enter a number"))
+print("The square is",Num^2)
+print(Num^2,"is the square")
 print("The value",Num**2,"is the square")
 ```
 

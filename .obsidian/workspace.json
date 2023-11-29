@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2d0813cbede133fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/CS/networking/1,Networking.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e439ca57f9b89d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/CS/networking/1,Networking.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f17862eaeea6fb30",
             "type": "leaf",
             "state": {
@@ -47,11 +21,16 @@
             }
           },
           {
-            "id": "6ebed40707a8fa3a",
+            "id": "474f36898c748b85",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -65,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/networking/Hardware.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/networking/Hardware.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -188,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/CS/networking/Hardware.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -232,7 +211,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/CS/networking/Hardware.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -278,10 +257,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f17862eaeea6fb30",
+  "active": "474f36898c748b85",
   "lastOpenFiles": [
-    "Excalidraw/Memory.excalidraw.md",
     "School studies/CS/networking/Hardware.md",
+    "conflict-files-obsidian-git.md",
+    "School studies/physics notes/Physics flashcards.md",
+    "Physics stuff from past papers.md",
+    "Excalidraw/chem questions.excalidraw.md",
+    "Excalidraw/Pasted image 20231006193704.png",
+    "Excalidraw/Memory.excalidraw.md",
     "School studies/CS/networking/1,Networking.md",
     "School studies/CS/Data representation.md",
     "School studies/CS/Cambridge International AS and A Levels Computer Science.pdf",
@@ -307,16 +291,11 @@
     "School studies/CS/readme.md",
     "'Elaborate coping mechanisms'.md",
     "Ignite.md",
-    "Physics stuff from past papers.md",
     "Excalidraw/KMnO4.excalidraw.md",
     "School studies/Chem notes/Organic Chemistry.md",
     "School studies/Chem notes/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
-    "School studies/Semester Portion.md",
-    "School studies/list.md",
-    "School studies/Chem notes/1.Chemistry.readme.md",
     "School studies/Chem notes/Organic chem.canvas",
     "School studies/English Language El/EL modified.pdf",
-    "Excalidraw/Pasted image 20231006193704.png",
     "Excalidraw/Pasted Image 20230831180415_600.png",
     "Excalidraw/Pasted Image 20230901081322_875.png",
     "Excalidraw/Pasted Image 20230924013318_717.png",
