@@ -32,9 +32,40 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f17862eaeea6fb30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School studies/CS/networking/Hardware.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ebed40707a8fa3a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "44df71a975f099d8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Memory.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50418853759766
+    "width": 226.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "d967d98868519a35",
@@ -116,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/networking/1,Networking.md",
+                "file": "School studies/CS/networking/Hardware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/networking/1,Networking.md",
+                "file": "School studies/CS/networking/Hardware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/CS/networking/1,Networking.md"
+                "file": "School studies/CS/networking/Hardware.md"
               }
             }
           },
@@ -200,7 +232,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/CS/networking/1,Networking.md"
+                "file": "School studies/CS/networking/Hardware.md"
               }
             }
           },
@@ -225,8 +257,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,12 +278,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "6e439ca57f9b89d2",
+  "active": "f17862eaeea6fb30",
   "lastOpenFiles": [
+    "Excalidraw/Memory.excalidraw.md",
+    "School studies/CS/networking/Hardware.md",
+    "School studies/CS/networking/1,Networking.md",
     "School studies/CS/Data representation.md",
     "School studies/CS/Cambridge International AS and A Levels Computer Science.pdf",
     "School studies/CS/Hardware.md",
-    "School studies/CS/networking/1,Networking.md",
     "School studies/CS/networking/2,Networking Worksheet.md",
     "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf",
     "School studies/CS/Datatypes and structures.md",
@@ -281,7 +314,6 @@
     "School studies/Semester Portion.md",
     "School studies/list.md",
     "School studies/Chem notes/1.Chemistry.readme.md",
-    "School studies/Chem notes/Enthalpy.md",
     "School studies/Chem notes/Organic chem.canvas",
     "School studies/English Language El/EL modified.pdf",
     "Excalidraw/Pasted image 20231006193704.png",
