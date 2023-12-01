@@ -7,4 +7,9 @@
 | Stores data of apps in use | Stores Boot Information |
 | Volatile Memory            | Non Volatile            |
 
+### Ram Ram
+| <font color="#92d050">SRAM </font>| <font color="#92d050">DRAM</font>                  |
+| ----------------------- | --------------------- |
+| No need to be refreshed | needs to be refreshed |
+|                         |                       |
 ## Secondary Memory 
