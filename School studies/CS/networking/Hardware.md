@@ -30,5 +30,16 @@
 	- Transistors and Capacitors
 	- requires UV light to modify
 	- can be changed once
-- EEPROM - Electronically Erasable Read only Memory
+- EEPROM - Electronically Erasable Programable Read only Memory
 ## Secondary Memory 
+| HDD                      | SSD                   |
+| ------------------------ | --------------------- |
+| Uses magnetic properties | Uses flash technology |
+| Contains moving parts    | No moving parts       |
+| Very noisy               | Quiet                 |
+| Less durable             | Highly durable        |
+| Heavy and bulky          | Light weight          |
+| Uses tracks and sectors                         |                       |
+ 
+
+![[hdd-ssd.excalidraw|800]]
