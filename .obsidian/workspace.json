@@ -29,8 +29,22 @@
                 "file": "Excalidraw/Memory.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "f008462750a387ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "newsletter/Issue 4.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50418853759766,
-    "collapsed": true
+    "width": 226.50418853759766
   },
   "right": {
     "id": "d967d98868519a35",
@@ -113,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/networking/Hardware.md",
+                "file": "newsletter/Issue 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/networking/Hardware.md",
+                "file": "newsletter/Issue 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/CS/networking/Hardware.md"
+                "file": "newsletter/Issue 4.md"
               }
             }
           },
@@ -197,7 +210,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/CS/networking/Hardware.md"
+                "file": "newsletter/Issue 4.md"
               }
             }
           },
@@ -243,10 +256,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f17862eaeea6fb30",
+  "active": "f008462750a387ac",
   "lastOpenFiles": [
-    "Excalidraw/Memory.excalidraw.md",
+    "newsletter/newsletter issue 3 articles.md",
+    "newsletter/Issue 4.md",
     "School studies/CS/networking/Hardware.md",
+    "Excalidraw/Memory.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "School studies/physics notes/Physics flashcards.md",
     "Physics stuff from past papers.md",
@@ -277,8 +292,6 @@
     "School studies/CS/readme.md",
     "'Elaborate coping mechanisms'.md",
     "Ignite.md",
-    "Excalidraw/KMnO4.excalidraw.md",
-    "School studies/Chem notes/Organic Chemistry.md",
     "School studies/Chem notes/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
     "School studies/Chem notes/Organic chem.canvas",
     "School studies/English Language El/EL modified.pdf",
