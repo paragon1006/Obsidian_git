@@ -39,7 +39,6 @@
 | Very noisy               | Quiet                 |
 | Less durable             | Highly durable        |
 | Heavy and bulky          | Light weight          |
-| Uses tracks and sectors                         |                       |
+| Uses tracks and sectors  |                       |
  
-
 ![[hdd-ssd.excalidraw|800]]
