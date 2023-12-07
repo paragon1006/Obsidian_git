@@ -1,6 +1,6 @@
 {
-  "titleBackgroundColor": "#00000020",
-  "highLightColor": "#2d82cc20",
+  "titleBackgroundColor": "#000020",
+  "highLightColor": "#2d82cc",
   "excludeLangs": [],
   "showLineNumber": true,
   "showDividingLine": false,
