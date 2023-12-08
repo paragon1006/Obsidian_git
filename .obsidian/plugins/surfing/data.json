@@ -43,17 +43,5 @@
     ],
     "defaultFilterType": "menu"
   },
-  "treeData": [
-    {
-      "id": "7d43f6d8653d9e50",
-      "parent": 0,
-      "droppable": true,
-      "text": "Monkeytype | A minimalistic, customizable typing test",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ]
+  "treeData": []
 }
