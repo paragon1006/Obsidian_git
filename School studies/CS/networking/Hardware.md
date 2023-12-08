@@ -32,6 +32,7 @@
 	- can be changed once
 - EEPROM - Electronically Erasable Programable Read only Memory
 ## Secondary Memory 
+### HDD vs SSD
 | HDD                      | SSD                   |
 | ------------------------ | --------------------- |
 | Uses magnetic properties | Uses flash technology |
@@ -42,3 +43,25 @@
 | Uses tracks and sectors  |                       |
  
 ![[hdd-ssd.excalidraw|800]]
+### CD, DVD, Blu-Ray
+#todo ^
+
+# Printers
+| **Laser Printer**                      | **Inkjet Printer**                           |
+| -------------------------------------- | -------------------------------------------- |
+| Higher initial cost                    | Small initial cost                           |
+| Good long term cost                    | Costly to refill                             |
+| Uses powder/toner                      | Uses liquid Ink                              |
+| Low Quality compared to inkjet         | High Quality                                 |
+| Large Buffer Memory, stores whole page | Small Buffer Memory store one line at a time |
+| Fast Printing                          | Slow Printing                                |
+| Ozone Irritation                       |                                              |
+|                                        |                                              |
+## Laser Printer 
+#todo laser printer cycle
+## Inkjet Printer
+#todo inkjets
+### Piezoelectric
+### Thermal bubble
+# 3D printer
+- Uses CAD
