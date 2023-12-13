@@ -66,5 +66,20 @@
 # 3D printer
 - Uses CAD
 
-# Spekers
+## Speakers
 #todo speakers
+## Microphone 
+#todo microphone
+
+# Screens
+
+| LCD           | LED | OLED                    |
+| ------------- | --- | ----------------------- |
+| Cheap         | Mid | Pricey                  |
+| Backlight LED | LED | Foldable to some Degree |
+## LCD 
+
+## LED
+## OLED
+
+# 
