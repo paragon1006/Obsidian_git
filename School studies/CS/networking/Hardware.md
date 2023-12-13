@@ -65,3 +65,6 @@
 ### Thermal bubble
 # 3D printer
 - Uses CAD
+
+# Spekers
+#todo speakers
