@@ -78,6 +78,7 @@
 ## Laser Printer 
 #### LP print cycle
 1. Laser beam and a rotating mirror are used to draw an image of the page on the photosensitive drum
+2. 
 ## Inkjet Printer
 #todo inkjets
 ### Piezoelectric
