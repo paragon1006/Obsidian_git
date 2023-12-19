@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "4de2c2a3de1f8bf3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7cc8d1fb7aee2221",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "ed409720bba95378",
         "type": "tabs",
         "children": [
@@ -119,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf",
+                "file": "School studies/CS/Hardware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf",
+                "file": "School studies/CS/Hardware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf"
+                "file": "School studies/CS/Hardware.md"
               }
             }
           },
@@ -203,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf"
+                "file": "School studies/CS/Hardware.md"
               }
             }
           },
@@ -250,10 +234,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7cc8d1fb7aee2221",
+  "active": "322c528cb7f7b225",
   "lastOpenFiles": [
-    "School studies/CS/Hardware.md",
     "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf",
+    "School studies/CS/Hardware.md",
     "School studies/English Language El/EL, The market P1 and P2.md",
     "School studies/English Language El/SP Q.md",
     "School studies/English Language El/Pg 190 'Skin Deep'.md",

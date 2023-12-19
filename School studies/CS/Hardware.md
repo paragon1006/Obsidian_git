@@ -66,9 +66,26 @@
 # 3D printer
 - Uses CAD
 
-## Speakers
-#todo speakers
-## Microphone 
+# Speakers
+### Parts of a speaker:
+1. Diaphragm/Cone
+2. (Voice) Coil of wire
+3. Spider/Suspension
+4. Permanent Magnet
+5. Basket
+6. Dust Cap
+7. Outer Frame
+
+### Working of a speaker:
+1. Takes an electrical signal and translates it into physical vibrations to create sound waves
+2. An electric current in the coil creates an electro-magnetic field
+3. Changes in the audio signal causes the direction of the electric current to change
+4. The direction of the current determines the polarity of the electro-magnet // changing the direction of the current changes the direction of the polarity of the electro-magnet
+5. The electro-magnet is repelled by or attracted to the permanent magnet causing the coil to vibrate
+6. The movement of the coil causes the cone / diaphragm to vibrate
+7. That vibration is transmitted to the air in front of the cone / diaphragm as sound waves 
+8. The amount of movement will determine the frequency and amplitude of the sound wave produced
+# Microphone 
 #todo microphone
 
 # Screens
