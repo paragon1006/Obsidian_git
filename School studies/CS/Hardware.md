@@ -57,7 +57,15 @@
 - When reading from disk, a variation in magnetic field produces a variation in current through the head
 ### CD, DVD, Blu-Ray
 #todo ^
-#### Use cases
+### Reading:
+- Drive motor is used to spin the disc
+- Tracking mechanism moves the laser assembly
+- A lens focuses the laser onto the disc
+- Laser beam is shone onto disc to read / write
+- Surface of disc has a reflective metal layer / phase change metal alloy
+- Track(s) on the disc have sequence of pits and lands / amorphous and crystalline state
+- Reflected light in then encoded as a bit pattern
+- #### Use cases
 - Additional File storage
 - Backup  of files
 - Archival of files
@@ -88,11 +96,16 @@
 ## Inkjet Printer
 #todo inkjets
 #### Print Head:
-The print head contains a large number of very small nozzles
-Ink is fed to each nozzle from a reservoir
-The print head fires droplets of ink onto the paper
-The print head moves horizontally across the paper
-
+- The print head contains a large number of very small nozzles
+- Ink is fed to each nozzle from a reservoir
+- The print head fires droplets of ink onto the paper
+- The print head moves horizontally across the paper
+- Replacement ink fills the nozzle
+#### Stepper Motor
+- The (print head) stepper motor is connected to the print head by a belt
+- The (print head) stepper motor moves the print head across the paper
+- The (parking) stepper motor parks the print head assembly when not in use
+- The (paper feed)stepper motor turns the rollers that provide the paper feed // The (paper feed)stepper motor moves the paper in small increments
 ### Piezoelectric
 ### Thermal bubble
 # 3D printer
@@ -131,4 +144,23 @@ The print head moves horizontally across the paper
 ## LED
 ## OLED
 
-# 
+# Rest of the Hardware components
+## Keyboards:
+- Uses switches and circuits to translate keystrokes into signals the computer can understand
+- The key matrix is a grid of circuits / three layers of plastic underneath the keys
+- Each circuit is broken beneath the key / middle layer contains holes
+- When key pressed, a circuit is made / completed and a signal is sent
+- Processor compares location of signal from key matrix to a character map stored on
+- ROM
+- A character code for each key press is saved in a keyboard buffer
+## Optical Mouse:
+- Laser / light shines onto a surface
+- Through a (polished) ring at the base
+- The light is reflected from the surface through the ring
+- Sensor detects reflected light
+- Capturing details / photograph of surface (under the ring)
+- At about 1500 times per second
+- As the mouse moves the sensor detects changes in the surface detail / photograph
+- Which are translated into movement (change of x and y co-ordinates)
+- The processor/software updates the position of the cursor on the screen
+## Scanner:
