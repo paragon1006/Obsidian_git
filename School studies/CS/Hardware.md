@@ -171,4 +171,9 @@
 - Sensors detect levels of reflected light
 - Brighter light results in greater electrical charge
 - Light intensity is converted (by software) to a digital value
-# j 
+# Monitoring system
+1. Sensor makes a measurement
+2. Data is converted to electrical signal with ADC
+3. Microprocessor calculates the data
+4. If data is within parameters loop continues else
+5. If not then signal is sent to {destination}

@@ -212,7 +212,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,7 +234,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4468754a3ea9e88d",
+  "active": "322c528cb7f7b225",
   "lastOpenFiles": [
     "Excalidraw/Pasted image 20231219192124.png",
     "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf",
