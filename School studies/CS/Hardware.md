@@ -75,6 +75,7 @@
 | Fast Printing                          | Slow Printing                                |
 | Ozone Irritation                       |                                              |
 |                                        |                                              |
+![[Pasted image 20231219192124.png]]
 ## Laser Printer 
 #### LP print cycle
 1. Laser beam and a rotating mirror are used to draw an image of the page on the photosensitive drum
@@ -86,6 +87,12 @@
 7. The electrical charge is removed from the drum and the excess toner is collected
 ## Inkjet Printer
 #todo inkjets
+#### Print Head:
+The print head contains a large number of very small nozzles
+Ink is fed to each nozzle from a reservoir
+The print head fires droplets of ink onto the paper
+The print head moves horizontally across the paper
+
 ### Piezoelectric
 ### Thermal bubble
 # 3D printer
