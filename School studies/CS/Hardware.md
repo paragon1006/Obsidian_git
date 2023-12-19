@@ -78,7 +78,12 @@
 ## Laser Printer 
 #### LP print cycle
 1. Laser beam and a rotating mirror are used to draw an image of the page on the photosensitive drum
-2. 
+2. The image is converted on the drum into an electrostatic charge
+3. Electrostatic charge attracts toner
+4. Charged paper is rolled against drum
+5. The oppositely-charged paper picks up the toner particles from the drum. After picking up the toner, the paper is discharged to stop it clinging to the drum
+6. The paper passes through a fuser, which heats up the paper. The toner melts and forms a permanent image on the paper.
+7. The electrical charge is removed from the drum and the excess toner is collected
 ## Inkjet Printer
 #todo inkjets
 ### Piezoelectric
