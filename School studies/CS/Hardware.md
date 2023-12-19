@@ -57,7 +57,7 @@
 - When reading from disk, a variation in magnetic field produces a variation in current through the head
 ### CD, DVD, Blu-Ray
 #todo ^
-### Reading:
+### Reading a drive:
 - Drive motor is used to spin the disc
 - Tracking mechanism moves the laser assembly
 - A lens focuses the laser onto the disc
@@ -164,3 +164,11 @@
 - Which are translated into movement (change of x and y co-ordinates)
 - The processor/software updates the position of the cursor on the screen
 ## Scanner:
+- Main component Of a scanner is a CCD array
+- CCD is a collection of light sensitive diodes
+- Laser beam / light is shone onto the source document/barcode
+- The scanned image reaches the CCD through mirrors and lenses
+- Sensors detect levels of reflected light
+- Brighter light results in greater electrical charge
+- Light intensity is converted (by software) to a digital value
+# j 
