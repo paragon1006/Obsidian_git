@@ -43,17 +43,5 @@
     ],
     "defaultFilterType": "menu"
   },
-  "treeData": [
-    {
-      "id": "3bb1a1bf5d3e72d0",
-      "parent": 0,
-      "droppable": true,
-      "text": "nutmeg in hindi at DuckDuckGo",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ]
+  "treeData": []
 }
