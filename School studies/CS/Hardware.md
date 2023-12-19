@@ -41,11 +41,29 @@
 | Less durable             | Highly durable        |
 | Heavy and bulky          | Light weight          |
 | Uses tracks and sectors  |                       |
- 
+
 ![[hdd-ssd.excalidraw|800]]
+#### HDD working
+- The hard disk has one or more platters made of aluminium or glass
+- Each surface Of the platter/disk is ferrous-oxide which is capable Of being magnetised
+- The platters/disks are mounted on a central spindle
+- The disks are rotated at high-speed
+- Each surface of the disk has a read/write head mounted on an arm positioned just above the surface
+- Electronic circuits control the movement of the arm and hence the heads
+- The surface of the platter/disk is divided into concentric tracks and sectors
+- One track in one sector is the basic unit of storage called a block
+- The data is encoded as a magnetic pattern for each block
+- When writing to disk, a variation in the current in the head produces a variation in magnetic field on the disk
+- When reading from disk, a variation in magnetic field produces a variation in current through the head
 ### CD, DVD, Blu-Ray
 #todo ^
-
+#### Use cases
+- Additional File storage
+- Backup  of files
+- Archival of files
+- Transfer to another device
+### Pendrives
+#todo ^
 # Printers
 | **Laser Printer**                      | **Inkjet Printer**                           |
 | -------------------------------------- | -------------------------------------------- |
@@ -58,7 +76,8 @@
 | Ozone Irritation                       |                                              |
 |                                        |                                              |
 ## Laser Printer 
-#todo laser printer cycle
+#### LP print cycle
+1. Laser beam and a rotating mirror are used to draw an image of the page on the photosensitive drum
 ## Inkjet Printer
 #todo inkjets
 ### Piezoelectric
