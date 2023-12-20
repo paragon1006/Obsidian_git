@@ -122,7 +122,6 @@
 5. Basket
 6. Dust Cap
 7. Outer Frame
-
 ### Working of a speaker:
 1. Takes an electrical signal and translates it into physical vibrations to create sound waves
 2. An electric current in the coil creates an electro-magnetic field
@@ -131,7 +130,7 @@
 5. The electro-magnet is repelled by or attracted to the permanent magnet causing the coil to vibrate
 6. The movement of the coil causes the cone / diaphragm to vibrate
 7. That vibration is transmitted to the air in front of the cone / diaphragm as sound waves 
-8. The amount of movement will determine the frequency and amplitude of the sound wave produced
+8. The amount of movement will determine the frequency and amplitude of the sound wave produced              
 # Microphone 
 #todo microphone
 
