@@ -43,5 +43,17 @@
     ],
     "defaultFilterType": "menu"
   },
-  "treeData": []
+  "treeData": [
+    {
+      "id": "c84a01f24d5c6f9d",
+      "parent": 0,
+      "droppable": true,
+      "text": "How long is The Witcher 3: Wild Hunt? | HowLongToBeat",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ]
 }
