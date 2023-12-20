@@ -13,11 +13,12 @@
 | ----------------------------------- | ----------------------------------- |
 | Needs to be refreshed               | No need to be refreshed             |
 | Less expensive                      | More expensive                      |
-| Uses capacitor/transistors          | Uses Flip flops                     |
+| Uses 1 capacitor & 1 transistors    | Uses Flip flops (Memory Cell)       |
 | Capacitors hold 1/0                 |                                     |
 | Transistors act as switch           |                                     |
 | Takes about 60 nanoseconds to fetch | Takes about 25 nanoseconds to fetch |
 | Recharge every 15 microseconds      | No frequent recharge                |
+| Uses more power than SRAM           | Uses less power than DRAM           |
 
 ### ROM ROM
 - ROM - Read Only Memory
@@ -30,7 +31,7 @@
 	- Transistors and Capacitors
 	- requires UV light to modify
 	- can be changed once
-- EEPROM - Electronically Erasable Programable Read only Memory
+- EEPROM - Electrically Erasable Programable Read only Memory
 ## Secondary Memory 
 ### HDD vs SSD
 | HDD                      | SSD                   |
@@ -41,6 +42,7 @@
 | Less durable             | Highly durable        |
 | Heavy and bulky          | Light weight          |
 | Uses tracks and sectors  |                       |
+| Very cheap               | More expensive        |
 
 ![[hdd-ssd.excalidraw|800]]
 #### HDD working
