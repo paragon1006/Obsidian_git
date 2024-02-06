@@ -32,16 +32,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "74d4e3df97dec9a6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/SQL.excalidraw.md"
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -262,8 +252,8 @@
   },
   "active": "f0d32294a776b91f",
   "lastOpenFiles": [
-    "School studies/CS/Datatypes.md",
     "Excalidraw/SQL.excalidraw.md",
+    "School studies/CS/Datatypes.md",
     "readme.md",
     "School studies/CS/Hardware.md",
     "School studies/CS/Cambridge International AS and A Levels Computer Science.pdf",
