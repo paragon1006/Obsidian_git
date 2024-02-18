@@ -43,5 +43,17 @@
     ],
     "defaultFilterType": "menu"
   },
-  "treeData": []
+  "treeData": [
+    {
+      "id": "0236855ff9b07104",
+      "parent": 0,
+      "droppable": true,
+      "text": "Sim8085 - A 8085 microprocessor simulator",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ]
 }

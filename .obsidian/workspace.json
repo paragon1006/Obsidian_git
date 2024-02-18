@@ -8,28 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4468754a3ea9e88d",
+            "id": "95af7bbe2d69b976",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/CS/Hardware.md",
-                "mode": "preview",
+                "file": "School studies/CS/Assembly.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "f0d32294a776b91f",
+            "id": "0236855ff9b07104",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "surfing-view",
               "state": {
-                "file": "School studies/CS/Datatypes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "url": "https://sim8085.com"
               }
             }
           }
@@ -92,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50418853759766
+    "width": 226.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "d967d98868519a35",
@@ -116,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Datatypes.md",
+                "file": "School studies/CS/Assembly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Datatypes.md",
+                "file": "School studies/CS/Assembly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/CS/Datatypes.md"
+                "file": "School studies/CS/Assembly.md"
               }
             }
           },
@@ -202,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/CS/Datatypes.md"
+                "file": "School studies/CS/Assembly.md"
               }
             }
           },
@@ -249,10 +247,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f0d32294a776b91f",
+  "active": "0236855ff9b07104",
   "lastOpenFiles": [
-    "Excalidraw/SQL.excalidraw.md",
+    "School studies/CS/Assembly.md",
     "School studies/CS/Datatypes.md",
+    "Excalidraw/SQL.excalidraw.md",
     "readme.md",
     "School studies/CS/Hardware.md",
     "School studies/CS/Cambridge International AS and A Levels Computer Science.pdf",
@@ -283,7 +282,6 @@
     "School studies/physics notes/Physical Quantities.md",
     "School studies/physics notes/Force, Pressure & Density.md",
     "School studies/CS/Flowcharts.md",
-    "Chem stuff from past papers.md",
     "School studies/CS/Logic gates practice.canvas",
     "School studies/CS/Logic gates.canvas",
     "School studies/Chem notes/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
