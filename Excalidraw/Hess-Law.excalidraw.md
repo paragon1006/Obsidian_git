@@ -34,8 +34,8 @@ Formation reaction ^nuzfAkGh
 	"elements": [
 		{
 			"type": "text",
-			"version": 32,
-			"versionNonce": 2104215615,
+			"version": 155,
+			"versionNonce": 1268931742,
 			"isDeleted": false,
 			"id": "Ex9AAWHz",
 			"fillStyle": "hachure",
@@ -64,7 +64,7 @@ Formation reaction ^nuzfAkGh
 					"type": "arrow"
 				}
 			],
-			"updated": 1696476859636,
+			"updated": 1708271167584,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -76,12 +76,12 @@ Formation reaction ^nuzfAkGh
 			"containerId": null,
 			"originalText": "Reactants",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
-			"version": 29,
-			"versionNonce": 910368561,
+			"version": 32,
+			"versionNonce": 2075509826,
 			"isDeleted": false,
 			"id": "myyr8eqr",
 			"fillStyle": "hachure",
@@ -110,7 +110,7 @@ Formation reaction ^nuzfAkGh
 					"type": "arrow"
 				}
 			],
-			"updated": 1696476859636,
+			"updated": 1708271167584,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -122,12 +122,12 @@ Formation reaction ^nuzfAkGh
 			"containerId": null,
 			"originalText": "Products8",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
-			"version": 200,
-			"versionNonce": 541726417,
+			"version": 323,
+			"versionNonce": 380180702,
 			"isDeleted": false,
 			"id": "DTQfQHaM",
 			"fillStyle": "hachure",
@@ -156,7 +156,7 @@ Formation reaction ^nuzfAkGh
 					"type": "arrow"
 				}
 			],
-			"updated": 1696476877420,
+			"updated": 1708271167584,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -168,12 +168,12 @@ Formation reaction ^nuzfAkGh
 			"containerId": null,
 			"originalText": "Elements",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
-			"version": 422,
-			"versionNonce": 1050498705,
+			"version": 905,
+			"versionNonce": 1454894082,
 			"isDeleted": false,
 			"id": "vMm2m-pFWyJlYCdUcDPED",
 			"fillStyle": "hachure",
@@ -200,7 +200,7 @@ Formation reaction ^nuzfAkGh
 					"id": "7i20UAJI"
 				}
 			],
-			"updated": 1696476877420,
+			"updated": 1708271167584,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -229,8 +229,8 @@ Formation reaction ^nuzfAkGh
 		},
 		{
 			"type": "text",
-			"version": 8,
-			"versionNonce": 1469674961,
+			"version": 11,
+			"versionNonce": 34491678,
 			"isDeleted": false,
 			"id": "7i20UAJI",
 			"fillStyle": "hachure",
@@ -250,7 +250,7 @@ Formation reaction ^nuzfAkGh
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696476880497,
+			"updated": 1708271167584,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -262,12 +262,12 @@ Formation reaction ^nuzfAkGh
 			"containerId": "vMm2m-pFWyJlYCdUcDPED",
 			"originalText": "∆H₁",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
-			"version": 85,
-			"versionNonce": 1723618687,
+			"version": 328,
+			"versionNonce": 647961538,
 			"isDeleted": false,
 			"id": "7f79eC61xN40Ekj7Ef4PF",
 			"fillStyle": "hachure",
@@ -294,7 +294,7 @@ Formation reaction ^nuzfAkGh
 					"id": "CTO4xhYj"
 				}
 			],
-			"updated": 1696476863568,
+			"updated": 1708271167584,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -323,8 +323,8 @@ Formation reaction ^nuzfAkGh
 		},
 		{
 			"type": "text",
-			"version": 4,
-			"versionNonce": 2064784895,
+			"version": 7,
+			"versionNonce": 1799551326,
 			"isDeleted": false,
 			"id": "CTO4xhYj",
 			"fillStyle": "hachure",
@@ -344,7 +344,7 @@ Formation reaction ^nuzfAkGh
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696476870542,
+			"updated": 1708271167584,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -356,12 +356,12 @@ Formation reaction ^nuzfAkGh
 			"containerId": "7f79eC61xN40Ekj7Ef4PF",
 			"originalText": "∆Hr",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
-			"version": 560,
-			"versionNonce": 1970513489,
+			"version": 803,
+			"versionNonce": 428495746,
 			"isDeleted": false,
 			"id": "OlbykNTqx1gC_EWeHMoXi",
 			"fillStyle": "hachure",
@@ -388,7 +388,7 @@ Formation reaction ^nuzfAkGh
 					"id": "KGO6S3U1"
 				}
 			],
-			"updated": 1696476877422,
+			"updated": 1708271167584,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -417,8 +417,8 @@ Formation reaction ^nuzfAkGh
 		},
 		{
 			"type": "text",
-			"version": 5,
-			"versionNonce": 2081566911,
+			"version": 8,
+			"versionNonce": 1503141278,
 			"isDeleted": false,
 			"id": "KGO6S3U1",
 			"fillStyle": "hachure",
@@ -438,7 +438,7 @@ Formation reaction ^nuzfAkGh
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696476859636,
+			"updated": 1708271167584,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -450,12 +450,12 @@ Formation reaction ^nuzfAkGh
 			"containerId": "OlbykNTqx1gC_EWeHMoXi",
 			"originalText": "∆H₂",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
-			"version": 117,
-			"versionNonce": 1155834929,
+			"version": 170,
+			"versionNonce": 1102615362,
 			"isDeleted": false,
 			"id": "qrcVAM3e",
 			"fillStyle": "hachure",
@@ -475,7 +475,7 @@ Formation reaction ^nuzfAkGh
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696476918714,
+			"updated": 1708271167584,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -487,81 +487,44 @@ Formation reaction ^nuzfAkGh
 			"containerId": null,
 			"originalText": "∆H₁+∆Hr = ∆H₂",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
-			"id": "nuzfAkGh",
 			"type": "text",
+			"version": 50,
+			"versionNonce": 1111407070,
+			"isDeleted": false,
+			"id": "nuzfAkGh",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
 			"x": -371.8090362548828,
 			"y": -291.3852822880218,
-			"width": 310.07332703053953,
-			"height": 42.527099609375014,
-			"angle": 0,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
+			"width": 310.05816650390625,
+			"height": 42.527099609374986,
 			"seed": 1305203027,
-			"version": 47,
-			"versionNonce": 1746424669,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696506806865,
-			"link": null,
-			"locked": false,
-			"text": "Formation reaction",
-			"rawText": "Formation reaction",
-			"fontSize": 34.02167968749999,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 29.00000000000003,
-			"containerId": null,
-			"originalText": "Formation reaction",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "text",
-			"version": 113,
-			"versionNonce": 451428275,
-			"isDeleted": true,
-			"id": "NYekmZLI",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -305.92051139379333,
-			"y": -313.91801605893716,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
-			"width": 20.839996337890625,
-			"height": 52.11055915010631,
-			"seed": 1195117553,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696506778943,
+			"updated": 1708271167584,
 			"link": null,
 			"locked": false,
-			"fontSize": 41.68844732008505,
+			"fontSize": 34.02167968749999,
 			"fontFamily": 1,
-			"text": "",
-			"rawText": "",
+			"text": "Formation reaction",
+			"rawText": "Formation reaction",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "",
+			"originalText": "Formation reaction",
 			"lineHeight": 1.25,
-			"baseline": 36
+			"baseline": 29
 		}
 	],
 	"appState": {
@@ -579,10 +542,10 @@ Formation reaction ^nuzfAkGh
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 483.1952667236328,
-		"scrollY": 320.55525756878353,
+		"scrollX": 460.04380798339844,
+		"scrollY": 332.9954374667731,
 		"zoom": {
-			"value": 2
+			"value": 1.6
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

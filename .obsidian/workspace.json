@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/CS/Assembly.md",
+                "file": "School studies/CS/Hardware.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "0236855ff9b07104",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://sim8085.com"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50418853759766,
-    "collapsed": true
+    "width": 226.50418853759766
   },
   "right": {
     "id": "d967d98868519a35",
@@ -114,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Assembly.md",
+                "file": "School studies/CS/Hardware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Assembly.md",
+                "file": "School studies/CS/Hardware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/CS/Assembly.md"
+                "file": "School studies/CS/Hardware.md"
               }
             }
           },
@@ -200,7 +188,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/CS/Assembly.md"
+                "file": "School studies/CS/Hardware.md"
               }
             }
           },
@@ -247,11 +235,31 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0236855ff9b07104",
+  "active": "95af7bbe2d69b976",
   "lastOpenFiles": [
+    "Excalidraw/hdd-ssd.excalidraw.md",
+    "Excalidraw/Untitled.canvas",
+    "Excalidraw/SQL.excalidraw.md",
+    "Excalidraw/resolving-vectors.excalidraw.md",
+    "Excalidraw/procedure.excalidraw.md",
+    "Excalidraw/prescisionoraccuracy.excalidraw.md",
+    "Excalidraw/pizza-of-work.excalidraw.md",
+    "Excalidraw/Pasted Image 20230924013318_717.png",
+    "Excalidraw/Pasted Image 20230901081322_875.png",
+    "Excalidraw/Pasted Image 20230831180415_600.png",
+    "Excalidraw/Memory.excalidraw.md",
+    "Excalidraw/mathquestions.excalidraw.md",
+    "Excalidraw/Hess-Law.excalidraw.md",
+    "Excalidraw/ExcalidrawDrawing 2023-09-01 13.19.23.excalidraw.md",
+    "Excalidraw/englishhomework1_9_23.excalidraw.md",
+    "Excalidraw/elpg158traffic.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-27 20.08.26.excalidraw.md",
+    "Excalidraw/cs-hw-gdhjksl.excalidraw.md",
+    "Excalidraw/client-server-architecture.md",
+    "Excalidraw/chem questions.excalidraw.md",
     "School studies/CS/Assembly.md",
     "School studies/CS/Datatypes.md",
-    "Excalidraw/SQL.excalidraw.md",
     "readme.md",
     "School studies/CS/Hardware.md",
     "School studies/CS/Cambridge International AS and A Levels Computer Science.pdf",
@@ -261,41 +269,20 @@
     "School studies/English Language El/SP Q.md",
     "School studies/English Language El/Pg 190 'Skin Deep'.md",
     "School studies/Semester Portion.md",
-    "Excalidraw/hdd-ssd.excalidraw.md",
-    "Excalidraw/Memory.excalidraw.md",
-    "newsletter/Issue 4.md",
-    "newsletter/newsletter issue 3 articles.md",
-    "conflict-files-obsidian-git.md",
-    "School studies/physics notes/Physics flashcards.md",
-    "Physics stuff from past papers.md",
-    "Excalidraw/chem questions.excalidraw.md",
     "Excalidraw/Pasted image 20231006193704.png",
-    "School studies/CS/networking/1,Networking.md",
-    "School studies/CS/Data representation.md",
-    "School studies/CS/networking/2,Networking Worksheet.md",
-    "School studies/CS/Datatypes and structures.md",
     "School studies/physics notes/physics-maths-tutor/5work_energy_power.pdf",
-    "School studies/CS/Pseudocode.md",
     "School studies/physics notes/physics-maths-tutor/2kinematics.pdf",
     "School studies/physics notes/physics-maths-tutor/1physical_quantities.pdf",
-    "School studies/physics notes/Physics revision.md",
-    "School studies/physics notes/Physical Quantities.md",
-    "School studies/physics notes/Force, Pressure & Density.md",
-    "School studies/CS/Flowcharts.md",
     "School studies/CS/Logic gates practice.canvas",
     "School studies/CS/Logic gates.canvas",
     "School studies/Chem notes/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
     "School studies/Chem notes/Organic chem.canvas",
     "School studies/English Language El/EL modified.pdf",
-    "Excalidraw/Pasted Image 20230831180415_600.png",
-    "Excalidraw/Pasted Image 20230901081322_875.png",
-    "Excalidraw/Pasted Image 20230924013318_717.png",
     "Excalidraw/Pasted Image 20230926184628_505.png",
     "Excalidraw/Pasted Image 20231006130523_896.png",
     "Excalidraw/Pasted image 20231004132316.png",
     "Excalidraw/Pasted image 20231006130553.png",
     "Excalidraw/Pasted image 20231006130609.png",
-    "Excalidraw/Untitled.canvas",
     "archive",
     "PG 180 task a",
     "Excalidraw/Recording 20230914110755.webm",
