@@ -16,6 +16,7 @@
 	8. Articles
 		1.  A (indefinite)
 		2. The (definite)
+	9. Clauses in phrases 
 2. Sentence Types
 	1. Simple sentence
 		0. Subject + Verb + Complete idea
@@ -23,4 +24,4 @@
 		0. Just 2 simple sentences joined together
 	3. Complex sentences
 		0. Subject + Verb + Simple Sentence 
-	
+Pick 
