@@ -14,8 +14,22 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "668344f77bcd5dd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EL Last minute guide.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "EL Last minute guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "EL Last minute guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "EL Last minute guide.md"
+              }
             }
           },
           {
@@ -178,7 +196,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "EL Last minute guide.md"
+              }
             }
           },
           {
@@ -224,8 +244,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "95af7bbe2d69b976",
+  "active": "668344f77bcd5dd3",
   "lastOpenFiles": [
+    "EL Last minute guide.md",
     "School studies/CS/Programming.md",
     "School studies/CS/Pseudocode.md",
     "School studies/CS/Datatypes.md",
@@ -259,7 +280,6 @@
     "Excalidraw/Pasted Image 20230924013318_717.png",
     "Excalidraw/Pasted Image 20230901081322_875.png",
     "Excalidraw/Pasted Image 20230831180415_600.png",
-    "Excalidraw/Memory.excalidraw.md",
     "School studies/CS/Cambridge International AS and A Levels Computer Science.pdf",
     "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf",
     "Excalidraw/Pasted image 20231219192124.png",
