@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "95af7bbe2d69b976",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "668344f77bcd5dd3",
             "type": "leaf",
             "state": {
@@ -28,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,8 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,6 +236,7 @@
   },
   "active": "668344f77bcd5dd3",
   "lastOpenFiles": [
+    "obsidian format/Obsidian-formatting.md",
     "EL Last minute guide.md",
     "School studies/CS/Programming.md",
     "School studies/CS/Pseudocode.md",
@@ -276,7 +267,6 @@
     "Excalidraw/resolving-vectors.excalidraw.md",
     "Excalidraw/procedure.excalidraw.md",
     "Excalidraw/prescisionoraccuracy.excalidraw.md",
-    "Excalidraw/pizza-of-work.excalidraw.md",
     "Excalidraw/Pasted Image 20230924013318_717.png",
     "Excalidraw/Pasted Image 20230901081322_875.png",
     "Excalidraw/Pasted Image 20230831180415_600.png",

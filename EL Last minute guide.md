@@ -49,3 +49,7 @@
 		give evidence for what you chose
 ## *E*xplaination
 		explain the reason why the writer wrote that exact point
+## No PEE = No Marks
+>[!tip] ***∴ PEE = Marks***
+
+
