@@ -53,3 +53,16 @@
 >[!tip] ***∴ PEE = Marks***
 
 
+
+# Language
+###### Alliteration: this feature uses the first letter of the words in a continuous sentence to create an effect.
+###### Simile: this feature compares two objects to each other using the words “as” or “like”
+###### Metaphor: this feature is used to describe something, without comparing them with “as” or like”.
+###### Hyperbole: we can also call this exaggeration. Quite obviously, this feature is used to describe something in quite an exaggerated manner in order to create effects in writing. 
+###### Rhetorical questions: This is an extremely useful feature in order to keep the reader engrossed in your writings. Often, they will also help the reader think about the matter at hand.
+###### Juxtaposition: placing two contrasting words together to describe or compare a situation.
+###### Onomatopoeia: words that create “sound imagery” in your writings.
+###### Irony: language used in a way to mean the opposite of what is said.
+###### Euphemism: using a “polite” term in use of something “vulgar”, that could create extreme feelings in a person.
+###### Repetition: repeating a word a couple of times in a sentence to enforce an idea.
+###### 
