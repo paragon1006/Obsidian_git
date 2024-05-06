@@ -210,12 +210,11 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 680.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,8 +235,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "24103091b2b25571",
+  "active": "322c528cb7f7b225",
   "lastOpenFiles": [
+    "School studies/CS/past papers/9618_w23_qp_12.pdf",
+    "School studies/CS/past papers/9618_w23_qp_11.pdf",
+    "School studies/CS/past papers/9618_w21_qp_13.pdf",
+    "School studies/CS/past papers/9618_w21_qp_12.pdf",
+    "School studies/CS/past papers/9618_w21_qp_11.pdf",
+    "School studies/CS/past papers/9618_s23_qp_13.pdf",
+    "School studies/CS/past papers/9618_s23_qp_12.pdf",
+    "School studies/CS/past papers/9618_s23_qp_11.pdf",
+    "School studies/CS/past papers/9618_s22_qp_13.pdf",
+    "School studies/CS/past papers/9618_s22_qp_12.pdf",
+    "School studies/CS/past papers/9618_s22_qp_11.pdf",
     "readme.md",
     "CS Board prep.md",
     "School studies/English Language El/Untitled.md",
@@ -257,37 +267,26 @@
     "School studies/CS/Logic gates practice.canvas",
     "School studies/CS/networking/2,Networking Worksheet.md",
     "School studies/CS/networking/1,Networking.md",
-    "School studies/English Language El/EL modified.pdf",
     "School studies/Notes websites.md",
     "School studies/PG 169 Q1.md",
     "School studies/Semester Portion.md",
     "School studies/physics notes/Physics stuff from past papers.md",
     "School studies/physics notes/1.Physics.readme.md",
-    "School studies/physics notes/physics-maths-tutor/1physical_quantities.pdf",
     "School studies/Chem notes/1.Chemistry.readme.md",
     "Excalidraw/hdd-ssd.excalidraw.md",
     "Excalidraw/Untitled.canvas",
     "Excalidraw/SQL.excalidraw.md",
-    "Excalidraw/resolving-vectors.excalidraw.md",
     "Excalidraw/Pasted Image 20230924013318_717.png",
     "Excalidraw/Pasted Image 20230901081322_875.png",
     "Excalidraw/Pasted Image 20230831180415_600.png",
-    "School studies/CS/Cambridge International AS and A Levels Computer Science.pdf",
-    "School studies/CS/Cambridge International AS and A Level Computer Science Coursebook.pdf",
     "Excalidraw/Pasted image 20231219192124.png",
     "Excalidraw/Pasted image 20231006193704.png",
-    "School studies/physics notes/physics-maths-tutor/5work_energy_power.pdf",
-    "School studies/physics notes/physics-maths-tutor/2kinematics.pdf",
-    "School studies/Chem notes/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
     "School studies/Chem notes/Organic chem.canvas",
     "Excalidraw/Pasted Image 20230926184628_505.png",
     "Excalidraw/Pasted Image 20231006130523_896.png",
     "Excalidraw/Pasted image 20231004132316.png",
     "Excalidraw/Pasted image 20231006130553.png",
     "Excalidraw/Pasted image 20231006130609.png",
-    "archive",
-    "PG 180 task a",
-    "Excalidraw/Recording 20230914110755.webm",
     "School studies/Chem notes/Untitled.canvas",
     "Chem notes/Organic chem.canvas"
   ]
