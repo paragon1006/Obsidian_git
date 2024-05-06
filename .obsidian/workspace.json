@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "668344f77bcd5dd3",
+            "id": "24103091b2b25571",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EL Last minute guide.md",
+                "file": "CS Board prep.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50418853759766
+    "width": 226.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "d967d98868519a35",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EL Last minute guide.md",
+                "file": "CS Board prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EL Last minute guide.md",
+                "file": "CS Board prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EL Last minute guide.md"
+                "file": "CS Board prep.md"
               }
             }
           },
@@ -188,7 +189,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "EL Last minute guide.md"
+                "file": "CS Board prep.md"
               }
             }
           },
@@ -235,10 +236,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "668344f77bcd5dd3",
+  "active": "24103091b2b25571",
   "lastOpenFiles": [
+    "readme.md",
+    "CS Board prep.md",
+    "School studies/English Language El/Untitled.md",
+    "School studies/English Language El/EL Last minute guide.md",
+    "Ignite.md",
+    "Ascii symbols.md",
+    "'Elaborate coping mechanisms'.md",
+    "School studies/Chem notes/Chem stuff from past papers.md",
     "obsidian format/Obsidian-formatting.md",
-    "EL Last minute guide.md",
     "School studies/CS/Programming.md",
     "School studies/CS/Pseudocode.md",
     "School studies/CS/Datatypes.md",
@@ -253,12 +261,7 @@
     "School studies/Notes websites.md",
     "School studies/PG 169 Q1.md",
     "School studies/Semester Portion.md",
-    "'Elaborate coping mechanisms'.md",
-    "Ascii symbols.md",
-    "Chem stuff from past papers.md",
-    "Physics stuff from past papers.md",
-    "Ignite.md",
-    "readme.md",
+    "School studies/physics notes/Physics stuff from past papers.md",
     "School studies/physics notes/1.Physics.readme.md",
     "School studies/physics notes/physics-maths-tutor/1physical_quantities.pdf",
     "School studies/Chem notes/1.Chemistry.readme.md",
@@ -266,8 +269,6 @@
     "Excalidraw/Untitled.canvas",
     "Excalidraw/SQL.excalidraw.md",
     "Excalidraw/resolving-vectors.excalidraw.md",
-    "Excalidraw/procedure.excalidraw.md",
-    "Excalidraw/prescisionoraccuracy.excalidraw.md",
     "Excalidraw/Pasted Image 20230924013318_717.png",
     "Excalidraw/Pasted Image 20230901081322_875.png",
     "Excalidraw/Pasted Image 20230831180415_600.png",
