@@ -11,12 +11,9 @@
             "id": "24103091b2b25571",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CS Board prep.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "School studies/CS/past papers/9618_s22_qp_12.pdf"
               }
             }
           }
@@ -78,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50418853759766,
-    "collapsed": true
+    "width": 226.50418853759766
   },
   "right": {
     "id": "d967d98868519a35",
@@ -103,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS Board prep.md",
+                "file": "School studies/CS/past papers/9618_s22_qp_12.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS Board prep.md",
+                "file": "School studies/CS/past papers/9618_s22_qp_12.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS Board prep.md"
+                "file": "School studies/CS/past papers/9618_s22_qp_12.pdf"
               }
             }
           },
@@ -189,7 +185,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CS Board prep.md"
+                "file": "School studies/CS/past papers/9618_s22_qp_12.pdf"
               }
             }
           },
@@ -214,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 680.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,21 +232,21 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "322c528cb7f7b225",
+  "active": "24103091b2b25571",
   "lastOpenFiles": [
-    "School studies/CS/past papers/9618_w23_qp_12.pdf",
+    "School studies/CS/past papers/9618_s22_qp_11.pdf",
     "School studies/CS/past papers/9618_w23_qp_11.pdf",
     "School studies/CS/past papers/9618_w21_qp_13.pdf",
     "School studies/CS/past papers/9618_w21_qp_12.pdf",
+    "School studies/CS/past papers/9618_s22_qp_12.pdf",
+    "School studies/CS/past papers/9618_s21_qp_13.pdf",
+    "School studies/CS/past papers/9618_s21_qp_12.pdf",
     "School studies/CS/past papers/9618_w21_qp_11.pdf",
+    "CS Board prep.md",
+    "School studies/CS/past papers/9618_w23_qp_12.pdf",
     "School studies/CS/past papers/9618_s23_qp_13.pdf",
     "School studies/CS/past papers/9618_s23_qp_12.pdf",
-    "School studies/CS/past papers/9618_s23_qp_11.pdf",
-    "School studies/CS/past papers/9618_s22_qp_13.pdf",
-    "School studies/CS/past papers/9618_s22_qp_12.pdf",
-    "School studies/CS/past papers/9618_s22_qp_11.pdf",
     "readme.md",
-    "CS Board prep.md",
     "School studies/English Language El/Untitled.md",
     "School studies/English Language El/EL Last minute guide.md",
     "Ignite.md",
