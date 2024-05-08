@@ -11,9 +11,12 @@
             "id": "24103091b2b25571",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "School studies/CS/past papers/9618_s22_qp_12.pdf"
+                "file": "School studies/CS/Hardware.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -99,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/past papers/9618_s22_qp_12.pdf",
+                "file": "School studies/CS/Hardware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/past papers/9618_s22_qp_12.pdf",
+                "file": "School studies/CS/Hardware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/CS/past papers/9618_s22_qp_12.pdf"
+                "file": "School studies/CS/Hardware.md"
               }
             }
           },
@@ -185,7 +188,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/CS/past papers/9618_s22_qp_12.pdf"
+                "file": "School studies/CS/Hardware.md"
               }
             }
           },
@@ -234,18 +237,21 @@
   },
   "active": "24103091b2b25571",
   "lastOpenFiles": [
+    "School studies/CS/Programming.md",
+    "School studies/CS/questions.md",
+    "School studies/CS/networking/1,Networking.md",
+    "School studies/CS/networking/2,Networking Worksheet.md",
+    "School studies/CS/past papers/9618_s22_qp_12.pdf",
     "School studies/CS/past papers/9618_s22_qp_11.pdf",
     "School studies/CS/past papers/9618_w23_qp_11.pdf",
     "School studies/CS/past papers/9618_w21_qp_13.pdf",
     "School studies/CS/past papers/9618_w21_qp_12.pdf",
-    "School studies/CS/past papers/9618_s22_qp_12.pdf",
     "School studies/CS/past papers/9618_s21_qp_13.pdf",
     "School studies/CS/past papers/9618_s21_qp_12.pdf",
     "School studies/CS/past papers/9618_w21_qp_11.pdf",
     "CS Board prep.md",
     "School studies/CS/past papers/9618_w23_qp_12.pdf",
     "School studies/CS/past papers/9618_s23_qp_13.pdf",
-    "School studies/CS/past papers/9618_s23_qp_12.pdf",
     "readme.md",
     "School studies/English Language El/Untitled.md",
     "School studies/English Language El/EL Last minute guide.md",
@@ -254,7 +260,6 @@
     "'Elaborate coping mechanisms'.md",
     "School studies/Chem notes/Chem stuff from past papers.md",
     "obsidian format/Obsidian-formatting.md",
-    "School studies/CS/Programming.md",
     "School studies/CS/Pseudocode.md",
     "School studies/CS/Datatypes.md",
     "School studies/CS/Datatypes and structures.md",
@@ -262,8 +267,6 @@
     "School studies/CS/Hardware.md",
     "School studies/CS/Logic gates.canvas",
     "School studies/CS/Logic gates practice.canvas",
-    "School studies/CS/networking/2,Networking Worksheet.md",
-    "School studies/CS/networking/1,Networking.md",
     "School studies/Notes websites.md",
     "School studies/PG 169 Q1.md",
     "School studies/Semester Portion.md",
