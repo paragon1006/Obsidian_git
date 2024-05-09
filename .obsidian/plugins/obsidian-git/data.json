@@ -51,5 +51,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "vault backup: {{date}}\n{{numFiles}}"
+  "autoCommitMessage": "file update: {{date}}\n{{numFiles}}"
 }
