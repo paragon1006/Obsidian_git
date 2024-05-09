@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "School studies/CS/networking/2,Networking Worksheet.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -24,13 +24,17 @@
             "id": "7b668d6834c478a0",
             "type": "leaf",
             "state": {
-              "type": "surfing-view",
+              "type": "markdown",
               "state": {
-                "url": "https://help.obsidian.md/Editing+and+formatting/Advanced+formatting+syntax"
+                "file": "School studies/Chem notes/Chem stuff from past papers.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/networking/2,Networking Worksheet.md",
+                "file": "School studies/Chem notes/Chem stuff from past papers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/networking/2,Networking Worksheet.md",
+                "file": "School studies/Chem notes/Chem stuff from past papers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/CS/networking/2,Networking Worksheet.md"
+                "file": "School studies/Chem notes/Chem stuff from past papers.md"
               }
             }
           },
@@ -198,7 +202,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/CS/networking/2,Networking Worksheet.md"
+                "file": "School studies/Chem notes/Chem stuff from past papers.md"
               }
             }
           },
@@ -244,10 +248,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "61724a5b2af7a780",
+  "active": "7b668d6834c478a0",
   "lastOpenFiles": [
-    "Daily tasks format.md",
+    "School studies/Chem notes/Organic chem.canvas",
+    "School studies/Chem notes/States of matter.md",
+    "School studies/Chem notes/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
+    "School studies/Chem notes/1.Chemistry.readme.md",
+    "School studies/Chem notes/Organic Chemistry.md",
+    "School studies/Chem notes/Enthalpy.md",
     "School studies/CS/networking/2,Networking Worksheet.md",
+    "Daily tasks format.md",
     "CS Board prep.md",
     "readme.md",
     "obsidian format/Obsidian-formatting.md",
@@ -265,7 +275,6 @@
     "School studies/CS/past papers/9618_s21_qp_12.pdf",
     "School studies/CS/past papers/9618_w21_qp_11.pdf",
     "School studies/CS/past papers/9618_w23_qp_12.pdf",
-    "School studies/CS/past papers/9618_s23_qp_13.pdf",
     "School studies/English Language El/Untitled.md",
     "School studies/English Language El/EL Last minute guide.md",
     "Ignite.md",
@@ -279,18 +288,12 @@
     "School studies/CS/Logic gates.canvas",
     "School studies/CS/Logic gates practice.canvas",
     "School studies/Notes websites.md",
-    "School studies/PG 169 Q1.md",
-    "School studies/Semester Portion.md",
-    "School studies/physics notes/Physics stuff from past papers.md",
-    "School studies/physics notes/1.Physics.readme.md",
-    "School studies/Chem notes/1.Chemistry.readme.md",
     "Excalidraw/Untitled.canvas",
     "Excalidraw/Pasted Image 20230924013318_717.png",
     "Excalidraw/Pasted Image 20230901081322_875.png",
     "Excalidraw/Pasted Image 20230831180415_600.png",
     "Excalidraw/Pasted image 20231219192124.png",
     "Excalidraw/Pasted image 20231006193704.png",
-    "School studies/Chem notes/Organic chem.canvas",
     "Excalidraw/Pasted Image 20230926184628_505.png",
     "Excalidraw/Pasted Image 20231006130523_896.png",
     "Excalidraw/Pasted image 20231004132316.png",

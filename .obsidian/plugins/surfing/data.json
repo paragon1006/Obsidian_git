@@ -54,6 +54,17 @@
         "fileSize": "",
         "icon": {}
       }
+    },
+    {
+      "id": "0a5aee1b25f80014",
+      "parent": 0,
+      "droppable": true,
+      "text": "Introduction - Templater",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
     }
   ]
 }
