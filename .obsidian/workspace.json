@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily tasks format.md",
+                "file": "School studies/CS/networking/2,Networking Worksheet.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily tasks format.md",
+                "file": "School studies/CS/networking/2,Networking Worksheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily tasks format.md",
+                "file": "School studies/CS/networking/2,Networking Worksheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily tasks format.md"
+                "file": "School studies/CS/networking/2,Networking Worksheet.md"
               }
             }
           },
@@ -198,7 +198,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily tasks format.md"
+                "file": "School studies/CS/networking/2,Networking Worksheet.md"
               }
             }
           },
@@ -246,9 +246,9 @@
   },
   "active": "61724a5b2af7a780",
   "lastOpenFiles": [
+    "Daily tasks format.md",
     "School studies/CS/networking/2,Networking Worksheet.md",
     "CS Board prep.md",
-    "Daily tasks format.md",
     "readme.md",
     "obsidian format/Obsidian-formatting.md",
     "School studies/CS/Hardware.md",
