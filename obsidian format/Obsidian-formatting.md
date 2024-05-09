@@ -145,10 +145,10 @@ t1 | t2
 t3 | t4
 ```
 
-First Column | Second Column
--- | --
-t1 | t2
-t3 | t4
+| First Column | Second Column |
+| ------------ | ------------- |
+| t1           | t2            |
+| t3           | t4            |
 
 ```md
 Left-aligned text | Center-aligned text | Right-aligned text
