@@ -5,11 +5,11 @@ Tags: #cs #pseudocode #code
 it refers to name, assigned to a memory location that would allow to store data and process accordingly.
 ### Memory locations
 
-Address|Value
--- | --
-ax101 | 10
-bx102 | 20
-cx103 | 30
+| Address | Value |
+| ------- | ----- |
+| ax101   | 10    |
+| bx102   | 20    |
+| cx103   | 30    |
 
 a = 10
 b = 20
