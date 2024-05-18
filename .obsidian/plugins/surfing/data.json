@@ -43,28 +43,5 @@
     ],
     "defaultFilterType": "menu"
   },
-  "treeData": [
-    {
-      "id": "7b668d6834c478a0",
-      "parent": 0,
-      "droppable": true,
-      "text": "Home - Obsidian Help",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "0a5aee1b25f80014",
-      "parent": 0,
-      "droppable": true,
-      "text": "Introduction - Templater",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ]
+  "treeData": []
 }

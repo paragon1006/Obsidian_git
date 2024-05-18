@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/Chem notes/Chem stuff from past papers.md",
+                "file": "School studies/CS/Programming.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.50418853759766
+    "width": 226.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "d967d98868519a35",
@@ -116,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/Chem notes/Chem stuff from past papers.md",
+                "file": "School studies/CS/Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/Chem notes/Chem stuff from past papers.md",
+                "file": "School studies/CS/Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/Chem notes/Chem stuff from past papers.md"
+                "file": "School studies/CS/Programming.md"
               }
             }
           },
@@ -202,7 +203,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/Chem notes/Chem stuff from past papers.md"
+                "file": "School studies/CS/Programming.md"
               }
             }
           },
@@ -227,7 +228,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,6 +252,8 @@
   },
   "active": "7b668d6834c478a0",
   "lastOpenFiles": [
+    "School studies/CS/Programming.md",
+    "School studies/Chem notes/Chem stuff from past papers.md",
     "School studies/Chem notes/Organic chem.canvas",
     "School studies/Chem notes/States of matter.md",
     "School studies/Chem notes/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
@@ -263,7 +267,6 @@
     "obsidian format/Obsidian-formatting.md",
     "School studies/CS/Hardware.md",
     "School studies/CS/Untitled.md",
-    "School studies/CS/Programming.md",
     "School studies/CS/questions.md",
     "School studies/CS/networking/1,Networking.md",
     "School studies/CS/past papers/9618_s22_qp_12.pdf",
@@ -280,7 +283,6 @@
     "Ignite.md",
     "Ascii symbols.md",
     "'Elaborate coping mechanisms'.md",
-    "School studies/Chem notes/Chem stuff from past papers.md",
     "School studies/CS/Pseudocode.md",
     "School studies/CS/Datatypes.md",
     "School studies/CS/Datatypes and structures.md",
