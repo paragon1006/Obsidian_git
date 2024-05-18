@@ -27,7 +27,7 @@ print(a)
 ### Datatypes:
 **INTEGER**:  a = 10
 **REAL**:  a = 10.5
-**STRING**:  a = 10.5
+**STRING**:  a = "10.5"
 **CHAR**:  a = "abc"
 **BOOLEAN**:  a = TRUE
 
