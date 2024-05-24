@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/CS/networking/2,Networking Worksheet.md",
+                "file": "School studies/CS/Programming.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Pseudocode.md",
+                "file": "School studies/CS/Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Pseudocode.md",
+                "file": "School studies/CS/Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/CS/Pseudocode.md"
+                "file": "School studies/CS/Programming.md"
               }
             }
           },
@@ -202,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/CS/Pseudocode.md"
+                "file": "School studies/CS/Programming.md"
               }
             }
           },
@@ -249,9 +248,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7b668d6834c478a0",
+  "active": "61724a5b2af7a780",
   "lastOpenFiles": [
+    "School studies/CS/Pseudocode.md",
     "School studies/CS/Programming.md",
+    "School studies/CS/networking/2,Networking Worksheet.md",
     "School studies/Chem notes/Chem stuff from past papers.md",
     "School studies/Chem notes/Organic chem.canvas",
     "School studies/Chem notes/States of matter.md",
@@ -259,7 +260,6 @@
     "School studies/Chem notes/1.Chemistry.readme.md",
     "School studies/Chem notes/Organic Chemistry.md",
     "School studies/Chem notes/Enthalpy.md",
-    "School studies/CS/networking/2,Networking Worksheet.md",
     "Daily tasks format.md",
     "CS Board prep.md",
     "readme.md",
@@ -282,7 +282,6 @@
     "Ignite.md",
     "Ascii symbols.md",
     "'Elaborate coping mechanisms'.md",
-    "School studies/CS/Pseudocode.md",
     "School studies/CS/Datatypes.md",
     "School studies/CS/Datatypes and structures.md",
     "School studies/CS/Flowcharts.md",
