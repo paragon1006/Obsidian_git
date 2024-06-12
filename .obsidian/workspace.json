@@ -13,51 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
                 "file": "School studies/Chemistry/Benzene and its compunds.md",
                 "mode": "source",
-=======
-                "file": "School studies/A LEVEL/CS/Data Representation.md",
-                "mode": "preview",
->>>>>>> origin/main
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
-<<<<<<< HEAD
-=======
-          },
-          {
-            "id": "91632c8d83fad4a5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "School studies/A LEVEL/CS/course Cambridge International AS and A Level Computer Science Coursebook.pdf"
-              }
-            }
-          },
-          {
-            "id": "6b91e32017643d00",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-06-12 09.43.47.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "2ef11458468d56ce",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
->>>>>>> origin/main
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -271,23 +234,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-<<<<<<< HEAD
-  "active": "322c528cb7f7b225",
+  "active": "9642703f31998b97",
   "lastOpenFiles": [
-=======
-  "active": "2ef11458468d56ce",
-  "lastOpenFiles": [
-    "School studies/A LEVEL/CS/Data Representation.md",
-    "Excalidraw/Drawing 2024-06-12 09.43.47.excalidraw.md",
-    "School studies/A LEVEL/CS/course Cambridge International AS and A Level Computer Science Coursebook.pdf",
-    "School studies/A LEVEL/CS/text Cambridge International AS and A Levels Computer Science.pdf",
-    "obsidian format/Obsidian-formatting.md",
-    "obsidian format/Ascii symbols.md",
-    "School studies/A LEVEL/Chemistry/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
-    "School studies/A LEVEL/Chemistry/Benzene and its compunds.md",
->>>>>>> origin/main
-    "Excalidraw/chloro benzene.excalidraw.md",
+    "conflict-files-obsidian-git.md",
     "School studies/Chemistry/Benzene and its compunds.md",
+    "Excalidraw/Drawing 2024-06-12 09.43.47.excalidraw.md",
+    "Excalidraw/chloro benzene.excalidraw.md",
     "Excalidraw/phenylheptane.excalidraw.md",
     "School studies/Chemistry/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
     "Excalidraw/benzene.png",
@@ -298,7 +250,6 @@
     "Excalidraw/Screenshot 2023-07-24 044228.png",
     "School studies/CS/Data Representation.md",
     "School studies/CS/course Cambridge International AS and A Level Computer Science Coursebook.pdf",
-    "Excalidraw/Drawing 2024-06-12 09.43.47.excalidraw.md",
     "School studies/A LEVEL/CS/text Cambridge International AS and A Levels Computer Science.pdf",
     "obsidian format/Obsidian-formatting.md",
     "obsidian format/Ascii symbols.md",
@@ -325,7 +276,6 @@
     "Excalidraw/client-server-architecture.md",
     "Excalidraw/chem questions.excalidraw.md",
     "Excalidraw/procedure.excalidraw.md",
-    "Excalidraw/resolving-vectors.excalidraw.md",
     "Excalidraw/Untitled.canvas",
     "School studies/CS",
     "School studies/Math",
