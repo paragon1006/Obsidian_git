@@ -4,36 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "ed409720bba95378",
+        "id": "6a6f58fd97e8ca86",
         "type": "tabs",
         "children": [
           {
-            "id": "61724a5b2af7a780",
+            "id": "9cb78ba735eb1303",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/CS/Programming.md",
-                "mode": "preview",
+                "file": "Ascii symbols.md",
+                "mode": "source",
                 "backlinks": true,
-                "source": true
-              }
+                "source": false
+              },
+              "pinned": true
             }
           },
           {
-            "id": "7b668d6834c478a0",
+            "id": "21b8e1af46630fa6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School studies/CS/Pseudocode.md",
+                "file": "School studies/A LEVEL/CS/Data representation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/CS/Programming.md",
+                "file": "School studies/A LEVEL/CS/Data representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/CS/Programming.md",
+                "file": "School studies/A LEVEL/CS/Data representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School studies/CS/Programming.md"
+                "file": "School studies/A LEVEL/CS/Data representation.md"
               }
             }
           },
@@ -201,7 +204,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "School studies/CS/Programming.md"
+                "file": "School studies/A LEVEL/CS/Data representation.md"
               }
             }
           },
@@ -248,57 +251,58 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "61724a5b2af7a780",
+  "active": "21b8e1af46630fa6",
   "lastOpenFiles": [
-    "School studies/CS/Pseudocode.md",
-    "School studies/CS/Programming.md",
-    "School studies/CS/networking/2,Networking Worksheet.md",
-    "School studies/Chem notes/Chem stuff from past papers.md",
-    "School studies/Chem notes/Organic chem.canvas",
-    "School studies/Chem notes/States of matter.md",
-    "School studies/Chem notes/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
-    "School studies/Chem notes/1.Chemistry.readme.md",
-    "School studies/Chem notes/Organic Chemistry.md",
-    "School studies/Chem notes/Enthalpy.md",
-    "Daily tasks format.md",
-    "CS Board prep.md",
-    "readme.md",
-    "obsidian format/Obsidian-formatting.md",
-    "School studies/CS/Hardware.md",
-    "School studies/CS/Untitled.md",
-    "School studies/CS/questions.md",
-    "School studies/CS/networking/1,Networking.md",
-    "School studies/CS/past papers/9618_s22_qp_12.pdf",
-    "School studies/CS/past papers/9618_s22_qp_11.pdf",
-    "School studies/CS/past papers/9618_w23_qp_11.pdf",
-    "School studies/CS/past papers/9618_w21_qp_13.pdf",
-    "School studies/CS/past papers/9618_w21_qp_12.pdf",
-    "School studies/CS/past papers/9618_s21_qp_13.pdf",
-    "School studies/CS/past papers/9618_s21_qp_12.pdf",
-    "School studies/CS/past papers/9618_w21_qp_11.pdf",
-    "School studies/CS/past papers/9618_w23_qp_12.pdf",
-    "School studies/English Language El/Untitled.md",
-    "School studies/English Language El/EL Last minute guide.md",
-    "Ignite.md",
     "Ascii symbols.md",
-    "'Elaborate coping mechanisms'.md",
-    "School studies/CS/Datatypes.md",
-    "School studies/CS/Datatypes and structures.md",
-    "School studies/CS/Flowcharts.md",
-    "School studies/CS/Logic gates.canvas",
-    "School studies/CS/Logic gates practice.canvas",
-    "School studies/Notes websites.md",
-    "Excalidraw/Untitled.canvas",
-    "Excalidraw/Pasted Image 20230924013318_717.png",
-    "Excalidraw/Pasted Image 20230901081322_875.png",
-    "Excalidraw/Pasted Image 20230831180415_600.png",
+    "School studies/A LEVEL/CS/Data representation.md",
+    "School studies/AS LEVEL/Chem notes/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
+    "School studies/A LEVEL/Chemistry/Benzene and its compunds.md",
+    "Excalidraw/chloro benzene.excalidraw.md",
+    "Excalidraw/Pasted Image 20240612074936_687.png",
+    "Excalidraw/Pasted Image 20240612074905_751.png",
+    "Excalidraw/Pasted Image 20240612074302_703.png",
+    "Excalidraw/benzeneroughlydrawn.excalidraw.md",
+    "Excalidraw/benzenesigmapi.excalidraw.md",
+    "School studies/AS LEVEL/Chem notes/Pasted image 20230724044538.png",
+    "School studies/AS LEVEL/Chem notes/Drawing 2024-06-12 07.25.39.excalidraw.md",
+    "School studies/AS LEVEL/Chem notes/Screenshot 2023-07-24 044228.png",
+    "Excalidraw/prescisionoraccuracy.excalidraw.md",
+    "Excalidraw/pizza-of-work.excalidraw.md",
+    "Excalidraw/pg187pageant.excalidraw.md",
     "Excalidraw/Pasted image 20231219192124.png",
     "Excalidraw/Pasted image 20231006193704.png",
-    "Excalidraw/Pasted Image 20230926184628_505.png",
-    "Excalidraw/Pasted Image 20231006130523_896.png",
-    "Excalidraw/Pasted image 20231004132316.png",
-    "Excalidraw/Pasted image 20231006130553.png",
-    "Excalidraw/Pasted image 20231006130609.png",
+    "Excalidraw/Pasted image 20231006130751.png",
+    "Excalidraw/Pasted image 20231006130730.png",
+    "Excalidraw/Pasted image 20231006130655.png",
+    "School studies/AS LEVEL/Chem notes/Organic chem.canvas",
+    "School studies/AS LEVEL/Chem notes/Enthalpy.md",
+    "School studies/AS LEVEL/Chem notes/Chem stuff from past papers.md",
+    "School studies/AS LEVEL/Chem notes/1.Chemistry.readme.md",
+    "Excalidraw/ExcalidrawDrawing 2023-09-01 13.19.23.excalidraw.md",
+    "Excalidraw/englishhomework1_9_23.excalidraw.md",
+    "Excalidraw/elpg158traffic.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-01 13.19.23.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-27 20.08.26.excalidraw.md",
+    "Excalidraw/cs-hw-gdhjksl.excalidraw.md",
+    "Excalidraw/client-server-architecture.md",
+    "Excalidraw/chem questions.excalidraw.md",
+    "Excalidraw/procedure.excalidraw.md",
+    "Excalidraw/resolving-vectors.excalidraw.md",
+    "Excalidraw/SQL.excalidraw.md",
+    "Excalidraw/Untitled.canvas",
+    "School studies/A LEVEL/CS",
+    "School studies/A LEVEL/Math",
+    "School studies/A LEVEL/Physics",
+    "School studies/A LEVEL/Chemistry",
+    "School studies/A LEVEL",
+    "readme.md",
+    "School studies/AS LEVEL/CS/Programming.md",
+    "Untitled 1",
+    "School studies/AS LEVEL",
+    "School studies/AS LEVEL/CS/past papers/9618_s22_qp_12.pdf",
+    "School studies/AS LEVEL/CS/past papers/9618_s22_qp_11.pdf",
+    "School studies/AS LEVEL/CS/Logic gates.canvas",
+    "School studies/AS LEVEL/CS/Logic gates practice.canvas",
     "School studies/Chem notes/Untitled.canvas",
     "Chem notes/Organic chem.canvas"
   ]

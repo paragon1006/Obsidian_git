@@ -14,5 +14,6 @@
   "propertiesInDocument": "hidden",
   "readableLineLength": false,
   "livePreview": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "showUnsupportedFiles": true
 }

@@ -21,6 +21,7 @@ Delta Δ
 Epsilon ε
 Theta θ
 Sigma σ
+Pi π
 #### Physics
 Rho ρ
 Mu µ

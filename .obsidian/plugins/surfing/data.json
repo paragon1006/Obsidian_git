@@ -43,5 +43,28 @@
     ],
     "defaultFilterType": "menu"
   },
-  "treeData": []
+  "treeData": [
+    {
+      "id": "b72259671bb127cc",
+      "parent": 0,
+      "droppable": true,
+      "text": "benzene png at DuckDuckGo",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "85dddc1d3df290ee",
+      "parent": 0,
+      "droppable": true,
+      "text": "benzene03.png (238×273)",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ]
 }
