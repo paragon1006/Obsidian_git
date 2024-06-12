@@ -3,7 +3,7 @@
 > [!tip]- What do datatypes do? 
 > They store the amount and type of data depending on need of programmer
 ``` PSEUDOCODE
-//Example of datatype usage "int"//
+//Example of datatype usage INT//
 DECLARE Num1: INTEGER
 Num1 <-- 1
 ```
