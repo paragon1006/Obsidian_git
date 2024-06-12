@@ -14,9 +14,9 @@
               "type": "markdown",
               "state": {
                 "file": "School studies/A LEVEL/CS/Data Representation.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           },
@@ -26,11 +26,30 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "School studies/A LEVEL/CS/text Cambridge International AS and A Levels Computer Science.pdf"
+                "file": "School studies/A LEVEL/CS/course Cambridge International AS and A Level Computer Science Coursebook.pdf"
               }
             }
+          },
+          {
+            "id": "6b91e32017643d00",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-12 09.43.47.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "2ef11458468d56ce",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -245,13 +264,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "21b8e1af46630fa6",
+  "active": "2ef11458468d56ce",
   "lastOpenFiles": [
-    "School studies/A LEVEL/CS/text Cambridge International AS and A Levels Computer Science.pdf",
     "School studies/A LEVEL/CS/Data Representation.md",
+    "Excalidraw/Drawing 2024-06-12 09.43.47.excalidraw.md",
     "School studies/A LEVEL/CS/course Cambridge International AS and A Level Computer Science Coursebook.pdf",
+    "School studies/A LEVEL/CS/text Cambridge International AS and A Levels Computer Science.pdf",
     "obsidian format/Obsidian-formatting.md",
-    "Ascii symbols.md",
+    "obsidian format/Ascii symbols.md",
     "School studies/A LEVEL/Chemistry/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
     "School studies/A LEVEL/Chemistry/Benzene and its compunds.md",
     "Excalidraw/chloro benzene.excalidraw.md",
