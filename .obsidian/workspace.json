@@ -11,33 +11,16 @@
             "id": "21b8e1af46630fa6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School studies/A LEVEL/CS/Data Representation.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "91632c8d83fad4a5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "School studies/A LEVEL/CS/course Cambridge International AS and A Level Computer Science Coursebook.pdf"
-              }
-            }
-          },
-          {
-            "id": "6b91e32017643d00",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-06-12 09.43.47.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -48,8 +31,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School studies/A LEVEL/CS/Data Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School studies/A LEVEL/CS/Data Representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School studies/A LEVEL/CS/Data Representation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -216,9 +194,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "School studies/A LEVEL/CS/Data Representation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -264,8 +240,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "2ef11458468d56ce",
+  "active": "21b8e1af46630fa6",
   "lastOpenFiles": [
+    "School studies/A LEVEL/CS/course Cambridge International AS and A Level Computer Science Coursebook.pdf",
+    "Excalidraw/Drawing 2024-06-12 09.43.47.excalidraw.md",
+    "School studies/A LEVEL/CS/Data Representation.md",
     "School studies/Chemistry/Cambridge International AS & A Level Chemistry Coursebook with Digital Access (2 Years).pdf",
     "School studies/Chemistry/Benzene and its compunds.md",
     "School studies/Chemistry",
@@ -274,9 +253,6 @@
     "School studies/CS",
     "Excalidraw/phenylheptane.excalidraw.md",
     "Excalidraw/benzene.png",
-    "School studies/A LEVEL/CS/Data Representation.md",
-    "Excalidraw/Drawing 2024-06-12 09.43.47.excalidraw.md",
-    "School studies/A LEVEL/CS/course Cambridge International AS and A Level Computer Science Coursebook.pdf",
     "School studies/A LEVEL/CS/text Cambridge International AS and A Levels Computer Science.pdf",
     "obsidian format/Obsidian-formatting.md",
     "obsidian format/Ascii symbols.md",
@@ -313,7 +289,6 @@
     "School studies/A LEVEL/CS",
     "School studies/A LEVEL/Math",
     "School studies/A LEVEL/Physics",
-    "School studies/A LEVEL/Chemistry",
     "School studies/AS LEVEL/CS/Logic gates.canvas",
     "School studies/AS LEVEL/CS/Logic gates practice.canvas",
     "School studies/Chem notes/Untitled.canvas",
